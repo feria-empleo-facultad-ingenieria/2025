@@ -1,0 +1,297 @@
+companies:
+- siteurl: https://escritorio.aspel.com.mx/webapps/b_trabajo_nuevo.exe/bienv
+  logourl: images/companies/aspel.png
+  name: Aspel
+  carreras: TODAS LAS CARRERAS
+  teaser: Aspel es una empresa 100% mexicana líder en el mercado de software y soluciones administrativas.
+  abstract: Aspel es una empresa 100% mexicana líder en el mercado de software y soluciones administrativas. Automatiza los procesos de las micro, pequeñas y medianas empresas, favoreciendo la correcta toma de decisiones de manera sencilla, eficiente y productiva. Sus Sistemas facilitan el cumplimiento de las obligaciones fiscales electrónicas incluyendo facturación, contabilidad y nómina. 
+  stand: S/A
+  height1: 25px
+  height: 80px
+  column: 1
+
+- siteurl: https://www.aspentech.com/en/careers
+  logourl: images/companies/aspentech.PNG
+  name: Aspentech
+  carreras: TODAS LAS CARRERAS
+  teaser: While our impact on the world is big, we offer many of the advantages of a smaller organization.
+  abstract: While our impact on the world is big, we offer many of the advantages of a smaller organization. Every employee has a real opportunity to make important contributions that directly benefit our customers and drive our success.
+  stand: S/A
+  height1: 30px
+  height: 80px
+  column: 1
+
+- siteurl: http://www.audi.com.mx/carreras
+  logourl: images/companies/audi.png
+  name: Audi
+  carreras: TODAS LAS CARRERAS
+  teaser: Audi offers you a modern work environment with many additional
+  abstract: Audi offers you a modern work environment with many additional, personalized benefits, training and development options, health programs, as well as a support for your personal life and career. We incentivize young people and experienced professionals alike to contribute with their knowledge and skills in a targeted manner. Whether you are looking to start your professional journey, attend a dual university or take the next career step, Audi is a powerful partner, who gives you the flexibility you need for your personal growth.
+  stand: S/A
+  height1: 30px
+  height: 80px
+  column: 1
+
+- siteurl: https://www.banamex.com/gentebanamex/
+  logourl: images/companies/citibanamex.jpg
+  name: Banamex
+  carreras: TODAS LAS CARRERAS
+  teaser: Nuestra prioridad es promover el acceso en igualdad
+  abstract: Nuestra prioridad es promover el acceso en igualdad de términos para ambos géneros al empleo y crecimiento profesional en la empresa, así como a la capacitación y participación en los procesos de toma de decisiones.
+  stand: S/A
+  height1: 40px
+  height: 80px
+  column: 1
+
+- siteurl: http://www.ciadetalentos.com.mx/
+  logourl: images/companies/cia2.jpg
+  name: Cia de Talentos
+  carreras: TODAS LAS CARRERAS
+  teaser: Conectamos a los mejores talentos con las mejores oportunidades
+  abstract: Conectamos a los mejores talentos con las mejores oportunidades, y desarrollamos tanto empresas como personas para que alcancen, todos los días, la mejor versión de sí mismos. El Grupo Cia de Talentos es mucho más que una consultora de selección y desarrollo somos una empresa de educación para la carrera. Creemos en el potencial de todos en cada uno siempre existe un talento capaz de transformar y movilizar a las empresas y a la sociedad. Para eso trabajamos.
+  stand: S/A
+  height1: 40px
+  height: 80px
+  column: 1
+  
+- siteurl: https://jobs2.deloitte.com/mx/es?icid=top_job-search&amp;id=mx
+  logourl: images/companies/deloitte.jpg
+  name: Deloitte
+  carreras: TODAS LAS CARRERAS
+  teaser: Del aprendizaje al liderazgo, esta es tu oportunidad para llevar
+  abstract: ¿Estás preparado para aplicar tus conocimientos y experiencias a desafíos nuevos y emocionantes? Del aprendizaje al liderazgo, esta es tu oportunidad para llevar tu carrera al siguiente nivel. Busca una oferta de empleo e inscríbete hoy.
+  stand: S/A
+  height1: 30px
+  height: 80px
+  column: 1
+
+- siteurl: http://www.dhl.com.mx/es/carreras.html
+  logourl: images/companies/dhl.svg
+  name: DHL
+  carreras: TODAS LAS CARRERAS
+  teaser: Las oportunidades de carreras en Deutsche Post DHL Group son tan diversas como la cantidad de equipos que tenemos en todo el mundo.
+  abstract: Las oportunidades de carreras en Deutsche Post DHL Group son tan diversas como la cantidad de equipos que tenemos en todo el mundo. Conectamos a las personas y mejoramos sus vidas, ya que tenemos más de 550 000 empleados en más de 220 países y territorios.
+  stand: S/A
+  height1: 30px
+  height: 80px
+  column: 1
+
+- siteurl: https://www.emerson.com/es-mx/careers
+  logourl: images/companies/emerson.png
+  name: Emerson
+  carreras: TODAS LAS CARRERAS
+  teaser: Imagínese rodeado de un equipo de personas innovadoras inteligentes, motivadas y apasionadas, todas trabajando para alcanzar la misma meta.
+  abstract: Imagínese rodeado de un equipo de personas innovadoras inteligentes, motivadas y apasionadas, todas trabajando para alcanzar la misma meta, crear soluciones revolucionarias que transformen a nuestro mundo en un lugar mejor que el que conocemos. 
+  stand: S/A
+  height1: 30px
+  height: 80px
+  column: 1
+
+- siteurl: https://www.gm.com.mx/corporativo/empleo_gm/
+  logourl: images/companies/gm2.png
+  name: General Motors
+  carreras: TODAS LAS CARRERAS
+  teaser: Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+  abstract: Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección. Aquí podrás registrarte y aplicar a las oportunidades de empleo disponibles.
+  stand: S/A
+  height1: 30px
+  height: 80px
+  column: 1
+
+- siteurl: http://www.bocar.com.mx/es/reclutamiento
+  logourl: images/companies/bocar.png
+  name: Grupo Bocar
+  carreras: TODAS LAS CARRERAS
+  teaser: En Grupo Bocar sentirás que tu trabajo trasciende.
+  abstract: En Grupo Bocar sentirás que tu trabajo trasciende. Aquí tendrás la oportunidad de aplicar tus conocimientos y adquirir nuevas habilidades, trabajando con tecnología de punta en un ambiente seguro y socialmente responsable.
+  stand: S/A
+  height1: 30px
+  height: 80px
+  column: 1
+
+- siteurl: http://www.henkel.mx/index.htm
+  logourl: images/companies/henkel.jpg
+  name: Henkel
+  carreras: TODAS LAS CARRERAS
+  teaser: El pensamiento emprendedor es parte de nuestra identidad. Únete a nuestros equipos
+  abstract: El pensamiento emprendedor es parte de nuestra identidad. Únete a nuestros equipos diversos y globales y comienza cada día convirtiendo tus ideas en realidad. Puedes elegir entre innumerables oportunidades y desarrollar tu carrera al mismo tiempo que das forma activamente a las marcas y tecnologías de Henkel.
+  stand: S/A
+  height1: 40px
+  height: 80px
+  column: 1
+
+- siteurl: https://www.keyence.com.mx/
+  logourl: images/companies/keyence.jpg
+  name: KEYENCE
+  carreras: TODAS LAS CARRERAS
+  teaser: KEYENCE ha crecido de forma constante desde el año 1974 para convertirse en un líder innovador en el desarrollo y fabricación de equipos de automatización industrial e inspección.
+  abstract: KEYENCE ha crecido de forma constante desde el año 1974 para convertirse en un líder innovador en el desarrollo y fabricación de equipos de automatización industrial e inspección, a nivel mundial. Nuestros productos consisten en lectores de códigos, marcadores láser, sistemas de visión artificial, sistemas de medición, microscopios, sensores y eliminadores de estática.
+  stand: S/A
+  height1: 25px
+  height: 80px
+  column: 1
+
+- siteurl: https://home.kpmg/mx/es/home/carrera.html
+  logourl: images/companies/KPMG.png
+  name: KPMG
+  carreras: TODAS LAS CARRERAS
+  teaser: Somos una red global de firmas con profundas raíces locales, que brindamos servicios de Auditoría, Impuestos y Asesoría al mercado.
+  abstract: Somos una red global de firmas con profundas raíces locales, que brindamos servicios de Auditoría, Impuestos y Asesoría al mercado. Ofrecemos un beneficio doble a nuestros clientes, experiencia global y un amplio conocimiento local de sus necesidades.
+  stand: S/A
+  height1: 25px
+  height: 80px
+  column: 1
+ 
+- siteurl: https://www.netcracker.com/careers/
+  logourl: images/companies/netcracker.png
+  name: Netcracker
+  carreras: TODAS LAS CARRERAS
+  teaser: Netcracker is a forward-looking, software technology company providing mission-critical solutions to communication service providers around the globe.
+  abstract: Netcracker is a forward-looking, software technology company providing mission-critical solutions to communication service providers around the globe. Every year since our founding in 1993, we have demonstrated significant growth, strong profitability, and highly credible thought leadership. 
+  stand: S/A
+  height1: 25px
+  height: 80px
+  column: 1
+
+- siteurl: https://www.omnitracs.com/company/careers
+  logourl: images/companies/omnitracs.svg
+  name: Omnitracs
+  carreras: TODAS LAS CARRERAS
+  teaser: At Omnitracs, we’re committed to not simply following the path ahead but creating a new one. 
+  abstract: At Omnitracs, we’re committed to not simply following the path ahead but creating a new one. And we’re looking for innovators with the drive and sense of direction it takes to transform an entire industry to join us on our journey.
+  stand: S/A
+  height1: 30px
+  height: 80px
+  column: 2
+
+- siteurl: https://www.oracle.com/corporate/careers/
+  logourl: images/companies/oracle.png
+  name: Oracle
+  carreras: TODAS LAS CARRERAS
+  teaser: Experience an exciting, rewarding, and impactful career.
+  abstract: Experience an exciting, rewarding, and impactful career. Over the past forty years, Oracle’s mission has been to transform our world for the better through innovative technologies that modernize cities and bridge communities—while changing lives. Join us and allow your passions to fuel our continued innovations.
+  stand: S/A
+  height1: 40px
+  height: 80px
+  column: 2
+ 
+- siteurl: http://www.probecarios.com/v2/
+  logourl: images/companies/probecarios.jpg
+  name: Probecarios
+  carreras: TODAS LAS CARRERAS
+  teaser: Somos una organización 100% mexicana.A través del esfuerzo, perseverancia y nuestros valores
+  abstract: Somos una organización 100% mexicana.A través del esfuerzo, perseverancia y nuestros valores éticos profesionales, nos hemos convertido en la organización líder y de mayor reconocimiento en el ramo.
+  stand: S/A
+  height1: 40px
+  height: 80px
+  column: 2
+ 
+- siteurl: http://www.pg.com/es_LATAM/MX/
+  logourl: images/companies/pg.jpg
+  name: Procter & Gamble
+  carreras: TODAS LAS CARRERAS
+  teaser: Day 1. It’s something everyone experiences when they join a new company, whether they’re
+  abstract: Day 1. It’s something everyone experiences when they join a new company, whether they’re a student, a recent graduate or a seasoned professional. P&G’s Day 1 starts with you doing something that matters – making an impact on the world, P&G brands, and your career.
+  stand: S/A
+  height1: 25px
+  height: 80px
+  column: 2
+ 
+- siteurl: http://canalempleo.sacyr.com/
+  logourl: images/companies/sacyr2.jpg
+  name: Sacyr
+  carreras: TODAS LAS CARRERAS
+  teaser: En Sacyr somos una Grupo global, con una fuerte vocación internacional e importantes y
+  abstract: En Sacyr somos una Grupo global, con una fuerte vocación internacional e importantes y ambiciosos objetivos. Actualmente llevamos a cabo proyectos innovadores de alto valor en 28 países en los 5 continentes y buscamos continuamente nuevas posibilidades de crecimiento fuera de nuestras fronteras. Trabajamos con un espíritu global en el que la multiculturalidad nos enriquece y creemos que no hay fronteras para el talento.
+  stand: S/A
+  height1: 25px
+  height: 80px
+  column: 2
+ 
+- siteurl: https://www.saipem.com/en/careers
+  logourl: images/companies/saipem.png
+  name: Saipem
+  carreras: TODAS LAS CARRERAS
+  teaser: Working for Saipem means belonging to one of the world’s leading companies in the Energy sector.
+  abstract: Working for Saipem means belonging to one of the world’s leading companies in the Energy sector. There is nothing to be taken for granted in our business, we create extraordinary projects in complex environments. Accept the challenge!
+  stand: S/A
+  height1: 25px
+  height: 80px
+  column: 2
+
+- siteurl: https://careers.slb.com/
+  logourl: images/companies/schlumberger.png
+  name: Schlumberger
+  carreras: TODAS LAS CARRERAS
+  teaser: Working at the forefront of one of the most dynamic and exciting industries offers unique opportunities to achieve incredible things and realize ambitious personal goals.
+  abstract: Working at the forefront of one of the most dynamic and exciting industries offers unique opportunities to achieve incredible things and realize ambitious personal goals. We’ve done pioneering work for over 90 years and will continue to do so by giving talented people the platform to perform at their best.
+  stand: S/A
+  height1: 40px
+  height: 80px
+  column: 2
+ 
+- siteurl: https://sferea.com/index.html
+  logourl: images/companies/sferea.png
+  name: Sferea
+  carreras: TODAS LAS CARRERAS
+  teaser: Somos la empresa líder en México en el Desarrollo de Aplicaciones Móviles para procesos de negocios, gobierno, medios, banca, entrenimiento y marketing móvil.
+  abstract: Somos la empresa líder en México en el Desarrollo de Aplicaciones Móviles para procesos de negocios, gobierno, medios, banca, entrenimiento y marketing móvil.
+  stand: S/A
+  height1: 40px
+  height: 80px
+  column: 2
+
+- siteurl: http://www.techint-ingenieria.com/es/carreras
+  logourl: images/companies/techint.png
+  name: Techint
+  carreras: TODAS LAS CARRERAS
+  teaser: Techint Ingeniería y Construcción lo invita a participar de una compañía 
+  abstract: Techint Ingeniería y Construcción lo invita a participar de una compañía en donde cada proyecto es una oportunidad única para crecer y adquirir nuevas experiencias.
+  stand: S/A
+  height1: 25px
+  height: 50px
+  column: 2
+
+- siteurl: https://www.vitalmex.com.mx/vacantes/
+  logourl: images/companies/vitalmex.png
+  name: Vitalmex
+  carreras: TODAS LAS CARRERAS
+  teaser: Somos una empresa 100% mexicana con una trayectoria de 40 años en el mercado, pionera y líder en el desarrollo de soluciones personalizadas de salud. 
+  abstract: Somos una empresa 100% mexicana con una trayectoria de 40 años en el mercado, pionera y líder en el desarrollo de soluciones personalizadas de salud. Somos el lugar 17 entre las mejores empresas para trabajar en México y queremos que desarrolles tu talento con nosotros.
+  stand: S/A
+  height1: 30px
+  height: 80px
+  column: 2
+  
+- siteurl: http://www.walmartmexico.com.mx/bolsa-de-trabajo-mex-cam.html
+  logourl: images/companies/walmart.jpg
+  name: Walmart
+  carreras: TODAS LAS CARRERAS
+  teaser: ¿Qué vas a encontrar cuando te unas a la mayor cadena minorista del mundo?
+  abstract: Amamos lo que hacemos. ¿Qué vas a encontrar cuando te unas a la mayor cadena minorista del mundo? La oportunidad de impactar en la comunidad que vives y en la que trabajas, innovar para la próxima generación de clientes y construir una carrera haciendo lo que amas.
+  stand: S/A
+  height1: 40px
+  height: 80px
+  column: 2
+ 
+- siteurl: http://www.xideral.co/positions
+  logourl: images/companies/xideral.png
+  name: Xideral
+  carreras: TODAS LAS CARRERAS
+  teaser: Aseguramos al mejor talento de la industria en Latinoamérica
+  abstract: Aseguramos al mejor talento de la industria en Latinoamérica
+  stand: S/A
+  height1: 30px
+  height: 80px
+  column: 2
+ 
+- siteurl: https://www.zte.com.cn/global/
+  logourl: images/companies/zte.png
+  name: ZTE
+  carreras: Ingeniería en Computación | Ingeniería Eléctrica Electrónica | Ingeniería en Telecomunicaciones | Ingeniería Mecatrónica |Informática | Matematicas Aplicadas a la Computación
+  teaser: ZTE is a world-leading comprehensive telecommunication solution 
+  abstract: ZTE is a world-leading comprehensive telecommunication solution provider, the largest telecommunication equipment listed company, as well as a top ranking ICT solutions provider.
+  stand: S/A
+  height1: 20px
+  height: 80px
+  column: 2
