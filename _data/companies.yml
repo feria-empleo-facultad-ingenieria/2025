@@ -152,6 +152,17 @@ companies:
   height1: 25px
   height: 80px
   column: 1
+
+- siteurl: https://www.icafluor.com/index.html
+  logourl: images/companies/icafluor.jpg
+  name: ICA FLOUR
+  carreras: TODAS LAS CARRERAS
+  teaser: ICA Fluor es una empresa dedicada a desarrollar la construcción de proyectos y plantas industriales, para el sector público y privado, en México, Centro América y el Caribe.
+  abstract: ICA Fluor es el contratista IPC líder en México con servicios orientados a resultados de nivel mundial tales como; estudios de viabilidad, estudios pre-inversión, ingeniería financiera, permisos, servicios ambientales, gestión de proyectos, diseño conceptual y preliminar, procuración, construcción, puesta en marcha, transferencia y operaciones de apoyo a sus clientes.
+  stand: S/A
+  height1: 40px
+  height: 80px
+  column: 1
  
 # - siteurl: https://www.netcracker.com/careers/
 #   logourl: images/companies/netcracker.png
