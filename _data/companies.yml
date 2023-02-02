@@ -116,9 +116,21 @@ companies:
   teaser: Por 100 años Grupo Infra ha sido protagonista de la transformación de México
   abstract: Por 100 años Grupo Infra ha sido protagonista de la transformación de México. Siendo parte esencial del que hacer y del desarrollo en el sector industrial y de salud en nuestro país.
   stand: S/A
-  height1: 30px
-  height: 80px
+  height1: 60px
+  height: 100px
   column: 1
+
+- siteurl: https://www.gruposalinas.com/home/carreras
+  logourl: images/companies/gruposalinas.svg
+  name: Grupo Salinas
+  carreras: TODAS LAS CARRERAS
+  teaser: El mundo necesita agentes de cambio cultural personas con mentalidad positiva e innovadora, dispuestas a trabajar en equipo para la solución de problemas.
+  abstract: La diversidad es nuestra carta fuerte. Somos un grupo formado por un conjunto de empresas que se caracterizan por el dinamismo, la evolución constante y la innovación.
+  stand: S/A
+  height1: 70px
+  height: 100px
+  column: 1
+
 
 - siteurl: http://www.henkel.mx/index.htm
   logourl: images/companies/henkel.jpg
@@ -163,7 +175,18 @@ companies:
   height1: 40px
   height: 80px
   column: 1
- 
+
+- siteurl: https://www.nissan.com.mx/corporate/trabaja-en-nissan.html
+  logourl: images/companies/nissan.png
+  name: Nissan
+  carreras: TODAS LAS CARRERAS
+  teaser: En Nissan constantemente buscamos gente innovadora que quiera crecer todos los días. 
+  abstract: En Nissan es posible alinear potencial y experiencia para ampliar tu conocimiento en un entorno que impulsa constante aprendizaje. Creemos que el poder de construir una carrera está en el talento que cada uno de nuestros colaboradores demuestra día a día para materializar sus ambiciones.
+  stand: S/A
+  height1: 40px
+  height: 80px
+  column: 1
+
 # - siteurl: https://www.netcracker.com/careers/
 #   logourl: images/companies/netcracker.png
 #   name: Netcracker
@@ -295,6 +318,17 @@ companies:
 #   height1: 30px
 #   height: 80px
 #   column: 2
+
+- siteurl: https://www.vitesco-technologies.com/es-mx
+  logourl: images/companies/vitesco.svg
+  name: Vitesco
+  carreras: TODAS LAS CARRERAS
+  teaser: El mundo está cambiando, y está en nuestras manos hacer la diferencia. Estamos decididos a desarrollar una movilidad limpia y sostenible. 
+  abstract: Ofrecemos una amplia gama de trabajos para pioneros apasionados a través de una organización global. Nuestra flexibilidad, valores y cultura dinámica impulsan nuestro éxito en un entorno rápidamente cambiante. Como división de Continental ofrecemos diversas oportunidades de trabajo y desarrollo.
+  stand: S/A
+  height1: 30px
+  height: 80px
+  column: 2
   
 # - siteurl: http://www.walmartmexico.com.mx/bolsa-de-trabajo-mex-cam.html
 #   logourl: images/companies/walmart.jpg
