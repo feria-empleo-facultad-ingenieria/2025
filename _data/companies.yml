@@ -32,16 +32,16 @@ companies:
   height: 80px
   column: 1
 
-- siteurl: https://bbva.csod.com/ux/ats/careersite/15/home?c=bbva
-  logourl: images/companies/bbva2.png
-  name: BBVA
-  carreras: TODAS LAS CARRERAS
-  teaser: Confianza, transparencia, integridad, productos y servicios de la más alta calidad. Conoce todos nuestros objetivos.
-  abstract: Confianza, transparencia, integridad, productos y servicios de la más alta calidad. Conoce todos nuestros objetivos.    
-  stand: S/A
-  height1: 20px
-  height: 80px
-  column: 1
+# - siteurl: https://bbva.csod.com/ux/ats/careersite/15/home?c=bbva
+#   logourl: images/companies/bbva2.png
+#   name: BBVA
+#   carreras: TODAS LAS CARRERAS
+#   teaser: Confianza, transparencia, integridad, productos y servicios de la más alta calidad. Conoce todos nuestros objetivos.
+#   abstract: Confianza, transparencia, integridad, productos y servicios de la más alta calidad. Conoce todos nuestros objetivos.    
+#   stand: S/A
+#   height1: 20px
+#   height: 80px
+#   column: 1
 
 - siteurl: http://www.ciadetalentos.com.mx/
   logourl: images/companies/cia2.jpg
@@ -54,16 +54,16 @@ companies:
   height: 80px
   column: 1
 
-- siteurl: https://www.banamex.com/gentebanamex/
-  logourl: images/companies/citibanamex.jpg
-  name: CitiBanamex
-  carreras: TODAS LAS CARRERAS
-  teaser: Nuestra prioridad es promover el acceso en igualdad
-  abstract: Nuestra prioridad es promover el acceso en igualdad de términos para ambos géneros al empleo y crecimiento profesional en la empresa, así como a la capacitación y participación en los procesos de toma de decisiones.
-  stand: S/A
-  height1: 40px
-  height: 80px
-  column: 1
+# - siteurl: https://www.banamex.com/gentebanamex/
+#   logourl: images/companies/citibanamex.jpg
+#   name: CitiBanamex
+#   carreras: TODAS LAS CARRERAS
+#   teaser: Nuestra prioridad es promover el acceso en igualdad
+#   abstract: Nuestra prioridad es promover el acceso en igualdad de términos para ambos géneros al empleo y crecimiento profesional en la empresa, así como a la capacitación y participación en los procesos de toma de decisiones.
+#   stand: S/A
+#   height1: 40px
+#   height: 80px
+#   column: 1
 
 - siteurl: https://grupoinfra.com/
   logourl: images/companies/infra.jpeg
@@ -104,6 +104,17 @@ companies:
   carreras: TODAS LAS CARRERAS
   teaser: Imagínese rodeado de un equipo de personas innovadoras inteligentes, motivadas y apasionadas, todas trabajando para alcanzar la misma meta.
   abstract: Imagínese rodeado de un equipo de personas innovadoras inteligentes, motivadas y apasionadas, todas trabajando para alcanzar la misma meta, crear soluciones revolucionarias que transformen a nuestro mundo en un lugar mejor que el que conocemos. 
+  stand: S/A
+  height1: 30px
+  height: 80px
+  column: 1
+
+- siteurl: https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1?utm_source=Ford+Champs&utm_medium=Linkedin&utm_id=Ford+Champs
+  logourl: images/companies/ford.png
+  name: Ford
+  carreras: TODAS LAS CARRERAS
+  teaser: ACCESS A BETTER TOMORROW, TODAY
+  abstract: Ford Motor Company creates transportation solutions built to improve people's lives. Our innovative products, accessories, experiences, and services are designed and produced across six continents, and we are always looking to attract top talent. Join us.
   stand: S/A
   height1: 30px
   height: 80px
@@ -396,16 +407,16 @@ companies:
   height: 80px
   column: 2
  
-# - siteurl: https://www.zte.com.cn/global/
-#   logourl: images/companies/zte.png
-#   name: ZTE
-#   carreras: Ingeniería en Computación | Ingeniería Eléctrica Electrónica | Ingeniería en Telecomunicaciones | Ingeniería Mecatrónica |Informática | Matematicas Aplicadas a la Computación
-#   teaser: ZTE is a world-leading comprehensive telecommunication solution 
-#   abstract: ZTE is a world-leading comprehensive telecommunication solution provider, the largest telecommunication equipment listed company, as well as a top ranking ICT solutions provider.
-#   stand: S/A
-#   height1: 20px
-#   height: 80px
-#   column: 2
+- siteurl: https://www.zte.com.cn/global/
+  logourl: images/companies/zte.png
+  name: ZTE
+  carreras: Ingeniería en Computación | Ingeniería Eléctrica Electrónica | Ingeniería en Telecomunicaciones | Ingeniería Mecatrónica |Informática | Matematicas Aplicadas a la Computación
+  teaser: ZTE is a world-leading comprehensive telecommunication solution 
+  abstract: ZTE is a world-leading comprehensive telecommunication solution provider, the largest telecommunication equipment listed company, as well as a top ranking ICT solutions provider.
+  stand: S/A
+  height1: 20px
+  height: 80px
+  column: 2
 
 - siteurl: http://www.zuma-ti.com.mx/
   logourl: images/companies/zuma2.webp
