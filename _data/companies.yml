@@ -1,14 +1,14 @@
 companies:
-# - siteurl: https://escritorio.aspel.com.mx/webapps/b_trabajo_nuevo.exe/bienv
-#   logourl: images/companies/aspel.png
-#   name: Aspel
-#   carreras: TODAS LAS CARRERAS
-#   teaser: Aspel es una empresa 100% mexicana líder en el mercado de software y soluciones administrativas.
-#   abstract: Aspel es una empresa 100% mexicana líder en el mercado de software y soluciones administrativas. Automatiza los procesos de las micro, pequeñas y medianas empresas, favoreciendo la correcta toma de decisiones de manera sencilla, eficiente y productiva. Sus Sistemas facilitan el cumplimiento de las obligaciones fiscales electrónicas incluyendo facturación, contabilidad y nómina. 
-#   stand: S/A
-#   height1: 25px
-#   height: 80px
-#   column: 1
+- siteurl: https://escritorio.aspel.com.mx/webapps/b_trabajo_nuevo.exe/bienv
+  logourl: images/companies/aspel.png
+  name: Aspel
+  carreras: TODAS LAS CARRERAS
+  teaser: Aspel es una empresa 100% mexicana líder en el mercado de software y soluciones administrativas.
+  abstract: Aspel es una empresa 100% mexicana líder en el mercado de software y soluciones administrativas. Automatiza los procesos de las micro, pequeñas y medianas empresas, favoreciendo la correcta toma de decisiones de manera sencilla, eficiente y productiva. Sus Sistemas facilitan el cumplimiento de las obligaciones fiscales electrónicas incluyendo facturación, contabilidad y nómina. 
+  stand: S/A
+  height1: 25px
+  height: 80px
+  column: 1
 
 - siteurl: https://www.aspentech.com/en/careers
   logourl: images/companies/aspentech.PNG
@@ -368,6 +368,17 @@ companies:
   carreras: TODAS LAS CARRERAS
   teaser: Techint Ingeniería y Construcción lo invita a participar de una compañía 
   abstract: Techint Ingeniería y Construcción lo invita a participar de una compañía en donde cada proyecto es una oportunidad única para crecer y adquirir nuevas experiencias.
+  stand: S/A
+  height1: 25px
+  height: 50px
+  column: 2
+
+- siteurl: https://careers.unilever.es/mexico
+  logourl: images/companies/UL.png
+  name: Unilever 
+  carreras: TODAS LAS CARRERAS
+  teaser: Hacemos muchas de las marcas favoritas del mundo y, cada día, 2.500 millones de personas usan los productos de Unilever para verse bien, sentirse bien y sacar mayor provecho a la vida.
+  abstract: Hacemos muchas de las marcas favoritas del mundo y, cada día, 2.500 millones de personas usan los productos de Unilever para verse bien, sentirse bien y sacar mayor provecho a la vida.
   stand: S/A
   height1: 25px
   height: 50px
