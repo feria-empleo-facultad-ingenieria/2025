@@ -98,16 +98,16 @@ companies:
 #   height: 80px
 #   column: 1
 
-- siteurl: https://www.emerson.com/es-mx/careers
-  logourl: images/companies/emerson.png
-  name: Emerson
-  carreras: TODAS LAS CARRERAS
-  teaser: Imagínese rodeado de un equipo de personas innovadoras inteligentes, motivadas y apasionadas, todas trabajando para alcanzar la misma meta.
-  abstract: Imagínese rodeado de un equipo de personas innovadoras inteligentes, motivadas y apasionadas, todas trabajando para alcanzar la misma meta, crear soluciones revolucionarias que transformen a nuestro mundo en un lugar mejor que el que conocemos. 
-  stand: S/A
-  height1: 30px
-  height: 80px
-  column: 1
+# - siteurl: https://www.emerson.com/es-mx/careers
+#   logourl: images/companies/emerson.png
+#   name: Emerson
+#   carreras: TODAS LAS CARRERAS
+#   teaser: Imagínese rodeado de un equipo de personas innovadoras inteligentes, motivadas y apasionadas, todas trabajando para alcanzar la misma meta.
+#   abstract: Imagínese rodeado de un equipo de personas innovadoras inteligentes, motivadas y apasionadas, todas trabajando para alcanzar la misma meta, crear soluciones revolucionarias que transformen a nuestro mundo en un lugar mejor que el que conocemos. 
+#   stand: S/A
+#   height1: 30px
+#   height: 80px
+#   column: 1
 
 - siteurl: https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1?utm_source=Ford+Champs&utm_medium=Linkedin&utm_id=Ford+Champs
   logourl: images/companies/ford.png
@@ -164,7 +164,6 @@ companies:
   height: 100px
   column: 1
 
-
 - siteurl: http://www.henkel.mx/index.htm
   logourl: images/companies/henkel.jpg
   name: Henkel
@@ -198,16 +197,16 @@ companies:
   height: 80px
   column: 1
 
-- siteurl: https://careers.kionetworks.com/?_ga=2.180170916.1234104365.1675361423-246092732.1675361423
-  logourl: images/companies/kio2.png
-  name: KIO Networks
-  carreras: TODAS LAS CARRERAS
-  teaser: Somos una de las empresas más innovadoras de Tecnologías de la Información en Latinoamérica, fundada en 2002 con capital 100% mexicano.
-  abstract: Somos una de las empresas más innovadoras de Tecnologías de la Información en Latinoamérica, fundada en 2002 con capital 100% mexicano. Proveemos Servicios de Infraestructura de Tecnologías de Información de Misión Crítica que opera 40 Centros de Datos de última generación, con la más alta seguridad, disponibilidad y densidad en la región, con presencia en México, Panamá, Guatemala, República Dominicana y España.
-  stand: S/A
-  height1: 25px
-  height: 80px
-  column: 1
+# - siteurl: https://careers.kionetworks.com/?_ga=2.180170916.1234104365.1675361423-246092732.1675361423
+#   logourl: images/companies/kio2.png
+#   name: KIO Networks
+#   carreras: TODAS LAS CARRERAS
+#   teaser: Somos una de las empresas más innovadoras de Tecnologías de la Información en Latinoamérica, fundada en 2002 con capital 100% mexicano.
+#   abstract: Somos una de las empresas más innovadoras de Tecnologías de la Información en Latinoamérica, fundada en 2002 con capital 100% mexicano. Proveemos Servicios de Infraestructura de Tecnologías de Información de Misión Crítica que opera 40 Centros de Datos de última generación, con la más alta seguridad, disponibilidad y densidad en la región, con presencia en México, Panamá, Guatemala, República Dominicana y España.
+#   stand: S/A
+#   height1: 25px
+#   height: 80px
+#   column: 1
 
 - siteurl: https://home.kpmg/mx/es/home/carrera.html
   logourl: images/companies/KPMG.png
@@ -217,6 +216,17 @@ companies:
   abstract: Somos una red global de firmas con profundas raíces locales, que brindamos servicios de Auditoría, Impuestos y Asesoría al mercado. Ofrecemos un beneficio doble a nuestros clientes, experiencia global y un amplio conocimiento local de sus necesidades.
   stand: S/A
   height1: 25px
+  height: 80px
+  column: 1
+
+- siteurl: https://www.ica.com.mx/
+  logourl: images/companies/ica.jpeg
+  name: ICA
+  carreras: TODAS LAS CARRERAS
+  teaser: ICA es la empresa líder en construcción y operación de infraestructura en México.
+  abstract: ICA es la empresa líder en construcción y operación de infraestructura en México, fundada en 1947 y con experiencia en trece países, siete sectores y un sólido portafolio de activos. El grupo está conformado por tres divisiones y especialidades en construcción civil e industrial, concesiones y aeropuertos.
+  stand: S/A
+  height1: 40px
   height: 80px
   column: 1
 
@@ -242,16 +252,16 @@ companies:
   height: 80px
   column: 1
 
-- siteurl: https://www.netcracker.com/careers/
-  logourl: images/companies/netcracker.png
-  name: Netcracker
-  carreras: TODAS LAS CARRERAS
-  teaser: Netcracker is a forward-looking, software technology company providing mission-critical solutions to communication service providers around the globe.
-  abstract: Netcracker is a forward-looking, software technology company providing mission-critical solutions to communication service providers around the globe. Every year since our founding in 1993, we have demonstrated significant growth, strong profitability, and highly credible thought leadership. 
-  stand: S/A
-  height1: 25px
-  height: 80px
-  column: 1
+# - siteurl: https://www.netcracker.com/careers/
+#   logourl: images/companies/netcracker.png
+#   name: Netcracker
+#   carreras: TODAS LAS CARRERAS
+#   teaser: Netcracker is a forward-looking, software technology company providing mission-critical solutions to communication service providers around the globe.
+#   abstract: Netcracker is a forward-looking, software technology company providing mission-critical solutions to communication service providers around the globe. Every year since our founding in 1993, we have demonstrated significant growth, strong profitability, and highly credible thought leadership. 
+#   stand: S/A
+#   height1: 25px
+#   height: 80px
+#   column: 1
 
 # - siteurl: https://www.omnitracs.com/company/careers
 #   logourl: images/companies/omnitracs.svg
@@ -275,16 +285,16 @@ companies:
   height: 80px
   column: 2
  
-- siteurl: http://www.probecarios.com/v2/
-  logourl: images/companies/probecarios.jpg
-  name: Probecarios
-  carreras: TODAS LAS CARRERAS
-  teaser: Somos una organización 100% mexicana.A través del esfuerzo, perseverancia y nuestros valores
-  abstract: Somos una organización 100% mexicana.A través del esfuerzo, perseverancia y nuestros valores éticos profesionales, nos hemos convertido en la organización líder y de mayor reconocimiento en el ramo.
-  stand: S/A
-  height1: 40px
-  height: 80px
-  column: 2
+# - siteurl: http://www.probecarios.com/v2/
+#   logourl: images/companies/probecarios.jpg
+#   name: Probecarios
+#   carreras: TODAS LAS CARRERAS
+#   teaser: Somos una organización 100% mexicana.A través del esfuerzo, perseverancia y nuestros valores
+#   abstract: Somos una organización 100% mexicana.A través del esfuerzo, perseverancia y nuestros valores éticos profesionales, nos hemos convertido en la organización líder y de mayor reconocimiento en el ramo.
+#   stand: S/A
+#   height1: 40px
+#   height: 80px
+#   column: 2
  
 - siteurl: http://www.pg.com/es_LATAM/MX/
   logourl: images/companies/pg.jpg
@@ -312,8 +322,8 @@ companies:
   logourl: images/companies/saipem.png
   name: Saipem
   carreras: TODAS LAS CARRERAS
-  teaser: Working for Saipem means belonging to one of the world’s leading companies in the Energy sector.
-  abstract: Working for Saipem means belonging to one of the world’s leading companies in the Energy sector. There is nothing to be taken for granted in our business, we create extraordinary projects in complex environments. Accept the challenge!
+  teaser: Working for Saipem means belonging to one of the world is leading companies in the Energy sector.
+  abstract: Working for Saipem means belonging to one of the world is leading companies in the Energy sector. There is nothing to be taken for granted in our business, we create extraordinary projects in complex environments. Accept the challenge!
   stand: S/A
   height1: 25px
   height: 80px
