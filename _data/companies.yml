@@ -435,17 +435,17 @@ companies:
   heightStand: 40px
   column: 2
   
-- siteurl: http://www.walmartmexico.com.mx/bolsa-de-trabajo-mex-cam.html
-  logourl: images/companies/walmart.jpg
-  name: Walmart
-  carreras: TODAS LAS CARRERAS
-  teaser: ¿Qué vas a encontrar cuando te unas a la mayor cadena minorista del mundo?
-  abstract: Amamos lo que hacemos. ¿Qué vas a encontrar cuando te unas a la mayor cadena minorista del mundo? La oportunidad de impactar en la comunidad que vives y en la que trabajas, innovar para la próxima generación de clientes y construir una carrera haciendo lo que amas.
-  stand: S/A
-  height1: 40px
-  height: 80px
-  heightStand: 40px
-  column: 2
+# - siteurl: http://www.walmartmexico.com.mx/bolsa-de-trabajo-mex-cam.html
+#   logourl: images/companies/walmart.jpg
+#   name: Walmart
+#   carreras: TODAS LAS CARRERAS
+#   teaser: ¿Qué vas a encontrar cuando te unas a la mayor cadena minorista del mundo?
+#   abstract: Amamos lo que hacemos. ¿Qué vas a encontrar cuando te unas a la mayor cadena minorista del mundo? La oportunidad de impactar en la comunidad que vives y en la que trabajas, innovar para la próxima generación de clientes y construir una carrera haciendo lo que amas.
+#   stand: S/A
+#   height1: 40px
+#   height: 80px
+#   heightStand: 40px
+#   column: 2
  
 - siteurl: http://www.xideral.co/positions
   logourl: images/companies/xideral.png
