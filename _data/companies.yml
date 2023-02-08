@@ -114,6 +114,18 @@ companies:
 #   height: 80px
 #   column: 1
 
+- siteurl: https://www.fieldcore.com/careers/
+  logourl: images/companies/fieldcore.png
+  name: FieldCore
+  carreras: TODAS LAS CARRERAS
+  teaser: Determined to Be the Best Place to Grow
+  abstract: People are the heart of our organization and we put them first in everything we do. From professional development to a wide range of training opportunities, we continually strive to create an empowering and healthy place to work. Combining our values of growth, work/life balance and World-Class Execution is what sets our workplace apart from the rest. Only FieldCore can offer this wide range of opportunities across the power generation industry, combined with excellent career paths in technical, functional and leadership areas.
+  stand: S/A
+  height1: 40px
+  height: 80px
+  heightStand: 40px
+  column: 1
+
 - siteurl: https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1?utm_source=Ford+Champs&utm_medium=Linkedin&utm_id=Ford+Champs
   logourl: images/companies/ford.png
   name: Ford
