@@ -58,6 +58,19 @@ companies:
   heightStand: 60px
   column: 1
 
+- siteurl: https://mx.computrabajo.com/
+  logourl: images/companies/computrabajo.png
+  name: Computrabajo
+  carreras: TODAS LAS CARRERAS
+  teaser: Encuentra el empleo que encaja contigo, más de 123,873 ofertas
+  abstract: Publica tus ofertas en el portal de empleo con mayor audiencia en Latinoamérica.
+  stand: S/A
+  height1: 40px
+  height: 80px
+  heightStand: 60px
+  column: 1
+
+
 # - siteurl: https://www.banamex.com/gentebanamex/
 #   logourl: images/companies/citibanamex.jpg
 #   name: CitiBanamex
@@ -375,17 +388,17 @@ companies:
 #   column: 2
 
  
-- siteurl: https://www.saipem.com/en/careers
-  logourl: images/companies/saipem.png
-  name: Saipem
-  carreras: TODAS LAS CARRERAS
-  teaser: Working for Saipem means belonging to one of the world is leading companies in the Energy sector.
-  abstract: Working for Saipem means belonging to one of the world is leading companies in the Energy sector. There is nothing to be taken for granted in our business, we create extraordinary projects in complex environments. Accept the challenge!
-  stand: S/A
-  height1: 25px
-  height: 80px
-  heightStand: 40px
-  column: 2
+# - siteurl: https://www.saipem.com/en/careers
+#   logourl: images/companies/saipem.png
+#   name: Saipem
+#   carreras: TODAS LAS CARRERAS
+#   teaser: Working for Saipem means belonging to one of the world is leading companies in the Energy sector.
+#   abstract: Working for Saipem means belonging to one of the world is leading companies in the Energy sector. There is nothing to be taken for granted in our business, we create extraordinary projects in complex environments. Accept the challenge!
+#   stand: S/A
+#   height1: 25px
+#   height: 80px
+#   heightStand: 40px
+#   column: 2
 
 - siteurl: https://careers.slb.com/
   logourl: images/companies/slb.jpeg
