@@ -460,17 +460,17 @@ companies:
   heightStand: 60px
   column: 2
 
-- siteurl: https://www.vitalmex.com.mx/vacantes/
-  logourl: images/companies/vitalmex.png
-  name: Vitalmex
-  carreras: TODAS LAS CARRERAS
-  teaser: Somos una empresa 100% mexicana con una trayectoria de 40 años en el mercado, pionera y líder en el desarrollo de soluciones personalizadas de salud. 
-  abstract: Somos una empresa 100% mexicana con una trayectoria de 40 años en el mercado, pionera y líder en el desarrollo de soluciones personalizadas de salud. Somos el lugar 17 entre las mejores empresas para trabajar en México y queremos que desarrolles tu talento con nosotros.
-  stand: S/A
-  height1: 30px
-  height: 80px
-  heightStand: 40px
-  column: 2
+# - siteurl: https://www.vitalmex.com.mx/vacantes/
+#   logourl: images/companies/vitalmex.png
+#   name: Vitalmex
+#   carreras: TODAS LAS CARRERAS
+#   teaser: Somos una empresa 100% mexicana con una trayectoria de 40 años en el mercado, pionera y líder en el desarrollo de soluciones personalizadas de salud. 
+#   abstract: Somos una empresa 100% mexicana con una trayectoria de 40 años en el mercado, pionera y líder en el desarrollo de soluciones personalizadas de salud. Somos el lugar 17 entre las mejores empresas para trabajar en México y queremos que desarrolles tu talento con nosotros.
+#   stand: S/A
+#   height1: 30px
+#   height: 80px
+#   heightStand: 40px
+#   column: 2
 
 - siteurl: https://www.vitesco-technologies.com/es-mx
   logourl: images/companies/vitesco.svg
