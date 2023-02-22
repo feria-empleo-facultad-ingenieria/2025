@@ -1,15 +1,15 @@
 companies:
-- siteurl: https://escritorio.aspel.com.mx/webapps/b_trabajo_nuevo.exe/bienv
-  logourl: images/companies/aspel.png
-  name: Aspel
-  carreras: TODAS LAS CARRERAS
-  teaser: Aspel es una empresa 100% mexicana líder en el mercado de software y soluciones administrativas.
-  abstract: Aspel es una empresa 100% mexicana líder en el mercado de software y soluciones administrativas. Automatiza los procesos de las micro, pequeñas y medianas empresas, favoreciendo la correcta toma de decisiones de manera sencilla, eficiente y productiva. Sus Sistemas facilitan el cumplimiento de las obligaciones fiscales electrónicas incluyendo facturación, contabilidad y nómina. 
-  stand: S/A
-  height1: 25px
-  height: 80px
-  heightStand: 40px
-  column: 1
+# - siteurl: https://escritorio.aspel.com.mx/webapps/b_trabajo_nuevo.exe/bienv
+#   logourl: images/companies/aspel.png
+#   name: Aspel
+#   carreras: TODAS LAS CARRERAS
+#   teaser: Aspel es una empresa 100% mexicana líder en el mercado de software y soluciones administrativas.
+#   abstract: Aspel es una empresa 100% mexicana líder en el mercado de software y soluciones administrativas. Automatiza los procesos de las micro, pequeñas y medianas empresas, favoreciendo la correcta toma de decisiones de manera sencilla, eficiente y productiva. Sus Sistemas facilitan el cumplimiento de las obligaciones fiscales electrónicas incluyendo facturación, contabilidad y nómina. 
+#   stand: S/A
+#   height1: 25px
+#   height: 80px
+#   heightStand: 40px
+#   column: 1
 
 - siteurl: https://www.aspentech.com/en/careers
   logourl: images/companies/aspentech.PNG
@@ -163,17 +163,17 @@ companies:
   heightStand: 40px
   column: 1
 
-- siteurl: http://www.bocar.com.mx/es/reclutamiento
-  logourl: images/companies/bocar.png
-  name: Grupo Bocar
-  carreras: TODAS LAS CARRERAS
-  teaser: En Grupo Bocar sentirás que tu trabajo trasciende.
-  abstract: En Grupo Bocar sentirás que tu trabajo trasciende. Aquí tendrás la oportunidad de aplicar tus conocimientos y adquirir nuevas habilidades, trabajando con tecnología de punta en un ambiente seguro y socialmente responsable.
-  stand: S/A
-  height1: 30px
-  height: 80px
-  heightStand: 40px
-  column: 1
+# - siteurl: http://www.bocar.com.mx/es/reclutamiento
+#   logourl: images/companies/bocar.png
+#   name: Grupo Bocar
+#   carreras: TODAS LAS CARRERAS
+#   teaser: En Grupo Bocar sentirás que tu trabajo trasciende.
+#   abstract: En Grupo Bocar sentirás que tu trabajo trasciende. Aquí tendrás la oportunidad de aplicar tus conocimientos y adquirir nuevas habilidades, trabajando con tecnología de punta en un ambiente seguro y socialmente responsable.
+#   stand: S/A
+#   height1: 30px
+#   height: 80px
+#   heightStand: 40px
+#   column: 1
 
 - siteurl: https://grupoinfra.com/
   logourl: images/companies/infra.jpeg
@@ -424,17 +424,17 @@ companies:
   heightStand: 60px
   column: 2
 
-- siteurl: https://www.storicard.com/trabaja-en-stori
-  logourl: images/companies/stori.jpg
-  name: Stori
-  carreras: TODAS LAS CARRERAS
-  teaser: Somos una comunidad de expertos en finanzas, banqueros, ingenieros, mercadólogos, creativos...
-  abstract: Somos una comunidad de expertos en finanzas, banqueros, ingenieros, mercadólogos, creativos, diseñadores, altos, chaparros, geeks, gamers, deportistas, visionarios y más, todo un equipo de innovadores con sueños inmensos y talento inigualable.
-  stand: S/A
-  height1: 40px
-  height: 120px
-  heightStand: 80px
-  column: 2
+# - siteurl: https://www.storicard.com/trabaja-en-stori
+#   logourl: images/companies/stori.jpg
+#   name: Stori
+#   carreras: TODAS LAS CARRERAS
+#   teaser: Somos una comunidad de expertos en finanzas, banqueros, ingenieros, mercadólogos, creativos...
+#   abstract: Somos una comunidad de expertos en finanzas, banqueros, ingenieros, mercadólogos, creativos, diseñadores, altos, chaparros, geeks, gamers, deportistas, visionarios y más, todo un equipo de innovadores con sueños inmensos y talento inigualable.
+#   stand: S/A
+#   height1: 40px
+#   height: 120px
+#   heightStand: 80px
+#   column: 2
 
 - siteurl: http://www.techint-ingenieria.com/es/carreras
   logourl: images/companies/techint.png
