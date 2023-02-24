@@ -448,6 +448,18 @@ companies:
 #   heightStand: 80px
 #   column: 2
 
+- siteurl: https://carrera.ternium.com/
+  logourl: images/companies/ternium.png
+  name: Ternium
+  carreras: TODAS LAS CARRERAS
+  teaser: Si te gustaría trabajar y aprender en un ambiente de oportunidades que vive la Seguridad, el cuidado del Medio Ambiente y la Calidad como valores, y donde la Equidad e Inclusión son rasgos de la cultura.
+  abstract: Si te gustaría trabajar y aprender en un ambiente de oportunidades que vive la Seguridad, el cuidado del Medio Ambiente y la Calidad como valores, y donde la Equidad e Inclusión son rasgos de la cultura.
+  stand: S/A
+  height1: 40px
+  height: 120px
+  heightStand: 80px
+  column: 2
+
 - siteurl: http://www.techint-ingenieria.com/es/carreras
   logourl: images/companies/techint.png
   name: Techint
@@ -460,17 +472,17 @@ companies:
   heightStand: 40px
   column: 2
 
-- siteurl: https://careers.unilever.es/mexico
-  logourl: images/companies/UL.png
-  name: Unilever 
-  carreras: TODAS LAS CARRERAS
-  teaser: Hacemos muchas de las marcas favoritas del mundo y, cada día, 2.500 millones de personas usan los productos de Unilever para verse bien, sentirse bien y sacar mayor provecho a la vida.
-  abstract: Hacemos muchas de las marcas favoritas del mundo y, cada día, 2.500 millones de personas usan los productos de Unilever para verse bien, sentirse bien y sacar mayor provecho a la vida.
-  stand: S/A
-  height1: 25px
-  height: 50px
-  heightStand: 60px
-  column: 2
+# - siteurl: https://careers.unilever.es/mexico
+#   logourl: images/companies/UL.png
+#   name: Unilever 
+#   carreras: TODAS LAS CARRERAS
+#   teaser: Hacemos muchas de las marcas favoritas del mundo y, cada día, 2.500 millones de personas usan los productos de Unilever para verse bien, sentirse bien y sacar mayor provecho a la vida.
+#   abstract: Hacemos muchas de las marcas favoritas del mundo y, cada día, 2.500 millones de personas usan los productos de Unilever para verse bien, sentirse bien y sacar mayor provecho a la vida.
+#   stand: S/A
+#   height1: 25px
+#   height: 50px
+#   heightStand: 60px
+#   column: 2
 
 # - siteurl: https://www.vitalmex.com.mx/vacantes/
 #   logourl: images/companies/vitalmex.png
