@@ -162,17 +162,17 @@ companies:
   heightStand: 40px
   column: 1
 
-- siteurl: https://www.gm.com.mx/corporativo/empleo_gm/
-  logourl: images/companies/gm2.png
-  name: General Motors
-  carreras: TODAS LAS CARRERAS
-  teaser: Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
-  abstract: Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección. Aquí podrás registrarte y aplicar a las oportunidades de empleo disponibles.
-  stand: S/A
-  height1: 30px
-  height: 80px
-  heightStand: 40px
-  column: 1
+# - siteurl: https://www.gm.com.mx/corporativo/empleo_gm/
+#   logourl: images/companies/gm2.png
+#   name: General Motors
+#   carreras: TODAS LAS CARRERAS
+#   teaser: Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+#   abstract: Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección. Aquí podrás registrarte y aplicar a las oportunidades de empleo disponibles.
+#   stand: S/A
+#   height1: 30px
+#   height: 80px
+#   heightStand: 40px
+#   column: 1
 
 # - siteurl: http://www.bocar.com.mx/es/reclutamiento
 #   logourl: images/companies/bocar.png
