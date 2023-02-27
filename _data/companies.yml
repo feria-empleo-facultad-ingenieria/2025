@@ -59,13 +59,13 @@ companies:
   column: 1
 
 - siteurl: https://mx.computrabajo.com/
-  logourl: images/companies/computrabajo.png
+  logourl: images/companies/computra2.png
   name: Computrabajo
   carreras: TODAS LAS CARRERAS
   teaser: Encuentra el empleo que encaja contigo, más de 123,873 ofertas
   abstract: Publica tus ofertas en el portal de empleo con mayor audiencia en Latinoamérica.
   stand: S/A
-  height1: 40px
+  height1: 25px
   height: 80px
   heightStand: 60px
   column: 1
