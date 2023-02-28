@@ -317,6 +317,18 @@ companies:
   heightStand: 40px
   column: 1
 
+- siteurl: https://www.krones.com/en/index.php
+  logourl: images/companies/krones.png
+  name: Krones
+  carreras: TODAS LAS CARRERAS
+  teaser: "In order to be where our machines and lines produce beverages and liquid food every day, we have built up a strong international network: Around 17,200 people work for Krones in more than 100 countries around the world."
+  abstract: "In order to be where our machines and lines produce beverages and liquid food every day, we have built up a strong international network: Around 17,200 people work for Krones in more than 100 countries around the world - more than 10,100 of them in Germany. In addition to the headquarters in Neutraubling, Krones operates plants in Nittenau, Rosenheim and Flensburg."
+  stand: S/A
+  height1: 40px
+  height: 80px
+  heightStand: 40px
+  column: 1
+
 - siteurl: https://careers.niagarawater.com/us/en
   logourl: images/companies/niagara.jpeg
   name: Niagara
