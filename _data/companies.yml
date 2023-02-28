@@ -69,6 +69,18 @@ companies:
   heightStand: 60px
   column: 1
 
+- siteurl: https://www.cisco.com/
+  logourl: images/companies/cisco.png
+  name: Cisco
+  carreras: TODAS LAS CARRERAS
+  teaser: No matter where you're at in life, Cisco has a career opportunity waiting for you! Are you the talent we're looking for?
+  abstract: Emerging Talent's goal is to help kickstart your career, from expanding your skillset to building your network and gaining valuable experience to propel your career. Our programs include roles for interns, apprentices, recent graduates, and those educated through alternative paths such as boot camps or community college.
+  stand: S/A
+  height1: 40px
+  height: 80px
+  heightStand: 60px
+  column: 1
+
 - siteurl: https://mx.computrabajo.com/
   logourl: images/companies/computra2.png
   name: Computrabajo
@@ -339,7 +351,7 @@ companies:
   height1: 30px
   height: 80px
   heightStand: 40px
-  column: 1
+  column: 2
 
 - siteurl: https://www.nissan.com.mx/corporate/trabaja-en-nissan.html
   logourl: images/companies/nissan.png
@@ -351,7 +363,7 @@ companies:
   height1: 40px
   height: 80px
   heightStand: 40px
-  column: 1
+  column: 2
 
 - siteurl: https://www.managementsolutions.com/es
   logourl: images/companies/managementsolutions.jpg
@@ -363,7 +375,7 @@ companies:
   height1: 40px
   height: 80px
   heightStand: 40px
-  column: 1
+  column: 2
 
 # - siteurl: https://www.netcracker.com/careers/
 #   logourl: images/companies/netcracker.png
