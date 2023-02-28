@@ -54,7 +54,8 @@ companies:
   abstract: Formamos profesionales a través de programas formativos de última generación y colaboramos con universidad, empresas y corporaciones diseñando itinerarios formativos únicos para el desarrollo continuo.
   stand: S/A
   height1: 20px
-  height: 80px
+  height: 40px
+  heightStand: 40px
   column: 1
 
 - siteurl: http://www.ciadetalentos.com.mx/
@@ -78,7 +79,7 @@ companies:
   stand: S/A
   height1: 40px
   height: 80px
-  heightStand: 60px
+  heightStand: 50px
   column: 1
 
 - siteurl: https://mx.computrabajo.com/
@@ -90,7 +91,7 @@ companies:
   stand: S/A
   height1: 25px
   height: 80px
-  heightStand: 60px
+  heightStand: 40px
   column: 1
 
 
@@ -303,7 +304,7 @@ companies:
   height1: 40px
   height: 80px
   heightStand: 40px
-  column: 1
+  column: 2
 
 - siteurl: https://www.icafluor.com/index.html
   logourl: images/companies/icafluor.jpg
@@ -315,7 +316,7 @@ companies:
   height1: 40px
   height: 80px
   heightStand: 40px
-  column: 1
+  column: 2
 
 - siteurl: https://www.knightpiesold.com/en/
   logourl: images/companies/knightpiesold.png
@@ -327,7 +328,7 @@ companies:
   height1: 30px
   height: 80px
   heightStand: 40px
-  column: 1
+  column: 2
 
 - siteurl: https://www.krones.com/en/index.php
   logourl: images/companies/krones.png
@@ -339,7 +340,7 @@ companies:
   height1: 40px
   height: 80px
   heightStand: 40px
-  column: 1
+  column: 2
 
 - siteurl: https://careers.niagarawater.com/us/en
   logourl: images/companies/niagara.jpeg
@@ -431,7 +432,7 @@ companies:
   stand: S/A
   height1: 25px
   height: 80px
-  heightStand: 40px
+  heightStand: 30px
   column: 2
  
 # - siteurl: http://canalempleo.sacyr.com/
@@ -516,7 +517,7 @@ companies:
   stand: S/A
   height1: 40px
   height: 120px
-  heightStand: 80px
+  heightStand: 50px
   column: 2
 
 # - siteurl: https://careers.unilever.es/mexico
