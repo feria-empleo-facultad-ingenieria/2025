@@ -21,6 +21,7 @@ companies:
   height1: 30px
   height: 80px
   heightStand: 40px
+  heightStyle: height:50px
   column: 1
 
 - siteurl: http://www.audi.com.mx/carreras
@@ -33,6 +34,7 @@ companies:
   height1: 30px
   height: 80px
   heightStand: 50px
+  heightStyle: height:50px
   column: 1
 
 # - siteurl: https://bbva.csod.com/ux/ats/careersite/15/home?c=bbva
@@ -56,6 +58,7 @@ companies:
   height1: 20px
   height: 40px
   heightStand: 40px
+  heightStyle: height:50px
   column: 1
 
 - siteurl: http://www.ciadetalentos.com.mx/
@@ -68,6 +71,7 @@ companies:
   height1: 40px
   height: 80px
   heightStand: 60px
+  heightStyle: height:50px
   column: 1
 
 - siteurl: https://www.cisco.com/
@@ -80,6 +84,7 @@ companies:
   height1: 40px
   height: 80px
   heightStand: 50px
+  heightStyle: height:50px
   column: 1
 
 - siteurl: https://mx.computrabajo.com/
@@ -92,6 +97,7 @@ companies:
   height1: 25px
   height: 80px
   heightStand: 40px
+  heightStyle: height:50px
   column: 1
 
 
@@ -116,6 +122,7 @@ companies:
   height1: 30px
   height: 80px
   heightStand: 40px
+  heightStyle: height:50px
   column: 1
 
 # - siteurl: https://jobs2.deloitte.com/mx/es?icid=top_job-search&amp;id=mx
@@ -161,6 +168,7 @@ companies:
   height1: 40px
   height: 80px
   heightStand: 40px
+  heightStyle: height:50px
   column: 1
 
 - siteurl: https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1?utm_source=Ford+Champs&utm_medium=Linkedin&utm_id=Ford+Champs
@@ -173,6 +181,7 @@ companies:
   height1: 30px
   height: 80px
   heightStand: 40px
+  heightStyle: height:50px
   column: 1
 
 # - siteurl: https://www.gm.com.mx/corporativo/empleo_gm/
@@ -209,6 +218,7 @@ companies:
   height1: 50px
   height: 100px
   heightStand: 80px
+  heightStyle: height:110px
   column: 1
 
 - siteurl: https://www.gmexico.com/Pages/BolsaTrabajo.aspx
@@ -221,6 +231,7 @@ companies:
   height1: 50px
   height: 100px
   heightStand: 30px
+  heightStyle: height:50px
   column: 1
 
 - siteurl: https://www.gruposalinas.com/home/carreras
@@ -233,6 +244,7 @@ companies:
   height1: 40px
   height: 100px
   heightStand: 60px
+  heightStyle: height:100px
   column: 1
 
 - siteurl: http://www.henkel.mx/index.htm
@@ -245,6 +257,7 @@ companies:
   height1: 40px
   height: 80px
   heightStand: 40px
+  heightStyle: height:50px
   column: 1
 
 - siteurl: https://www.huawei.com/mx/contact-us
@@ -257,6 +270,7 @@ companies:
   height1: 40px
   height: 80px
   heightStand: 30px
+  heightStyle: height:50px
   column: 1
 
 - siteurl: https://www.keyence.com.mx/
@@ -269,6 +283,7 @@ companies:
   height1: 25px
   height: 80px
   heightStand: 30px
+  heightStyle: height:50px
   column: 1
 
 # - siteurl: https://careers.kionetworks.com/?_ga=2.180170916.1234104365.1675361423-246092732.1675361423
@@ -292,6 +307,7 @@ companies:
   height1: 25px
   height: 80px
   heightStand: 40px
+  heightStyle: height:50px
   column: 1
 
 - siteurl: https://www.ica.com.mx/
@@ -304,6 +320,7 @@ companies:
   height1: 40px
   height: 80px
   heightStand: 40px
+  heightStyle: height:50px
   column: 2
 
 - siteurl: https://www.icafluor.com/index.html
@@ -316,6 +333,7 @@ companies:
   height1: 40px
   height: 80px
   heightStand: 40px
+  heightStyle: height:50px
   column: 2
 
 - siteurl: https://www.knightpiesold.com/en/
@@ -328,6 +346,7 @@ companies:
   height1: 30px
   height: 80px
   heightStand: 40px
+  heightStyle: height:50px
   column: 2
 
 - siteurl: https://www.krones.com/en/index.php
@@ -340,6 +359,7 @@ companies:
   height1: 40px
   height: 80px
   heightStand: 40px
+  heightStyle: height:50px
   column: 2
 
 - siteurl: https://careers.niagarawater.com/us/en
@@ -352,6 +372,7 @@ companies:
   height1: 30px
   height: 80px
   heightStand: 40px
+  heightStyle: height:50px
   column: 2
 
 - siteurl: https://www.nissan.com.mx/corporate/trabaja-en-nissan.html
@@ -364,6 +385,7 @@ companies:
   height1: 40px
   height: 80px
   heightStand: 40px
+  heightStyle: height:70px
   column: 2
 
 - siteurl: https://www.managementsolutions.com/es
@@ -376,6 +398,7 @@ companies:
   height1: 40px
   height: 80px
   heightStand: 40px
+  heightStyle: height:80px
   column: 2
 
 # - siteurl: https://www.netcracker.com/careers/
@@ -410,6 +433,7 @@ companies:
   height1: 40px
   height: 80px
   heightStand: 60px
+  heightStyle: height:70px
   column: 2
  
 # - siteurl: http://www.probecarios.com/v2/
@@ -433,6 +457,7 @@ companies:
   height1: 25px
   height: 80px
   heightStand: 30px
+  heightStyle: height:50px
   column: 2
  
 # - siteurl: http://canalempleo.sacyr.com/
@@ -470,6 +495,7 @@ companies:
   height1: 50px
   height: 80px
   heightStand: 60px
+  heightStyle: height:60px
   column: 2
  
 - siteurl: https://sferea.com/
@@ -482,6 +508,7 @@ companies:
   height1: 40px
   height: 80px
   heightStand: 60px
+  heightStyle: height:60px
   column: 2
 
 # - siteurl: https://www.storicard.com/trabaja-en-stori
@@ -506,6 +533,7 @@ companies:
   height1: 25px
   height: 50px
   heightStand: 40px
+  heightStyle: height:50px
   column: 2
 
 - siteurl: https://carrera.ternium.com/
@@ -518,6 +546,7 @@ companies:
   height1: 40px
   height: 120px
   heightStand: 50px
+  heightStyle: height:70px
   column: 2
 
 # - siteurl: https://careers.unilever.es/mexico
@@ -554,6 +583,7 @@ companies:
   height1: 30px
   height: 80px
   heightStand: 40px
+  heightStyle: height:50px
   column: 2
   
 # - siteurl: http://www.walmartmexico.com.mx/bolsa-de-trabajo-mex-cam.html
@@ -578,6 +608,7 @@ companies:
   height1: 30px
   height: 80px
   heightStand: 40px
+  heightStyle: height:50px
   column: 2
  
 - siteurl: https://www.zte.com.cn/global/
@@ -590,6 +621,7 @@ companies:
   height1: 20px
   height: 40px
   heightStand: 30px
+  heightStyle: height:40px
   column: 2
 
 - siteurl: http://www.zuma-ti.com.mx/
@@ -602,4 +634,5 @@ companies:
   height1: 40px
   height: 80px
   heightStand: 40px
+  heightStyle: height:50px
   column: 2
