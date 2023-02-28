@@ -341,6 +341,18 @@ companies:
   heightStand: 40px
   column: 1
 
+- siteurl: https://www.managementsolutions.com/es
+  logourl: images/companies/managementsolutions.jpg
+  name: Management Solutions
+  carreras: TODAS LAS CARRERAS
+  teaser: Buscamos recién titulados o estudiantes de último curso, con buen expediente académico e inglés fluido. 
+  abstract: Buscamos recién titulados o estudiantes de último curso, con buen expediente académico e inglés fluido. Valoramos el conocimiento de otros idiomas, estudios de postgrado, cursos especializados, el manejo avanzado de herramientas informáticas y la realización de prácticas.
+  stand: S/A
+  height1: 40px
+  height: 80px
+  heightStand: 40px
+  column: 1
+
 # - siteurl: https://www.netcracker.com/careers/
 #   logourl: images/companies/netcracker.png
 #   name: Netcracker
