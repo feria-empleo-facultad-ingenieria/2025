@@ -37,6 +37,19 @@ companies:
   heightStyle: height:50px
   column: 1
 
+- siteurl: https://axity.com/trabaja-con-nosotros/
+  logourl: images/companies/axity.png
+  name: Axity
+  carreras: TODAS LAS CARRERAS
+  teaser: Te ofrecemos participar en una de las empresas latinoamericanas de mayor crecimiento en el mundo TIC. Contamos con una cultura de trabajo dinámica, desafiante y colaborativa que te permitirá desarrollarte profesionalmente.
+  abstract: Axity es una de las principales empresas de TI de Latinoamérica y hogar del mejor talento. Nuestra familia está conformada por más de 3,500 colaboradores que abarcan todo el espectro Tecnologías de la Información. Desde la estrategia, la gestión de información, el desarrollo e implementación de aplicaciones, la ciberseguridad, las redes de telecomunicaciones, las soluciones de colaboración y hasta los centros de datos. 
+  stand: S/A
+  height1: 50px
+  height: 80px
+  heightStand: 50px
+  heightStyle: height:60px
+  column: 1
+
 # - siteurl: https://bbva.csod.com/ux/ats/careersite/15/home?c=bbva
 #   logourl: images/companies/bbva2.png
 #   name: BBVA
