@@ -10,10 +10,10 @@ platicas:
   conferencia_empresa: FORD
   conferencia_fecha: 24 Abril 2023
 
-- conferencista_foto: images/companies/kpmg.png
+- conferencista_foto: images/companies/KPMG.png
   conferencista_linkedin: KPMG
   conferencista_nombre: Platica KPMG
-  conferencia_nombre: KPMG
+  conferencia_nombre: KPMG©
   conferencia_hora: 12:00 – 14:00
   conferencia_lugar: Auditorio Javier Barros Sierra
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
