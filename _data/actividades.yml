@@ -6,13 +6,54 @@ actividades:
   hora: 12:00 - 12:15 
   lugar: Edificio principal de la Facultad de Ingeniería
   recinto: Vestibulo del Auditorio Javier Barros Sierra
-#
-# - mes: MAR
-#   dia: 30
-#   nombre: RECLUTAMIENTO OMNITRACS
-#   hora: 12:15 – 14:00 
-#   lugar: a
-#   recinto: Auditorio Javier Barros Sierra
+- mes: ABR
+  dia: 24
+  nombre: FORD
+  hora: 10:00 – 12:00 
+  lugar: Auditorio
+  recinto: Auditorio Javier Barros Sierra
+- mes: ABR
+  dia: 24
+  nombre: KPMG
+  hora: 12:00 – 14:00 
+  lugar: Auditorio
+  recinto: Auditorio Javier Barros Sierra
+- mes: ABR
+  dia: 24
+  nombre: HUAWEI
+  hora: 14:00 – 16:00 
+  lugar: Auditorio
+  recinto: Auditorio Javier Barros Sierra
+- mes: ABR
+  dia: 24
+  nombre: VITESCO TECHNOLOGIES
+  hora: 16:00 – 18:00 
+  lugar: Auditorio
+  recinto: Auditorio Javier Barros Sierra
+- mes: ABR
+  dia: 25
+  nombre: TERNIUM
+  hora: 10:00 – 12:00 
+  lugar: Auditorio
+  recinto: Auditorio Javier Barros Sierra
+- mes: ABR
+  dia: 25
+  nombre: "TECHINT INGENIERÍA CONTRUCCIÓN"
+  hora: 12:00 – 14:00 
+  lugar: Auditorio
+  recinto: Auditorio Javier Barros Sierra
+- mes: ABR
+  dia: 25
+  nombre: COMPUTRABAJO
+  hora: 14:00 – 16:00 
+  lugar: Auditorio
+  recinto: Auditorio Javier Barros Sierra
+- mes: ABR
+  dia: 25
+  nombre: CISCO
+  hora: 16:00 – 18:00 
+  lugar: Auditorio
+  recinto: Auditorio Javier Barros Sierra
 #
 # - mes: MAR 
 #   dia: 30
