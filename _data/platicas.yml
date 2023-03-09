@@ -1,1 +1,81 @@
 platicas:
+
+- conferencista_foto: images/companies/ford.png
+  conferencista_linkedin: FORD
+  conferencista_nombre: Platica FORD
+  conferencia_nombre: FORD
+  conferencia_hora: 10:00 – 12:00
+  conferencia_lugar: Auditorio Javier Barros Sierra
+  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+  conferencia_empresa: FORD
+  conferencia_fecha: 24 Abril 2023
+
+- conferencista_foto: images/companies/kpmg.png
+  conferencista_linkedin: KPMG
+  conferencista_nombre: Platica KPMG
+  conferencia_nombre: KPMG
+  conferencia_hora: 12:00 – 14:00
+  conferencia_lugar: Auditorio Javier Barros Sierra
+  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+  conferencia_empresa: KPMG
+  conferencia_fecha: 24 Abril 2023
+
+- conferencista_foto: images/companies/huawei.png
+  conferencista_linkedin: HUAWEI
+  conferencista_nombre: Platica HUAWEI
+  conferencia_nombre: HUAWEI
+  conferencia_hora: 14:00 – 16:00
+  conferencia_lugar: Auditorio Javier Barros Sierra
+  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+  conferencia_empresa: HUAWEI
+  conferencia_fecha: 24 Abril 2023
+
+- conferencista_foto: images/companies/vitesco.svg
+  conferencista_linkedin: VITESCO TECHNOLOGIES
+  conferencista_nombre: Platica VITESCO TECHNOLOGIES
+  conferencia_nombre: VITESCO TECHNOLOGIES
+  conferencia_hora: 16:00 – 18:00
+  conferencia_lugar: Auditorio Javier Barros Sierra
+  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+  conferencia_empresa: VITESCO TECHNOLOGIES
+  conferencia_fecha: 24 Abril 2023
+
+- conferencista_foto: images/companies/ternium2.png
+  conferencista_linkedin: TERNIUM
+  conferencista_nombre: Platica TERNIUM
+  conferencia_nombre: TERNIUM
+  conferencia_hora: 10:00 – 12:00
+  conferencia_lugar: Auditorio Javier Barros Sierra
+  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+  conferencia_empresa: TERNIUM
+  conferencia_fecha: 25 Abril 2023
+
+- conferencista_foto: images/companies/TECHINT.jpg
+  conferencista_linkedin: "TECHINT INGENIERÍA CONTRUCCIÓN"
+  conferencista_nombre: Platica TECHINT
+  conferencia_nombre: TECHINT
+  conferencia_hora: 12:00 – 14:00
+  conferencia_lugar: Auditorio Javier Barros Sierra
+  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+  conferencia_empresa: TECHINT
+  conferencia_fecha: 25 Abril 2023
+
+- conferencista_foto: images/companies/computra2.png
+  conferencista_linkedin: COMPUTRABAJO
+  conferencista_nombre: Platica COMPUTRABAJO
+  conferencia_nombre: COMPUTRABAJO
+  conferencia_hora: 14:00 – 16:00
+  conferencia_lugar: Auditorio Javier Barros Sierra
+  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+  conferencia_empresa: COMPUTRABAJO
+  conferencia_fecha: 25 Abril 2023
+
+- conferencista_foto: images/companies/cisco.png
+  conferencista_linkedin: CISCO
+  conferencista_nombre: Platica CISCO
+  conferencia_nombre: CISCO
+  conferencia_hora: 16:00 – 18:00
+  conferencia_lugar: Auditorio Javier Barros Sierra
+  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+  conferencia_empresa: CISCO
+  conferencia_fecha: 25 Abril 2023
