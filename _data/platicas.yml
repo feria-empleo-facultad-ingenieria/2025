@@ -40,6 +40,16 @@ platicas:
   conferencia_empresa: VITESCO TECHNOLOGIES
   conferencia_fecha: 24 Abril 2023
 
+- conferencista_foto: images/companies/zte.png
+  conferencista_linkedin: ZTE
+  conferencista_nombre: Platica ZTE
+  conferencia_nombre: ZTE
+  conferencia_hora: 18:00 – 19:00
+  conferencia_lugar: Auditorio Javier Barros Sierra
+  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+  conferencia_empresa: ZTE
+  conferencia_fecha: 24 Abril 2023
+
 - conferencista_foto: images/companies/ternium2.png
   conferencista_linkedin: TERNIUM
   conferencista_nombre: Platica TERNIUM
