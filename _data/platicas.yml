@@ -89,3 +89,13 @@ platicas:
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: CISCO
   conferencia_fecha: 25 Abril 2023
+
+- conferencista_foto: images/companies/icafluor.jpg
+  conferencista_linkedin: ICA FLUOR
+  conferencista_nombre: Platica ICA FLUOR
+  conferencia_nombre: ICA FLUOR
+  conferencia_hora: 18:00 – 19:00
+  conferencia_lugar: Auditorio Javier Barros Sierra
+  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+  conferencia_empresa: ICA FLUOR
+  conferencia_fecha: 25 Abril 2023
