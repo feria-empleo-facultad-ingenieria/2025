@@ -1,15 +1,16 @@
 companies:
-# - siteurl: https://escritorio.aspel.com.mx/webapps/b_trabajo_nuevo.exe/bienv
-#   logourl: images/companies/aspel.png
-#   name: Aspel
-#   carreras: TODAS LAS CARRERAS
-#   teaser: Aspel es una empresa 100% mexicana líder en el mercado de software y soluciones administrativas.
-#   abstract: Aspel es una empresa 100% mexicana líder en el mercado de software y soluciones administrativas. Automatiza los procesos de las micro, pequeñas y medianas empresas, favoreciendo la correcta toma de decisiones de manera sencilla, eficiente y productiva. Sus Sistemas facilitan el cumplimiento de las obligaciones fiscales electrónicas incluyendo facturación, contabilidad y nómina. 
-#   stand: S/A
-#   height1: 25px
-#   height: 80px
-#   heightStand: 40px
-#   column: 1
+- siteurl: https://www.aspel.com.mx/acerca-de-aspel
+  logourl: images/companies/SiigoAspel.png
+  name: Aspel
+  carreras: TODAS LAS CARRERAS
+  teaser: Aspel es una compañía con más de 40 años de experiencia, líder en el mercado de Software administrativo, brindando servicio a más de 1 millón de empresas en México y Latinoamérica.
+  abstract: Aspel es una compañía con más de 40 años de experiencia, líder en el mercado de Software administrativo, brindando servicio a más de 1 millón de empresas en México y Latinoamérica.
+  stand: S/A
+  height1: 40px
+  height: 80px
+  heightStand: 30px
+  heightStyle: height:50px
+  column: 1
 
 - siteurl: https://www.aspentech.com/en/careers
   logourl: images/companies/aspentech.PNG
