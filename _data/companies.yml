@@ -526,6 +526,19 @@ companies:
   heightStyle: height:60px
   column: 2
  
+- siteurl: http://sefi.org.mx/
+  logourl: images/companies/sefiazul.png
+  name: SEFI
+  carreras: TODAS LAS CARRERAS
+  teaser: El 19 de septiembre de 1962, se fundó la Sociedad de Exalumnos de la Facultad de Ingeniería, A.C. (SEFI)
+  abstract: En respuesta a la invitación del Rector Ignacio Chávez, el 19 de septiembre de 1962, se fundó la Sociedad de Exalumnos de la Facultad de Ingeniería, A.C. (SEFI). La cual tiene como objetivo colaborar moral y materialmente con la Universidad y con la Facultad de Ingeniería, organismos que tienen como fines la docencia, la investigación y la difusión de la cultura. Hoy en día, representa un ejemplo a seguir para toda la comunidad universitaria en apoyo a su Alma Mater.
+  stand: S/A
+  height1: 40px
+  height: 80px
+  heightStand: 40px
+  heightStyle: height:40px
+  column: 2
+
 - siteurl: https://sferea.com/
   logourl: images/companies/sferea.png
   name: Sferea
