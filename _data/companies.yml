@@ -262,18 +262,18 @@ companies:
   heightStyle: height:100px
   column: 1
 
-# - siteurl: http://www.henkel.mx/index.htm
-#   logourl: images/companies/henkel.jpg
-#   name: Henkel
-#   carreras: TODAS LAS CARRERAS
-#   teaser: El pensamiento emprendedor es parte de nuestra identidad. Únete a nuestros equipos
-#   abstract: El pensamiento emprendedor es parte de nuestra identidad. Únete a nuestros equipos diversos y globales y comienza cada día convirtiendo tus ideas en realidad. Puedes elegir entre innumerables oportunidades y desarrollar tu carrera al mismo tiempo que das forma activamente a las marcas y tecnologías de Henkel.
-#   stand: S/A
-#   height1: 40px
-#   height: 80px
-#   heightStand: 40px
-#   heightStyle: height:50px
-#   column: 1
+- siteurl: http://www.henkel.mx/index.htm
+  logourl: images/companies/henkel.jpg
+  name: Henkel
+  carreras: TODAS LAS CARRERAS
+  teaser: El pensamiento emprendedor es parte de nuestra identidad. Únete a nuestros equipos
+  abstract: El pensamiento emprendedor es parte de nuestra identidad. Únete a nuestros equipos diversos y globales y comienza cada día convirtiendo tus ideas en realidad. Puedes elegir entre innumerables oportunidades y desarrollar tu carrera al mismo tiempo que das forma activamente a las marcas y tecnologías de Henkel.
+  stand: S/A
+  height1: 40px
+  height: 80px
+  heightStand: 40px
+  heightStyle: height:50px
+  column: 1
 
 - siteurl: https://www.huawei.com/mx/contact-us
   logourl: images/companies/huawei.svg
