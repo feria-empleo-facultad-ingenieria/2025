@@ -8,7 +8,7 @@ platicas:
   conferencia_lugar: Auditorio Javier Barros Sierra
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: FORD
-  conferencia_fecha: 24 Abril 2023
+  conferencia_fecha: 12 Junio 2023
 
 - conferencista_foto: images/companies/KPMG.png
   conferencista_linkedin: KPMG
@@ -18,7 +18,7 @@ platicas:
   conferencia_lugar: Auditorio Javier Barros Sierra
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: KPMG
-  conferencia_fecha: 24 Abril 2023
+  conferencia_fecha: 12 Junio 2023
 
 - conferencista_foto: images/companies/huawei.png
   conferencista_linkedin: HUAWEI
@@ -28,7 +28,7 @@ platicas:
   conferencia_lugar: Auditorio Javier Barros Sierra
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: HUAWEI
-  conferencia_fecha: 24 Abril 2023
+  conferencia_fecha: 12 Junio 2023
 
 - conferencista_foto: images/companies/vitesco.svg
   conferencista_linkedin: VITESCO TECHNOLOGIES
@@ -38,7 +38,7 @@ platicas:
   conferencia_lugar: Auditorio Javier Barros Sierra
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: VITESCO TECHNOLOGIES
-  conferencia_fecha: 24 Abril 2023
+  conferencia_fecha: 12 Junio 2023
 
 - conferencista_foto: images/companies/zte.png
   conferencista_linkedin: ZTE
@@ -48,7 +48,7 @@ platicas:
   conferencia_lugar: Auditorio Javier Barros Sierra
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: ZTE
-  conferencia_fecha: 24 Abril 2023
+  conferencia_fecha: 12 Junio 2023
 
 - conferencista_foto: images/companies/ternium2.png
   conferencista_linkedin: TERNIUM
@@ -58,7 +58,7 @@ platicas:
   conferencia_lugar: Auditorio Javier Barros Sierra
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: TERNIUM
-  conferencia_fecha: 25 Abril 2023
+  conferencia_fecha: 13 Junio 2023
 
 - conferencista_foto: images/companies/TECHINT.jpg
   conferencista_linkedin: "TECHINT INGENIERÍA CONTRUCCIÓN"
@@ -68,7 +68,7 @@ platicas:
   conferencia_lugar: Auditorio Javier Barros Sierra
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: TECHINT
-  conferencia_fecha: 25 Abril 2023
+  conferencia_fecha: 13 Junio 2023
 
 - conferencista_foto: images/companies/computra2.png
   conferencista_linkedin: COMPUTRABAJO
@@ -78,7 +78,7 @@ platicas:
   conferencia_lugar: Auditorio Javier Barros Sierra
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: COMPUTRABAJO
-  conferencia_fecha: 25 Abril 2023
+  conferencia_fecha: 13 Junio 2023
 
 - conferencista_foto: images/companies/cisco.png
   conferencista_linkedin: CISCO
@@ -88,7 +88,7 @@ platicas:
   conferencia_lugar: Auditorio Javier Barros Sierra
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: CISCO
-  conferencia_fecha: 25 Abril 2023
+  conferencia_fecha: 13 Junio 2023
 
 - conferencista_foto: images/companies/icafluor.jpg
   conferencista_linkedin: ICA FLUOR
@@ -98,4 +98,4 @@ platicas:
   conferencia_lugar: Auditorio Javier Barros Sierra
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: ICA FLUOR
-  conferencia_fecha: 25 Abril 2023
+  conferencia_fecha: 13 Junio 2023
