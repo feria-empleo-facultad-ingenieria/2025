@@ -126,18 +126,18 @@ companies:
 #   height: 80px
 #   column: 1
 
-- siteurl: https://grupoinfra.com/
-  logourl: images/companies/cryo.jpeg
-  name: CryoInfra
-  carreras: TODAS LAS CARRERAS
-  teaser: Por 100 años Grupo Infra ha sido protagonista de la transformación de México
-  abstract: Por 100 años Grupo Infra ha sido protagonista de la transformación de México. Siendo parte esencial del que hacer y del desarrollo en el sector industrial y de salud en nuestro país.
-  stand: S/A
-  height1: 30px
-  height: 80px
-  heightStand: 40px
-  heightStyle: height:50px
-  column: 1
+# - siteurl: https://grupoinfra.com/
+#   logourl: images/companies/cryo.jpeg
+#   name: CryoInfra
+#   carreras: TODAS LAS CARRERAS
+#   teaser: Por 100 años Grupo Infra ha sido protagonista de la transformación de México
+#   abstract: Por 100 años Grupo Infra ha sido protagonista de la transformación de México. Siendo parte esencial del que hacer y del desarrollo en el sector industrial y de salud en nuestro país.
+#   stand: S/A
+#   height1: 30px
+#   height: 80px
+#   heightStand: 40px
+#   heightStyle: height:50px
+#   column: 1
 
 # - siteurl: https://jobs2.deloitte.com/mx/es?icid=top_job-search&amp;id=mx
 #   logourl: images/companies/deloitte.jpg
