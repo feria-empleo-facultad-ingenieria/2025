@@ -275,6 +275,19 @@ companies:
   heightStyle: height:50px
   column: 1
 
+- siteurl: https://www.holcim.com.mx/trabaja-con-nosotros
+  logourl: images/companies/HOLCIM.jpg
+  name: Holcim
+  carreras: TODAS LAS CARRERAS
+  teaser: Holcim México busca reclutar, desarrollar y retener al mejor talento para ayudarnos a enfrentar los desafíos y oportunidades que hoy vivimos.
+  abstract: Necesitamos personas deseosas de desarrollar todo su potencial, a la vez que ofrecemos valor a nuestra marca, clientes y la sociedad en general.
+  stand: S/A
+  height1: 20px
+  height: 40px
+  heightStand: 20px
+  heightStyle: height:25px
+  column: 1
+
 - siteurl: https://www.huawei.com/mx/contact-us
   logourl: images/companies/huawei.svg
   name: Huawei
