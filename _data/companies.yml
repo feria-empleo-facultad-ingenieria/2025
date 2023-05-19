@@ -403,6 +403,19 @@ companies:
   heightStyle: height:50px
   column: 2
 
+- siteurl: https://www.mota-engil.com/es/
+  logourl: images/companies/motaengine.png
+  name: Mota-Engil
+  carreras: TODAS LAS CARRERAS
+  teaser: El Grupo Mota-Engil tiene un trayecto empresarial de más de 75 años, señalados por una cultura de emprendimiento e innovación en su búsqueda permanente de nuevos horizontes.
+  abstract: Con un posicionamiento de mercado alineado con las mejores prácticas y con una conducta empresarial basada en principios éticos y apoyados en una visión estratégica única e integrada para el futuro, Mota-Engil busca convertirse en un Grupo más internacional, innovador y competitivo a escala global.
+  stand: S/A
+  height1: 60px
+  height: 80px
+  heightStand: 70px
+  heightStyle: height:100px
+  column: 2
+
 - siteurl: https://careers.niagarawater.com/us/en
   logourl: images/companies/niagara.jpeg
   name: Niagara
