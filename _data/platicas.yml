@@ -50,15 +50,26 @@ platicas:
   conferencia_empresa: ZTE
   conferencia_fecha: 12 Junio 2023
 
-- conferencista_foto: images/companies/ternium2.png
-  conferencista_linkedin: TERNIUM
-  conferencista_nombre: Platica TERNIUM
-  conferencia_nombre: TERNIUM
+# - conferencista_foto: images/companies/ternium2.png
+#   conferencista_linkedin: TERNIUM
+#   conferencista_nombre: Platica TERNIUM
+#   conferencia_nombre: TERNIUM
+#   conferencia_hora: 10:00 – 12:00
+#   conferencia_lugar: Auditorio Javier Barros Sierra
+#   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+#   conferencia_empresa: TERNIUM
+#   conferencia_fecha: 13 Junio 2023
+
+- conferencista_foto: images/companies/icafluor.jpg
+  conferencista_linkedin: ICA FLUOR
+  conferencista_nombre: Platica ICA FLUOR
+  conferencia_nombre: ICA FLUOR
   conferencia_hora: 10:00 – 12:00
   conferencia_lugar: Auditorio Javier Barros Sierra
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
-  conferencia_empresa: TERNIUM
+  conferencia_empresa: ICA FLUOR
   conferencia_fecha: 13 Junio 2023
+
 
 - conferencista_foto: images/companies/TECHINT.jpg
   conferencista_linkedin: "TECHINT INGENIERÍA Y CONTRUCCIÓN"
@@ -90,12 +101,12 @@ platicas:
   conferencia_empresa: CISCO
   conferencia_fecha: 13 Junio 2023
 
-- conferencista_foto: images/companies/icafluor.jpg
-  conferencista_linkedin: ICA FLUOR
-  conferencista_nombre: Platica ICA FLUOR
-  conferencia_nombre: ICA FLUOR
+- conferencista_foto: images/companies/audi.png
+  conferencista_linkedin: AUDI
+  conferencista_nombre: Platica AUDI
+  conferencia_nombre: AUDI
   conferencia_hora: 18:00 – 19:00
   conferencia_lugar: Auditorio Javier Barros Sierra
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
-  conferencia_empresa: ICA FLUOR
+  conferencia_empresa: AUDI
   conferencia_fecha: 13 Junio 2023
