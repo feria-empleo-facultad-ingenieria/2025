@@ -5,37 +5,37 @@ actividades:
   abstract: Con la presencia del Director de la Facultad
   hora: 10:00 - 10:15 
   lugar: Edificio principal de la Facultad de Ingeniería
-  recinto: Vestibulo del Auditorio Javier Barros Sierra
+  recinto: Auditorio "Javier Barros Sierra"
 - mes: JUN
   dia: 12
   nombre: FORD
   hora: 10:00 – 12:00 
   lugar: Auditorio
-  recinto: Auditorio Javier Barros Sierra
+  recinto: Auditorio "Javier Barros Sierra"
 - mes: JUN
   dia: 12
   nombre: KPMG
   hora: 12:00 – 14:00 
   lugar: Auditorio
-  recinto: Auditorio Javier Barros Sierra
+  recinto: Auditorio "Javier Barros Sierra"
 - mes: JUN
   dia: 12
   nombre: HUAWEI
   hora: 14:00 – 16:00 
   lugar: Auditorio
-  recinto: Auditorio Javier Barros Sierra
+  recinto: Auditorio "Javier Barros Sierra"
 - mes: JUN
   dia: 12
   nombre: VITESCO TECHNOLOGIES
   hora: 16:00 – 18:00 
   lugar: Auditorio
-  recinto: Auditorio Javier Barros Sierra
+  recinto: Auditorio "Javier Barros Sierra"
 - mes: JUN
   dia: 12
   nombre: ZTE
   hora: 18:00 – 19:00 
   lugar: Auditorio
-  recinto: Auditorio Javier Barros Sierra
+  recinto: Auditorio "Javier Barros Sierra"
 
 
 - mes: JUN
@@ -43,7 +43,7 @@ actividades:
   nombre: ICA FLUOR
   hora: 10:00 – 12:00 
   lugar: Auditorio
-  recinto: Auditorio Javier Barros Sierra
+  recinto: Auditorio "Javier Barros Sierra"
 
 # - mes: JUN
 #   dia: 13
@@ -57,26 +57,26 @@ actividades:
   nombre: "TECHINT INGENIERÍA Y CONTRUCCIÓN"
   hora: 12:00 – 14:00 
   lugar: Auditorio
-  recinto: Auditorio Javier Barros Sierra
+  recinto: Auditorio "Javier Barros Sierra"
 - mes: JUN
   dia: 13
   nombre: COMPUTRABAJO
   hora: 14:00 – 16:00 
   lugar: Auditorio
-  recinto: Auditorio Javier Barros Sierra
+  recinto: Auditorio "Javier Barros Sierra"
 - mes: JUN
   dia: 13
   nombre: CISCO
   hora: 16:00 – 18:00 
   lugar: Auditorio
-  recinto: Auditorio Javier Barros Sierra
+  recinto: Auditorio "Javier Barros Sierra"
 
 - mes: JUN
   dia: 13
   nombre: AUDI
   hora: 18:00 – 19:00 
   lugar: Auditorio
-  recinto: Auditorio Javier Barros Sierra
+  recinto: Auditorio "Javier Barros Sierra"
 #
 # - mes: MAR 
 #   dia: 30
