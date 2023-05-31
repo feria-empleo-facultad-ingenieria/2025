@@ -161,6 +161,19 @@ companies:
 #   height: 80px
 #   column: 1
 
+- siteurl: http://www.dgoae.unam.mx/
+  logourl: images/companies/dgoae23.png
+  name: DGOAE
+  carreras: TODAS LAS CARRERAS
+  teaser: La Dirección General de Orientación y Atención Educativa (DGOAE) a través del Centro de Orientación Educativa (COE) creó este espacio virtual, en el podrás encontrar información sobre becas, servicio social, voluntariado, bolsa de trabajo y la oferta educativa de la UNAM.
+  abstract: Apoyamos tu formación integral a través de distintos talleres, cursos, charlas o videoconferencias en temas importantes para ti como Elección de carrera, cambio de carrera, segunda carrera, análisis del plan de estudios, modalidad abierta o distancia, proyecto de vida, autoconocimiento, manejo de estrés, manejo de sentimientos y emociones, resiliencia, estrategias de aprendizaje, prevención de la violencia, promoción de la equidad de género, entre otras muchas temáticas.
+  stand: S/A
+  height1: 40px
+  height: 50px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+
 # - siteurl: https://www.emerson.com/es-mx/careers
 #   logourl: images/companies/emerson.png
 #   name: Emerson
@@ -603,18 +616,18 @@ companies:
   heightStyle: height:50px
   column: 2
 
-- siteurl: https://carrera.ternium.com/
-  logourl: images/companies/ternium2.png
-  name: Ternium
-  carreras: TODAS LAS CARRERAS
-  teaser: Si te gustaría trabajar y aprender en un ambiente de oportunidades que vive la Seguridad, el cuidado del Medio Ambiente y la Calidad como valores, y donde la Equidad e Inclusión son rasgos de la cultura.
-  abstract: Si te gustaría trabajar y aprender en un ambiente de oportunidades que vive la Seguridad, el cuidado del Medio Ambiente y la Calidad como valores, y donde la Equidad e Inclusión son rasgos de la cultura.
-  stand: S/A
-  height1: 40px
-  height: 120px
-  heightStand: 50px
-  heightStyle: height:70px
-  column: 2
+# - siteurl: https://carrera.ternium.com/
+#   logourl: images/companies/ternium2.png
+#   name: Ternium
+#   carreras: TODAS LAS CARRERAS
+#   teaser: Si te gustaría trabajar y aprender en un ambiente de oportunidades que vive la Seguridad, el cuidado del Medio Ambiente y la Calidad como valores, y donde la Equidad e Inclusión son rasgos de la cultura.
+#   abstract: Si te gustaría trabajar y aprender en un ambiente de oportunidades que vive la Seguridad, el cuidado del Medio Ambiente y la Calidad como valores, y donde la Equidad e Inclusión son rasgos de la cultura.
+#   stand: S/A
+#   height1: 40px
+#   height: 120px
+#   heightStand: 50px
+#   heightStyle: height:70px
+#   column: 2
 
 # - siteurl: https://careers.unilever.es/mexico
 #   logourl: images/companies/UL.png
