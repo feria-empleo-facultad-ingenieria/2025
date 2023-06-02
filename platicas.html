@@ -34,7 +34,9 @@ layout: default_feria
               <div class="col">
                 <div class="media align-items-center">
                   <div class="avatar avatar-2xl status-online">
-                    <img src="{{ platica.conferencista_foto }}" width="120" alt="">
+                    <div style="width: 150px;">
+                      <img src="{{ platica.conferencista_foto }}" width="{{platica.image_width}}}" alt="">
+                    </div>
                   </div>
                   <div class="media-body ml-2">
                     <p class="mb-0">
