@@ -62,18 +62,18 @@ companies:
 #   height: 80px
 #   column: 1
 
-- siteurl: https://bosonit.com/
-  logourl: images/companies/bosonit.png
-  name: Bosonit
-  carreras: TODAS LAS CARRERAS
-  teaser: Formamos al talento que el futuro demanda con NxtGen. Tú futuro empieza aquí.
-  abstract: Formamos profesionales a través de programas formativos de última generación y colaboramos con universidad, empresas y corporaciones diseñando itinerarios formativos únicos para el desarrollo continuo.
-  stand: S/A
-  height1: 20px
-  height: 40px
-  heightStand: 40px
-  heightStyle: height:50px
-  column: 1
+# - siteurl: https://bosonit.com/
+#   logourl: images/companies/bosonit.png
+#   name: Bosonit
+#   carreras: TODAS LAS CARRERAS
+#   teaser: Formamos al talento que el futuro demanda con NxtGen. Tú futuro empieza aquí.
+#   abstract: Formamos profesionales a través de programas formativos de última generación y colaboramos con universidad, empresas y corporaciones diseñando itinerarios formativos únicos para el desarrollo continuo.
+#   stand: S/A
+#   height1: 20px
+#   height: 40px
+#   heightStand: 40px
+#   heightStyle: height:50px
+#   column: 1
 
 - siteurl: http://www.ciadetalentos.com.mx/
   logourl: images/companies/cia2.jpg
@@ -347,7 +347,7 @@ companies:
   stand: S/A
   height1: 25px
   height: 80px
-  heightStand: 40px
+  heightStand: 30px
   heightStyle: height:50px
   column: 1
 
@@ -373,7 +373,7 @@ companies:
   stand: S/A
   height1: 40px
   height: 80px
-  heightStand: 40px
+  heightStand: 30px
   heightStyle: height:50px
   column: 2
 
@@ -438,7 +438,7 @@ companies:
   stand: S/A
   height1: 30px
   height: 80px
-  heightStand: 40px
+  heightStand: 30px
   heightStyle: height:50px
   column: 2
 
@@ -612,7 +612,7 @@ companies:
   stand: S/A
   height1: 25px
   height: 50px
-  heightStand: 40px
+  heightStand: 30px
   heightStyle: height:50px
   column: 2
 
@@ -662,9 +662,24 @@ companies:
   stand: S/A
   height1: 30px
   height: 80px
-  heightStand: 40px
+  heightStand: 30px
   heightStyle: height:50px
   column: 2
+
+- siteurl: https://wireco.com/es/
+  logourl: images/companies/wirecom.png
+  name: Wireco
+  carreras: TODAS LAS CARRERAS
+  teaser: Únase a WireCo, líder mundial en cable metálico, cable sintético, alambre, hilos sintéticos, cable electromecánico y productos de ingeniería.
+  abstract: En WireCo sabemos que nuestro éxito depende de las personas. Valoramos tanto a las buenas personas que trabajan para nosotros como a las que nos compran. Juntos, hacen que todo sea posible.
+  stand: S/A
+  height1: 30px
+  height: 40px
+  heightStand: 40px
+  heightStyle: height:50px
+
+  column: 2
+  
   
 # - siteurl: http://www.walmartmexico.com.mx/bolsa-de-trabajo-mex-cam.html
 #   logourl: images/companies/walmart.jpg
@@ -700,7 +715,7 @@ companies:
   stand: S/A
   height1: 20px
   height: 40px
-  heightStand: 30px
+  heightStand: 20px
   heightStyle: height:40px
   column: 2
 
