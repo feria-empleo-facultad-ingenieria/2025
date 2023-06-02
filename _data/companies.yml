@@ -96,7 +96,7 @@ companies:
   abstract: Emerging Talent's goal is to help kickstart your career, from expanding your skillset to building your network and gaining valuable experience to propel your career. Our programs include roles for interns, apprentices, recent graduates, and those educated through alternative paths such as boot camps or community college.
   stand: S/A
   height1: 40px
-  height: 80px
+  height: 40px
   heightStand: 50px
   heightStyle: height:50px
   column: 1
@@ -109,7 +109,7 @@ companies:
   abstract: Publica tus ofertas en el portal de empleo con mayor audiencia en Latinoamérica.
   stand: S/A
   height1: 25px
-  height: 80px
+  height: 50px
   heightStand: 40px
   heightStyle: height:50px
   column: 1
@@ -206,7 +206,7 @@ companies:
   abstract: Ford Motor Company creates transportation solutions built to improve people's lives. Our innovative products, accessories, experiences, and services are designed and produced across six continents, and we are always looking to attract top talent. Join us.
   stand: S/A
   height1: 30px
-  height: 80px
+  height: 50px
   heightStand: 40px
   heightStyle: height:50px
   column: 1
@@ -219,7 +219,7 @@ companies:
   abstract: Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección. Aquí podrás registrarte y aplicar a las oportunidades de empleo disponibles.
   stand: S/A
   height1: 30px
-  height: 80px
+  height: 60px
   heightStand: 40px
   heightStyle: height:40px
   column: 1
@@ -257,7 +257,7 @@ companies:
   abstract: En Grupo México sabemos que el logro de resultados sólo se alcanza a través del capital humano, por lo que siempre buscamos atraer, desarrollar y retener al mejor talento. Consulta las oportunidades profesionales con las que contamos en los ámbitos administrativo y operativo de diversas áreas de negocio en nuestras 3 divisiones.
   stand: S/A
   height1: 50px
-  height: 100px
+  height: 50px
   heightStand: 30px
   heightStyle: height:50px
   column: 1
@@ -270,7 +270,7 @@ companies:
   abstract: La diversidad es nuestra carta fuerte. Somos un grupo formado por un conjunto de empresas que se caracterizan por el dinamismo, la evolución constante y la innovación.
   stand: S/A
   height1: 40px
-  height: 100px
+  height: 50px
   heightStand: 60px
   heightStyle: height:100px
   column: 1
@@ -309,7 +309,7 @@ companies:
   abstract: Fundada en 1987, Huawei es un proveedor de infraestructura de tecnologías de información y comunicaciones (TIC) y dispositivos inteligentes. Tenemos aproximadamente 195,000 empleados y operamos en más de 170 países y regiones, sirviendo a más de 3 mil millones de personas alrededor del mundo.
   stand: S/A
   height1: 40px
-  height: 80px
+  height: 40px
   heightStand: 30px
   heightStyle: height:50px
   column: 1
@@ -322,7 +322,7 @@ companies:
   abstract: KEYENCE ha crecido de forma constante desde el año 1974 para convertirse en un líder innovador en el desarrollo y fabricación de equipos de automatización industrial e inspección, a nivel mundial. Nuestros productos consisten en lectores de códigos, marcadores láser, sistemas de visión artificial, sistemas de medición, microscopios, sensores y eliminadores de estática.
   stand: S/A
   height1: 25px
-  height: 80px
+  height: 40px
   heightStand: 30px
   heightStyle: height:50px
   column: 1
@@ -346,7 +346,7 @@ companies:
   abstract: Somos una red global de firmas con profundas raíces locales, que brindamos servicios de Auditoría, Impuestos y Asesoría al mercado. Ofrecemos un beneficio doble a nuestros clientes, experiencia global y un amplio conocimiento local de sus necesidades.
   stand: S/A
   height1: 25px
-  height: 80px
+  height: 40px
   heightStand: 30px
   heightStyle: height:50px
   column: 1
@@ -359,7 +359,7 @@ companies:
   abstract: ICA es la empresa líder en construcción y operación de infraestructura en México, fundada en 1947 y con experiencia en trece países, siete sectores y un sólido portafolio de activos. El grupo está conformado por tres divisiones y especialidades en construcción civil e industrial, concesiones y aeropuertos.
   stand: S/A
   height1: 40px
-  height: 80px
+  height: 50px
   heightStand: 40px
   heightStyle: height:50px
   column: 2
@@ -385,7 +385,7 @@ companies:
   abstract: ¡Te estamos esperando! Elige a una empresa que ha vuelto a ser certificada por Top Employer como una de las mejores empresas para trabajar de España. 
   stand: S/A
   height1: 40px
-  height: 80px
+  height: 40px
   heightStand: 40px
   heightStyle: height:50px
   column: 2
@@ -398,7 +398,7 @@ companies:
   abstract: We are a uniquely diverse group of professionals working together as one team. This is behind everything we do and at the heart of our success. Become a part of our team and join our talented professionals on challenging projects around the world.
   stand: S/A
   height1: 30px
-  height: 80px
+  height: 40px
   heightStand: 40px
   heightStyle: height:50px
   column: 2
@@ -411,7 +411,7 @@ companies:
   abstract: "In order to be where our machines and lines produce beverages and liquid food every day, we have built up a strong international network: Around 17,200 people work for Krones in more than 100 countries around the world - more than 10,100 of them in Germany. In addition to the headquarters in Neutraubling, Krones operates plants in Nittenau, Rosenheim and Flensburg."
   stand: S/A
   height1: 40px
-  height: 80px
+  height: 50px
   heightStand: 40px
   heightStyle: height:50px
   column: 2
@@ -424,7 +424,7 @@ companies:
   abstract: Con un posicionamiento de mercado alineado con las mejores prácticas y con una conducta empresarial basada en principios éticos y apoyados en una visión estratégica única e integrada para el futuro, Mota-Engil busca convertirse en un Grupo más internacional, innovador y competitivo a escala global.
   stand: S/A
   height1: 60px
-  height: 80px
+  height: 100px
   heightStand: 70px
   heightStyle: height:100px
   column: 2
@@ -437,7 +437,7 @@ companies:
   abstract: Although we’ve experienced rapid growth over the last 55 years, our family tradition of high quality, value priced bottled water will never change. Through innovation and hard work, Niagara is a leading private label beverage company in the United States.  
   stand: S/A
   height1: 30px
-  height: 80px
+  height: 40px
   heightStand: 30px
   heightStyle: height:50px
   column: 2
@@ -522,7 +522,7 @@ companies:
   abstract: Day 1. It’s something everyone experiences when they join a new company, whether they’re a student, a recent graduate or a seasoned professional. P&G’s Day 1 starts with you doing something that matters – making an impact on the world, P&G brands, and your career.
   stand: S/A
   height1: 25px
-  height: 80px
+  height: 40px
   heightStand: 30px
   heightStyle: height:50px
   column: 2
@@ -551,6 +551,19 @@ companies:
 #   height: 80px
 #   heightStand: 40px
 #   column: 2
+
+- siteurl: https://mx.saint-gobain-glass.com/es-MX
+  logourl: images/companies/logosg.png
+  name: Saint-Gobain
+  carreras: TODAS LAS CARRERAS
+  teaser: ¡Trabaja en una empresa con más de 350 años de innovación que busca construir lugares grandiosos para vivir y mejorar la vida diaria a través del confort y la sustentabilidad
+  abstract: Creemos que las personas son protagonistas de sus carreras. Por lo tanto, el Grupo cuenta con prácticas de recursos humanos que se han construido en una cultura de respeto, apertura a la diversidad y reconocimiento del talento interno.
+  stand: S/A
+  height1: 40px
+  height: 60px
+  heightStand: 40px
+  heightStyle: height:40px
+  column: 2
 
 - siteurl: https://careers.slb.com/
   logourl: images/companies/slb.jpeg
@@ -611,7 +624,7 @@ companies:
   abstract: Techint Ingeniería y Construcción lo invita a participar de una compañía en donde cada proyecto es una oportunidad única para crecer y adquirir nuevas experiencias.
   stand: S/A
   height1: 25px
-  height: 50px
+  height: 30px
   heightStand: 30px
   heightStyle: height:50px
   column: 2
@@ -661,7 +674,7 @@ companies:
   abstract: Ofrecemos una amplia gama de trabajos para pioneros apasionados a través de una organización global. Nuestra flexibilidad, valores y cultura dinámica impulsan nuestro éxito en un entorno rápidamente cambiante. Como división de Continental ofrecemos diversas oportunidades de trabajo y desarrollo.
   stand: S/A
   height1: 30px
-  height: 80px
+  height: 40px
   heightStand: 30px
   heightStyle: height:50px
   column: 2
@@ -701,7 +714,7 @@ companies:
   abstract: Aseguramos al mejor talento de la industria en Latinoamérica
   stand: S/A
   height1: 30px
-  height: 80px
+  height: 60px
   heightStand: 40px
   heightStyle: height:50px
   column: 2
@@ -727,7 +740,7 @@ companies:
   abstract: Sabemos que estamos hechos del tamaño y calidad de la gente que trabaja con nosotros, estamos conformados por la entereza y grandeza del personal, por eso, Zuma TI es una gran opción para trabajar. Nosotros apoyamos el crecimiento, capacitando de forma continua, brindando oportunidades de desarrollo de acuerdo con tus propias necesidades y requerimientos. Somos una empresa emprendedora, innovadora y con la firme convicción de convertirnos en punta de lanza en nuestro sector. Al ser parte de Zuma TI, te sumas a la experiencia y confirmas el modelo de calidad.
   stand: S/A
   height1: 40px
-  height: 80px
+  height: 40px
   heightStand: 40px
   heightStyle: height:50px
   column: 2
