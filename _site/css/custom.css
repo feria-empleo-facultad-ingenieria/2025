@@ -24,7 +24,7 @@ AZUL: #185ec6
 @media (max-width: 576px) { 
   .rombocontainer{
     margin-top: 0 !important;
-    width: 200px !important;
+    width: 400px !important;
   }
 }
 .card-marcas{
