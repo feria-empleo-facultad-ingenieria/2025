@@ -7,7 +7,7 @@ companies:
   abstract: Aspel es una compañía con más de 40 años de experiencia, líder en el mercado de Software administrativo, brindando servicio a más de 1 millón de empresas en México y Latinoamérica.
   stand: S/A
   height1: 40px
-  height: 80px
+  height: 60px
   heightStand: 30px
   heightStyle: height:50px
   column: 1
@@ -20,7 +20,7 @@ companies:
   abstract: While our impact on the world is big, we offer many of the advantages of a smaller organization. Every employee has a real opportunity to make important contributions that directly benefit our customers and drive our success.
   stand: S/A
   height1: 30px
-  height: 80px
+  height: 60px
   heightStand: 40px
   heightStyle: height:50px
   column: 1
@@ -33,7 +33,7 @@ companies:
   abstract: Audi offers you a modern work environment with many additional, personalized benefits, training and development options, health programs, as well as a support for your personal life and career. We incentivize young people and experienced professionals alike to contribute with their knowledge and skills in a targeted manner. Whether you are looking to start your professional journey, attend a dual university or take the next career step, Audi is a powerful partner, who gives you the flexibility you need for your personal growth.
   stand: S/A
   height1: 30px
-  height: 80px
+  height: 60px
   heightStand: 50px
   heightStyle: height:50px
   column: 1
@@ -46,7 +46,7 @@ companies:
   abstract: Axity es una de las principales empresas de TI de Latinoamérica y hogar del mejor talento. Nuestra familia está conformada por más de 3,500 colaboradores que abarcan todo el espectro Tecnologías de la Información. Desde la estrategia, la gestión de información, el desarrollo e implementación de aplicaciones, la ciberseguridad, las redes de telecomunicaciones, las soluciones de colaboración y hasta los centros de datos. 
   stand: S/A
   height1: 50px
-  height: 80px
+  height: 60px
   heightStand: 50px
   heightStyle: height:60px
   column: 1
@@ -83,7 +83,7 @@ companies:
   abstract: Conectamos a los mejores talentos con las mejores oportunidades, y desarrollamos tanto empresas como personas para que alcancen, todos los días, la mejor versión de sí mismos. El Grupo Cia de Talentos es mucho más que una consultora de selección y desarrollo somos una empresa de educación para la carrera. Creemos en el potencial de todos en cada uno siempre existe un talento capaz de transformar y movilizar a las empresas y a la sociedad. Para eso trabajamos.
   stand: S/A
   height1: 40px
-  height: 80px
+  height: 60px
   heightStand: 60px
   heightStyle: height:50px
   column: 1
@@ -109,11 +109,23 @@ companies:
   abstract: Publica tus ofertas en el portal de empleo con mayor audiencia en Latinoamérica.
   stand: S/A
   height1: 25px
-  height: 50px
+  height: 40px
   heightStand: 40px
   heightStyle: height:50px
   column: 1
 
+- siteurl: https://www.daimlertruck.com/en
+  logourl: images/companies/daimlertruck.png
+  name: Daimlertruck
+  carreras: TODAS LAS CARRERAS
+  teaser: What comes after school? Daimler Truck presents a world of opportunities for pupils. And even offers work experience placements while you're still at school. There are fascinating traineeships too. Or challenging dual study programs.
+  abstract: What comes after school? Daimler Truck presents a world of opportunities for pupils. And even offers work experience placements while you're still at school. There are fascinating traineeships too. Or challenging dual study programs. And to make sure nothing stands in the way of your career when you graduate from school, we offer useful tips for a successful application. There's nowhere better to start your future.
+  stand: S/A
+  height1: 10px
+  height: 20px
+  heightStand: 12px
+  heightStyle: height:30px
+  column: 1
 
 # - siteurl: https://www.banamex.com/gentebanamex/
 #   logourl: images/companies/citibanamex.jpg
@@ -206,7 +218,7 @@ companies:
   abstract: People are the heart of our organization and we put them first in everything we do. From professional development to a wide range of training opportunities, we continually strive to create an empowering and healthy place to work. Combining our values of growth, work/life balance and World-Class Execution is what sets our workplace apart from the rest. Only FieldCore can offer this wide range of opportunities across the power generation industry, combined with excellent career paths in technical, functional and leadership areas.
   stand: S/A
   height1: 40px
-  height: 80px
+  height: 60px
   heightStand: 40px
   heightStyle: height:50px
   column: 1
@@ -270,7 +282,7 @@ companies:
   abstract: En Grupo México sabemos que el logro de resultados sólo se alcanza a través del capital humano, por lo que siempre buscamos atraer, desarrollar y retener al mejor talento. Consulta las oportunidades profesionales con las que contamos en los ámbitos administrativo y operativo de diversas áreas de negocio en nuestras 3 divisiones.
   stand: S/A
   height1: 50px
-  height: 50px
+  height: 30px
   heightStand: 30px
   heightStyle: height:50px
   column: 1
@@ -309,7 +321,7 @@ companies:
   abstract: Necesitamos personas deseosas de desarrollar todo su potencial, a la vez que ofrecemos valor a nuestra marca, clientes y la sociedad en general.
   stand: S/A
   height1: 20px
-  height: 40px
+  height: 30px
   heightStand: 20px
   heightStyle: height:40px
   column: 1
@@ -335,7 +347,7 @@ companies:
   abstract: KEYENCE ha crecido de forma constante desde el año 1974 para convertirse en un líder innovador en el desarrollo y fabricación de equipos de automatización industrial e inspección, a nivel mundial. Nuestros productos consisten en lectores de códigos, marcadores láser, sistemas de visión artificial, sistemas de medición, microscopios, sensores y eliminadores de estática.
   stand: S/A
   height1: 25px
-  height: 40px
+  height: 30px
   heightStand: 30px
   heightStyle: height:50px
   column: 1
@@ -359,7 +371,7 @@ companies:
   abstract: Somos una red global de firmas con profundas raíces locales, que brindamos servicios de Auditoría, Impuestos y Asesoría al mercado. Ofrecemos un beneficio doble a nuestros clientes, experiencia global y un amplio conocimiento local de sus necesidades.
   stand: S/A
   height1: 25px
-  height: 40px
+  height: 30px
   heightStand: 30px
   heightStyle: height:50px
   column: 1
@@ -612,7 +624,7 @@ companies:
   abstract: Somos la empresa líder en México en el Desarrollo de Aplicaciones Móviles para procesos de negocios, gobierno, medios, banca, entrenimiento y marketing móvil.
   stand: S/A
   height1: 40px
-  height: 80px
+  height: 60px
   heightStand: 60px
   heightStyle: height:60px
   column: 2
@@ -727,7 +739,7 @@ companies:
   abstract: Aseguramos al mejor talento de la industria en Latinoamérica
   stand: S/A
   height1: 30px
-  height: 60px
+  height: 40px
   heightStand: 40px
   heightStyle: height:50px
   column: 2
@@ -740,7 +752,7 @@ companies:
   abstract: ZTE is a world-leading comprehensive telecommunication solution provider, the largest telecommunication equipment listed company, as well as a top ranking ICT solutions provider.
   stand: S/A
   height1: 20px
-  height: 40px
+  height: 30px
   heightStand: 20px
   heightStyle: height:40px
   column: 2
