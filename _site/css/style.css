@@ -702,7 +702,7 @@ body.stretched .container-fullwidth {
 
 #header {
 	position: relative;
-	background-color: #d8d8d8;
+	background-color: #f0f0f0;
 	border-bottom: 1px solid #F5F5F5;
 }
 
@@ -794,7 +794,7 @@ border-right-color: rgba(0,0,0,0.1);
 #logo a {
 	display: block;
 	color: #000;
-	background:#d8d8d8;
+	background:#f0f0f0;
 }
 
 #logo img {
@@ -1007,7 +1007,7 @@ border-right-color: rgba(0,0,0,0.1);
 }
 
 #primary-menu ul ul li:hover > a {
-	background-color: #d8d8d8;
+	background-color: #f0f0f0;
 	padding-left: 18px;
 	color: #cd171e !important;
 }
@@ -1358,7 +1358,7 @@ body:not(.device-sm):not(.device-xs):not(.device-xxs) #primary-menu.style-2.cent
 }
 
 .overlay-menu #primary-menu > ul > li > a:hover {
-	background-color:#d8d8d8;
+	background-color:#f0f0f0;
 }
 
 
@@ -9532,7 +9532,7 @@ button.toast-close-button {
 }
 
 .btn-contacto:hover {
-  background: #d8d8d8;
+  background: #f0f0f0;
   text-decoration: none;
 }
 
@@ -9550,7 +9550,7 @@ button.toast-close-button {
 .btn-local.active,
 .open > .dropdown-toggle.btn-local {
   color: #ffffff;
-  background-color: #d8d8d8;
+  background-color: #f0f0f0;
   border-color: #b0b0b0;
 }
 

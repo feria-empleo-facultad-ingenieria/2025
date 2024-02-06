@@ -715,8 +715,22 @@ companies:
   height: 40px
   heightStand: 40px
   heightStyle: height:50px
-
   column: 2
+
+- siteurl: "https://www.worley.com/"
+  logourl: https://feria-backend-production.up.railway.app/5d5cd299-f0d2-4936-9ac1-9da22218c783.jpg
+  name: "Worley"
+  carreras: "Todas las carreras"
+  teaser: "In the face of the world’s transition to a lower carbon and distributed energy system, what does it take to make sustainable transformation a reality in energy, chemicals and resources?"
+  abstract: "In the face of the world’s transition to a lower carbon and distributed energy system, what does it take to make sustainable transformation a reality in energy, chemicals and resources?"
+  stand: S/A
+  height1: 30px
+  height: 40px
+  heightStand: 40px
+  heightStyle: height:50px
+  column: 2
+  
+  
   
   
 # - siteurl: http://www.walmartmexico.com.mx/bolsa-de-trabajo-mex-cam.html

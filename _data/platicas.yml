@@ -8,7 +8,7 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: FORD
-  conferencia_fecha: 12 Junio 2023
+  conferencia_fecha: 12 Junio 2024
   image_width: 130
 
 - conferencista_foto: images/companies/KPMG.png
@@ -19,7 +19,7 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: KPMG
-  conferencia_fecha: 12 Junio 2023
+  conferencia_fecha: 12 Junio 2024
   image_width: 100
 
 - conferencista_foto: images/companies/huawei.png
@@ -30,7 +30,7 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: HUAWEI
-  conferencia_fecha: 12 Junio 2023
+  conferencia_fecha: 12 Junio 2024
   image_width: 200
 
 - conferencista_foto: images/companies/vitesco.svg
@@ -41,7 +41,7 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: VITESCO TECHNOLOGIES
-  conferencia_fecha: 12 Junio 2023
+  conferencia_fecha: 12 Junio 2024
   image_width: 120
 
 - conferencista_foto: images/companies/zte.png
@@ -52,7 +52,7 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: ZTE
-  conferencia_fecha: 12 Junio 2023
+  conferencia_fecha: 12 Junio 2024
   image_width: 80
 
 # - conferencista_foto: images/companies/ternium2.png
@@ -63,7 +63,7 @@ platicas:
 #   conferencia_lugar: Auditorio "Javier Barros Sierra"
 #   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
 #   conferencia_empresa: TERNIUM
-#   conferencia_fecha: 13 Junio 2023
+#   conferencia_fecha: 13 Junio 2024
 
 - conferencista_foto: images/companies/audi.png
   conferencista_linkedin: AUDI
@@ -73,7 +73,7 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: AUDI
-  conferencia_fecha: 13 Junio 2023
+  conferencia_fecha: 13 Junio 2024
   image_width: 100
 
 - conferencista_foto: images/companies/icafluor.jpg
@@ -84,7 +84,7 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: ICA FLUOR
-  conferencia_fecha: 13 Junio 2023
+  conferencia_fecha: 13 Junio 2024
   image_width: 130
 
 
@@ -96,7 +96,7 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: TECHINT INGENIERÍA Y CONTRUCCIÓN
-  conferencia_fecha: 13 Junio 2023
+  conferencia_fecha: 13 Junio 2024
   image_width: 140
 
 - conferencista_foto: images/companies/computra2.png
@@ -107,7 +107,7 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: COMPUTRABAJO
-  conferencia_fecha: 13 Junio 2023
+  conferencia_fecha: 13 Junio 2024
   image_width: 140
 
 - conferencista_foto: images/companies/cisco.png
@@ -118,6 +118,6 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: CISCO
-  conferencia_fecha: 13 Junio 2023
+  conferencia_fecha: 13 Junio 2024
   image_width: 120
 
