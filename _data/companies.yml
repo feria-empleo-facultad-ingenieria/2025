@@ -101,6 +101,19 @@ companies:
   heightStyle: height:50px
   column: 1
 
+- siteurl: https://www.conceptomovil.com/
+  logourl: https://feria-backend-production.up.railway.app/logo_CM_1_1.png
+  name: Concepto Móvil
+  carreras: TODAS LAS CARRERAS
+  teaser: Nuestro propósito\nNos inspira la constante búsqueda y desarrollo de nuevas formas de conectar y comunicarse entre las personas y creemos que la tecnología existe como medio para lograr esa conexión. 
+  abstract: Nuestro propósito\nNos inspira la constante búsqueda y desarrollo de nuevas formas de conectar y comunicarse entre las personas y creemos que la tecnología existe como medio para lograr esa conexión. 
+  stand: S/A
+  height1: 25px
+  height: 40px
+  heightStand: 40px
+  heightStyle: height:50px
+  column: 1
+
 - siteurl: https://mx.computrabajo.com/
   logourl: images/companies/computra2.png
   name: Computrabajo
