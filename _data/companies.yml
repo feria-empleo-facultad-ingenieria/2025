@@ -62,18 +62,18 @@ companies:
 #   height: 80px
 #   column: 1
 
-# - siteurl: https://bosonit.com/
-#   logourl: images/companies/bosonit.png
-#   name: Bosonit
-#   carreras: TODAS LAS CARRERAS
-#   teaser: Formamos al talento que el futuro demanda con NxtGen. Tú futuro empieza aquí.
-#   abstract: Formamos profesionales a través de programas formativos de última generación y colaboramos con universidad, empresas y corporaciones diseñando itinerarios formativos únicos para el desarrollo continuo.
-#   stand: S/A
-#   height1: 20px
-#   height: 40px
-#   heightStand: 40px
-#   heightStyle: height:50px
-#   column: 1
+- siteurl: https://bosonit.com/
+  logourl: https://feria-backend-production.up.railway.app/Bosonit.svg
+  name: Bosonit
+  carreras: TODAS LAS CARRERAS
+  teaser: Descubre nuestros programas formativos, con los que podrás adquirir las habilidades técnicas más demandadas en el mercado actual del sector IT, convirtiéndote en un especialista en una de nuestras áreas IT y en uno de los profesionales más demandados en la actualidad.
+  abstract: Descubre nuestros programas formativos, con los que podrás adquirir las habilidades técnicas más demandadas en el mercado actual del sector IT, convirtiéndote en un especialista en una de nuestras áreas IT y en uno de los profesionales más demandados en la actualidad.
+  stand: S/A
+  height1: 20px
+  height: 40px
+  heightStand: 40px
+  heightStyle: height:50px
+  column: 1
 
 - siteurl: http://www.ciadetalentos.com.mx/
   logourl: images/companies/cia2.jpg
