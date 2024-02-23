@@ -616,6 +616,19 @@ companies:
   heightStyle: height:60px
   column: 2
  
+- siteurl: https://schneiderele.taleo.net/careersection/2/jobsearch.ftl
+  logourl: https://feria-backend-production.up.railway.app/schneider-logo.png
+  name: Schneider Electric
+  carreras: TODAS LAS CARRERAS
+  teaser: "Innovation is our middle name. Good is never good enough, and that’s why we are constantly experimenting, taking risks and disrupting the status quo. We are always looking for people who are curious and constantly in beta mode."
+  abstract: "Innovation is our middle name. Good is never good enough, and that’s why we are constantly experimenting, taking risks and disrupting the status quo. We are always looking for people who are curious and constantly in beta mode."
+  stand: S/A
+  height1: 50px
+  height: 80px
+  heightStand: 60px
+  heightStyle: height:60px
+  column: 2
+
 - siteurl: http://sefi.org.mx/
   logourl: images/companies/sefiazul.png
   name: SEFI
