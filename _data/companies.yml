@@ -1,29 +1,29 @@
 companies:
-- siteurl: https://www.aspel.com.mx/acerca-de-aspel
-  logourl: images/companies/SiigoAspel.png
-  name: Aspel
-  carreras: TODAS LAS CARRERAS
-  teaser: Aspel es una compañía con más de 40 años de experiencia, líder en el mercado de Software administrativo, brindando servicio a más de 1 millón de empresas en México y Latinoamérica.
-  abstract: Aspel es una compañía con más de 40 años de experiencia, líder en el mercado de Software administrativo, brindando servicio a más de 1 millón de empresas en México y Latinoamérica.
-  stand: S/A
-  height1: 40px
-  height: 60px
-  heightStand: 30px
-  heightStyle: height:50px
-  column: 1
+# - siteurl: https://www.aspel.com.mx/acerca-de-aspel
+#   logourl: images/companies/SiigoAspel.png
+#   name: Aspel
+#   carreras: TODAS LAS CARRERAS
+#   teaser: Aspel es una compañía con más de 40 años de experiencia, líder en el mercado de Software administrativo, brindando servicio a más de 1 millón de empresas en México y Latinoamérica.
+#   abstract: Aspel es una compañía con más de 40 años de experiencia, líder en el mercado de Software administrativo, brindando servicio a más de 1 millón de empresas en México y Latinoamérica.
+#   stand: S/A
+#   height1: 40px
+#   height: 60px
+#   heightStand: 30px
+#   heightStyle: height:50px
+#   column: 1
 
-- siteurl: https://www.aspentech.com/en/careers
-  logourl: images/companies/aspentech.PNG
-  name: Aspentech
-  carreras: TODAS LAS CARRERAS
-  teaser: While our impact on the world is big, we offer many of the advantages of a smaller organization.
-  abstract: While our impact on the world is big, we offer many of the advantages of a smaller organization. Every employee has a real opportunity to make important contributions that directly benefit our customers and drive our success.
-  stand: S/A
-  height1: 30px
-  height: 60px
-  heightStand: 40px
-  heightStyle: height:50px
-  column: 1
+# - siteurl: https://www.aspentech.com/en/careers
+#   logourl: images/companies/aspentech.PNG
+#   name: Aspentech
+#   carreras: TODAS LAS CARRERAS
+#   teaser: While our impact on the world is big, we offer many of the advantages of a smaller organization.
+#   abstract: While our impact on the world is big, we offer many of the advantages of a smaller organization. Every employee has a real opportunity to make important contributions that directly benefit our customers and drive our success.
+#   stand: S/A
+#   height1: 30px
+#   height: 60px
+#   heightStand: 40px
+#   heightStyle: height:50px
+#   column: 1
 
 - siteurl: http://www.audi.com.mx/carreras
   logourl: images/companies/audi.png
@@ -197,6 +197,19 @@ companies:
   height: 50px
   heightStand: 50px
   heightStyle: height:50px
+  column: 1
+
+- siteurl: https://www.ey.com/es_mx
+  logourl: https://feria-backend-production.up.railway.app/ey_logo.svg
+  name: Ey
+  carreras: TODAS LAS CARRERAS
+  teaser: "Dondequiera que el mundo laboral los lleve, la Red de EY Alumni está lista para conectarlos con las personas que necesita estar en contacto."
+  abstract: "Dondequiera que el mundo laboral los lleve, la Red de EY Alumni está lista para conectarlos con las personas que necesita estar en contacto."
+  stand: S/A
+  height1: 60px
+  height: 70px
+  heightStand: 70px
+  heightStyle: height:70px
   column: 1
 
 - siteurl: https://www.faroprotec.com/
@@ -528,18 +541,18 @@ companies:
 #   height: 80px
 #   column: 2
 
-- siteurl: https://www.oracle.com/corporate/careers/
-  logourl: images/companies/oracle.png
-  name: Oracle
-  carreras: TODAS LAS CARRERAS
-  teaser: Experience an exciting, rewarding, and impactful career.
-  abstract: Experience an exciting, rewarding, and impactful career. Over the past forty years, Oracle’s mission has been to transform our world for the better through innovative technologies that modernize cities and bridge communities—while changing lives. Join us and allow your passions to fuel our continued innovations.
-  stand: S/A
-  height1: 40px
-  height: 80px
-  heightStand: 60px
-  heightStyle: height:70px
-  column: 2
+# - siteurl: https://www.oracle.com/corporate/careers/
+#   logourl: images/companies/oracle.png
+#   name: Oracle
+#   carreras: TODAS LAS CARRERAS
+#   teaser: Experience an exciting, rewarding, and impactful career.
+#   abstract: Experience an exciting, rewarding, and impactful career. Over the past forty years, Oracle’s mission has been to transform our world for the better through innovative technologies that modernize cities and bridge communities—while changing lives. Join us and allow your passions to fuel our continued innovations.
+#   stand: S/A
+#   height1: 40px
+#   height: 80px
+#   heightStand: 60px
+#   heightStyle: height:70px
+#   column: 2
  
 # - siteurl: http://www.probecarios.com/v2/
 #   logourl: images/companies/probecarios.jpg
@@ -797,15 +810,15 @@ companies:
   heightStyle: height:40px
   column: 2
 
-- siteurl: http://www.zuma-ti.com.mx/
-  logourl: images/companies/zuma2.webp
-  name: ZUMA
-  carreras: TODAS LAS CARRERAS
-  teaser: Sabemos que estamos hechos del tamaño y calidad de la gente que trabaja con nosotros, estamos conformados por la entereza y grandeza del personal, por eso, Zuma TI es una gran opción para trabajar. 
-  abstract: Sabemos que estamos hechos del tamaño y calidad de la gente que trabaja con nosotros, estamos conformados por la entereza y grandeza del personal, por eso, Zuma TI es una gran opción para trabajar. Nosotros apoyamos el crecimiento, capacitando de forma continua, brindando oportunidades de desarrollo de acuerdo con tus propias necesidades y requerimientos. Somos una empresa emprendedora, innovadora y con la firme convicción de convertirnos en punta de lanza en nuestro sector. Al ser parte de Zuma TI, te sumas a la experiencia y confirmas el modelo de calidad.
-  stand: S/A
-  height1: 40px
-  height: 40px
-  heightStand: 40px
-  heightStyle: height:50px
-  column: 2
+# - siteurl: http://www.zuma-ti.com.mx/
+#   logourl: images/companies/zuma2.webp
+#   name: ZUMA
+#   carreras: TODAS LAS CARRERAS
+#   teaser: Sabemos que estamos hechos del tamaño y calidad de la gente que trabaja con nosotros, estamos conformados por la entereza y grandeza del personal, por eso, Zuma TI es una gran opción para trabajar. 
+#   abstract: Sabemos que estamos hechos del tamaño y calidad de la gente que trabaja con nosotros, estamos conformados por la entereza y grandeza del personal, por eso, Zuma TI es una gran opción para trabajar. Nosotros apoyamos el crecimiento, capacitando de forma continua, brindando oportunidades de desarrollo de acuerdo con tus propias necesidades y requerimientos. Somos una empresa emprendedora, innovadora y con la firme convicción de convertirnos en punta de lanza en nuestro sector. Al ser parte de Zuma TI, te sumas a la experiencia y confirmas el modelo de calidad.
+#   stand: S/A
+#   height1: 40px
+#   height: 40px
+#   heightStand: 40px
+#   heightStyle: height:50px
+#   column: 2
