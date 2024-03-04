@@ -14,76 +14,55 @@ platicas:
   conferencista_linkedin: FORD
   conferencista_nombre: Platica FORD
   conferencia_nombre: FORD
-  conferencia_hora: 10:15 – 12:00
+  conferencia_hora: 10:00 – 12:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: FORD
   conferencia_fecha: 15 Abril 2024
   image_width: 130
 
-- conferencista_foto: images/companies/KPMG.png
-  conferencista_linkedin: KPMG
-  conferencista_nombre: Platica KPMG
-  conferencia_nombre: KPMG©
-  conferencia_hora: 12:00 – 14:00
-  conferencia_lugar: Auditorio "Javier Barros Sierra"
-  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
-  conferencia_empresa: KPMG
-  conferencia_fecha: 15 Abril 2024
-  image_width: 100
-
 - conferencista_foto: images/companies/huawei.png
   conferencista_linkedin: HUAWEI
   conferencista_nombre: Platica HUAWEI
   conferencia_nombre: HUAWEI
-  conferencia_hora: 14:00 – 16:00
+  conferencia_hora: 12:00 – 14:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: HUAWEI
   conferencia_fecha: 15 Abril 2024
   image_width: 200
 
-- conferencista_foto: images/companies/vitesco.svg
-  conferencista_linkedin: VITESCO TECHNOLOGIES
-  conferencista_nombre: Platica VITESCO TECHNOLOGIES
-  conferencia_nombre: VITESCO TECHNOLOGIES
-  conferencia_hora: 16:00 – 18:00
+- conferencista_foto: images/companies/krones.png
+  conferencista_linkedin: KRONES
+  conferencista_nombre: Platica KRONES
+  conferencia_nombre: KRONES
+  conferencia_hora: 14:00 – 15:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
-  conferencia_empresa: VITESCO TECHNOLOGIES
+  conferencia_empresa: KRONES
+  conferencia_fecha: 15 Abril 2024
+  image_width: 200
+
+- conferencista_foto: http://localhost:4000/images/companies/faroprotec.png
+  conferencista_linkedin: FARO PROTEC
+  conferencista_nombre: Platica FARO PROTEC
+  conferencia_nombre: FARO PROTEC
+  conferencia_hora: 15:00 – 16:00
+  conferencia_lugar: Auditorio "Javier Barros Sierra"
+  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+  conferencia_empresa: FARO PROTEC
   conferencia_fecha: 15 Abril 2024
   image_width: 120
-
-- conferencista_foto: images/companies/zte.png
-  conferencista_linkedin: ZTE
-  conferencista_nombre: Platica ZTE
-  conferencia_nombre: ZTE
-  conferencia_hora: 18:00 – 19:00
-  conferencia_lugar: Auditorio "Javier Barros Sierra"
-  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
-  conferencia_empresa: ZTE
-  conferencia_fecha: 15 Abril 2024
-  image_width: 80
-
-# - conferencista_foto: images/companies/ternium2.png
-#   conferencista_linkedin: TERNIUM
-#   conferencista_nombre: Platica TERNIUM
-#   conferencia_nombre: TERNIUM
-#   conferencia_hora: 10:00 – 12:00
-#   conferencia_lugar: Auditorio "Javier Barros Sierra"
-#   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
-#   conferencia_empresa: TERNIUM
-#   conferencia_fecha: 16 Abril 2024
 
 - conferencista_foto: images/companies/audi.png
   conferencista_linkedin: AUDI
   conferencista_nombre: Platica AUDI
   conferencia_nombre: AUDI
-  conferencia_hora: 9:00 – 10:00
+  conferencia_hora: 16:00 – 18:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: AUDI
-  conferencia_fecha: 16 Abril 2024
+  conferencia_fecha: 15 Abril 2024
   image_width: 100
 
 - conferencista_foto: images/companies/icafluor.jpg
@@ -98,36 +77,25 @@ platicas:
   image_width: 130
 
 
-- conferencista_foto: images/companies/TECHINT.jpg
-  conferencista_linkedin: "TECHINT INGENIERÍA Y CONTRUCCIÓN"
-  conferencista_nombre: Platica TECHINT INGENIERÍA Y CONTRUCCIÓN
-  conferencia_nombre: TECHINT INGENIERÍA Y CONTRUCCIÓN
+- conferencista_foto: https://www.cimesa.net/wp-content/uploads/sites/19/2022/11/Cimesa-h.jpg
+  conferencista_linkedin: CIMESA
+  conferencista_nombre: Platica CIMESA
+  conferencia_nombre: CIMESA
   conferencia_hora: 12:00 – 14:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
-  conferencia_empresa: TECHINT INGENIERÍA Y CONTRUCCIÓN
+  conferencia_empresa: CIMESA
   conferencia_fecha: 16 Abril 2024
   image_width: 140
 
-- conferencista_foto: images/companies/computra2.png
-  conferencista_linkedin: COMPUTRABAJO
-  conferencista_nombre: Platica COMPUTRABAJO
-  conferencia_nombre: COMPUTRABAJO
+- conferencista_foto: images/companies/zte.png
+  conferencista_linkedin: ZTE
+  conferencista_nombre: Platica ZTE
+  conferencia_nombre: ZTE
   conferencia_hora: 14:00 – 16:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
-  conferencia_empresa: COMPUTRABAJO
-  conferencia_fecha: 16 Abril 2024
-  image_width: 140
-
-- conferencista_foto: images/companies/cisco.png
-  conferencista_linkedin: CISCO
-  conferencista_nombre: Platica CISCO
-  conferencia_nombre: CISCO
-  conferencia_hora: 16:00 – 18:00
-  conferencia_lugar: Auditorio "Javier Barros Sierra"
-  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
-  conferencia_empresa: CISCO
+  conferencia_empresa: ZTE
   conferencia_fecha: 16 Abril 2024
   image_width: 120
 
