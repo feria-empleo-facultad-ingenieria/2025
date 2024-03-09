@@ -75,6 +75,19 @@ companies:
   heightStyle: height:35px
   column: 1
 
+- siteurl: "https://www.caterpillar.com/en/careers.html"
+  logourl: https://s7d2.scene7.com/is/image/Caterpillar/CM20220222-5c3c2-280a8?fmt=png-alpha
+  name: "Caterpillar"
+  carreras: "Todas las carreras"
+  teaser: "At Caterpillar, you build what matters—whether it’s the career you want, crucial work skills, strong relationships or new digital technologies."
+  abstract: "At Caterpillar, you build what matters—whether it’s the career you want, crucial work skills, strong relationships or new digital technologies. There are big jobs to be done worldwide—building critical infrastructure, bolstering local economies, meeting the demand for energy—and that work is powered by our people."
+  stand: S/A
+  height1: 20px
+  height: 30px
+  heightStand: 30px
+  heightStyle: height:40px
+  column: 1
+
 - siteurl: http://www.ciadetalentos.com.mx/
   logourl: images/companies/cia2.jpg
   name: Cia de Talentos
@@ -785,6 +798,19 @@ companies:
 #   heightStand: 40px
 #   heightStyle: height:50px
 #   column: 2
+
+- siteurl: "https://careers.thalesgroup.com/global/en/home"
+  logourl: https://cdn.phenompeople.com/CareerConnectResources/TGPTGWGLOBAL/images/Thales_LOGO_Pantone-1682075372118.png
+  name: "Thales"
+  carreras: "Todas las carreras"
+  teaser: "At Thales, we are proud to work together to imagine innovative solutions that contribute to building a future that is safer, greener and more inclusive."
+  abstract: "At Thales, we are proud to work together to imagine innovative solutions that contribute to building a future that is safer, greener and more inclusive. A future that we can all trust. But these technologies don’t just come from anywhere."
+  stand: S/A
+  height1: 40px
+  height: 50px
+  heightStand: 50px
+  heightStyle: height:60px
+  column: 2
 
 - siteurl: "https://www.worley.com/"
   logourl: https://feria-backend-production.up.railway.app/5d5cd299-f0d2-4936-9ac1-9da22218c783.jpg
