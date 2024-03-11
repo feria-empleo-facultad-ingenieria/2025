@@ -43,7 +43,7 @@ platicas:
   conferencia_fecha: 15 Abril 2024
   image_width: 200
 
-- conferencista_foto: http://localhost:4000/images/companies/faroprotec.png
+- conferencista_foto: images/companies/faroprotec.png
   conferencista_linkedin: FARO PROTEC
   conferencista_nombre: Platica FARO PROTEC
   conferencia_nombre: FARO PROTEC
