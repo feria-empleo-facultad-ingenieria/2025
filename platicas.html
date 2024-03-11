@@ -6,7 +6,7 @@ layout: default_feria
     {% assign title01 = site.data.generalinfo.platicas_titulo_pagina  %}
     {% assign title02 = site.data.generalinfo.platicas_subtitulo_pagina %}
     {% assign title_icono = "icon-users2" %}
-    {% assign title_tooltip = "Platicas y Conferencias" %}
+    {% assign title_tooltip = "pláticas y Conferencias" %}
     
     {% assign link01_ref ="empresas.html" %}
     {% assign link01_icono = "icon-building" %}
@@ -42,8 +42,10 @@ layout: default_feria
                     <p class="mb-0">
                      
                           <table>
-                            <tr><td>Ponente:    </td><td><strong>{{ platica.conferencista_nombre }}</strong></td></tr>
-                            <tr><td>Conferencia:</td><td><strong>{{ platica.conferencia_nombre }}</strong></td></tr>
+
+                            <!-- <tr><td>Ponente:    </td><td><strong>{{ platica.conferencista_nombre }}</strong></td></tr>
+                            <tr><td>Conferencia:</td><td><strong>{{ platica.conferencia_nombre }}</strong></td></tr> -->
+
                             <tr><td>Recinto:    </td><td><strong>{{ platica.conferencia_lugar }}</strong></td></tr>
                             <tr><td>Horario:    </td><td><strong>{{ platica.conferencia_hora }} • <i class="icon-world"></i></strong></td></tr>
                           </table>

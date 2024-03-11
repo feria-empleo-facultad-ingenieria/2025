@@ -12,7 +12,7 @@ platicas:
 
 - conferencista_foto: images/companies/ford.png
   conferencista_linkedin: FORD
-  conferencista_nombre: Platica FORD
+  conferencista_nombre: Plática FORD
   conferencia_nombre: FORD
   conferencia_hora: 10:00 – 12:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
@@ -23,7 +23,7 @@ platicas:
 
 - conferencista_foto: images/companies/huawei.png
   conferencista_linkedin: HUAWEI
-  conferencista_nombre: Platica HUAWEI
+  conferencista_nombre: Plática HUAWEI
   conferencia_nombre: HUAWEI
   conferencia_hora: 12:00 – 14:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
@@ -34,7 +34,7 @@ platicas:
 
 - conferencista_foto: images/companies/krones.png
   conferencista_linkedin: KRONES
-  conferencista_nombre: Platica KRONES
+  conferencista_nombre: Plática KRONES
   conferencia_nombre: KRONES
   conferencia_hora: 14:00 – 15:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
@@ -45,7 +45,7 @@ platicas:
 
 - conferencista_foto: images/companies/faroprotec.png
   conferencista_linkedin: FARO PROTEC
-  conferencista_nombre: Platica FARO PROTEC
+  conferencista_nombre: Plática FARO PROTEC
   conferencia_nombre: FARO PROTEC
   conferencia_hora: 15:00 – 16:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
@@ -56,7 +56,7 @@ platicas:
 
 - conferencista_foto: images/companies/audi.png
   conferencista_linkedin: AUDI
-  conferencista_nombre: Platica AUDI
+  conferencista_nombre: Plática AUDI
   conferencia_nombre: AUDI
   conferencia_hora: 16:00 – 18:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
@@ -67,7 +67,7 @@ platicas:
 
 - conferencista_foto: images/companies/icafluor.jpg
   conferencista_linkedin: ICA FLUOR
-  conferencista_nombre: Platica ICA FLUOR
+  conferencista_nombre: Plática ICA FLUOR
   conferencia_nombre: ICA FLUOR
   conferencia_hora: 10:00 – 12:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
@@ -79,7 +79,7 @@ platicas:
 
 - conferencista_foto: https://www.cimesa.net/wp-content/uploads/sites/19/2022/11/Cimesa-h.jpg
   conferencista_linkedin: CIMESA
-  conferencista_nombre: Platica CIMESA
+  conferencista_nombre: Plática CIMESA
   conferencia_nombre: CIMESA
   conferencia_hora: 12:00 – 14:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
@@ -90,7 +90,7 @@ platicas:
 
 - conferencista_foto: images/companies/zte.png
   conferencista_linkedin: ZTE
-  conferencista_nombre: Platica ZTE
+  conferencista_nombre: Plática ZTE
   conferencia_nombre: ZTE
   conferencia_hora: 14:00 – 16:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
