@@ -75,6 +75,19 @@ companies:
   heightStyle: height:35px
   column: 1
 
+- siteurl: "https://empleos.calidra.com/"
+  logourl: https://rmkcdn.successfactors.com/80be8b9f/14e3e12a-732c-4b6c-9d95-2.png
+  name: "Calidra"
+  carreras: "Todas las carreras"
+  teaser: "Si quieres formar parte de una gran familia, de un gran equipo de trabajo, estás en el lugar correcto. Conoce las vacantes que tenemos para que tu desarrollo laboral comience a crecer junto con nosotros, junto a Calidra."
+  abstract: "Si quieres formar parte de una gran familia, de un gran equipo de trabajo, estás en el lugar correcto. Conoce las vacantes que tenemos para que tu desarrollo laboral comience a crecer junto con nosotros, junto a Calidra."
+  stand: S/A
+  height1: 40px
+  height: 50px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+
 - siteurl: "https://www.caterpillar.com/en/careers.html"
   logourl: https://s7d2.scene7.com/is/image/Caterpillar/CM20220222-5c3c2-280a8?fmt=png-alpha
   name: "Caterpillar"
@@ -431,6 +444,20 @@ companies:
 #   height1: 25px
 #   height: 80px
 #   column: 1
+
+- siteurl: https://kiewitcareers.kiewit.com/
+  logourl: https://rmkcdn.successfactors.com/cc62658f/5950b330-e5a1-45c9-b5cd-e.jpg
+  name: Kiewit
+  carreras: TODAS LAS CARRERAS
+  teaser: Are you ready to make an impact? We know you’re not just looking for a job. You want an adventure — to do something that makes a real impact on the world around you.  
+  abstract: Are you ready to make an impact? We know you’re not just looking for a job. You want an adventure — to do something that makes a real impact on the world around you. You want more opportunity, cutting-edge training, meaningful responsibilities from Day One, and you never settle for second best. 
+  stand: S/A
+  height1: 40px
+  height: 50px
+  heightStand: 40px
+  heightStyle: height:50px
+  column: 2
+
 
 - siteurl: https://home.kpmg/mx/es/home/carrera.html
   logourl: images/companies/KPMG.png
