@@ -25,7 +25,7 @@ companies:
 #   heightStyle: height:50px
 #   column: 1
 
-- siteurl: http://www.audi.com.mx/carreras
+- siteurl: https://www.audi.com.mx/mx/web/es/audi-en-mexico/carreras.html
   logourl: images/companies/audi.png
   name: Audi
   carreras: TODAS LAS CARRERAS
@@ -369,18 +369,18 @@ companies:
   heightStyle: height:50px
   column: 2
 
-# - siteurl: https://www.gruposalinas.com/home/carreras
-#   logourl: images/companies/salinas.png
-#   name: Grupo Salinas
-#   carreras: TODAS LAS CARRERAS
-#   teaser: El mundo necesita agentes de cambio cultural personas con mentalidad positiva e innovadora, dispuestas a trabajar en equipo para la solución de problemas.
-#   abstract: La diversidad es nuestra carta fuerte. Somos un grupo formado por un conjunto de empresas que se caracterizan por el dinamismo, la evolución constante y la innovación.
-#   stand: S/A
-#   height1: 40px
-#   height: 50px
-#   heightStand: 60px
-#   heightStyle: height:100px
-#   column: 1
+- siteurl: https://www.gruposalinas.com/home/carreras
+  logourl: https://www.gruposalinas.com/Content/iconos/LogoGS-main.svg
+  name: Grupo Salinas
+  carreras: TODAS LAS CARRERAS
+  teaser: El mundo necesita agentes de cambio cultural personas con mentalidad positiva e innovadora, dispuestas a trabajar en equipo para la solución de problemas.
+  abstract: La diversidad es nuestra carta fuerte. Somos un grupo formado por un conjunto de empresas que se caracterizan por el dinamismo, la evolución constante y la innovación.
+  stand: S/A
+  height1: 50px
+  height: 60px
+  heightStand: 60px
+  heightStyle: height:100px
+  column: 1
 
 # - siteurl: http://www.henkel.mx/index.htm
 #   logourl: images/companies/henkel.jpg
