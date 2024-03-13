@@ -226,18 +226,18 @@ companies:
 #   height: 80px
 #   column: 1
 
-- siteurl: http://www.dgoae.unam.mx/
-  logourl: images/companies/dgoae23.png
-  name: DGOAE
-  carreras: TODAS LAS CARRERAS
-  teaser: La Dirección General de Orientación y Atención Educativa (DGOAE) a través del Centro de Orientación Educativa (COE) creó este espacio virtual, en el podrás encontrar información sobre becas, servicio social, voluntariado, bolsa de trabajo y la oferta educativa de la UNAM.
-  abstract: Apoyamos tu formación integral a través de distintos talleres, cursos, charlas o videoconferencias en temas importantes para ti como Elección de carrera, cambio de carrera, segunda carrera, análisis del plan de estudios, modalidad abierta o distancia, proyecto de vida, autoconocimiento, manejo de estrés, manejo de sentimientos y emociones, resiliencia, estrategias de aprendizaje, prevención de la violencia, promoción de la equidad de género, entre otras muchas temáticas.
-  stand: S/A
-  height1: 40px
-  height: 50px
-  heightStand: 60px
-  heightStyle: height:50px
-  column: 1
+# - siteurl: http://www.dgoae.unam.mx/
+#   logourl: images/companies/dgoae23.png
+#   name: DGOAE
+#   carreras: TODAS LAS CARRERAS
+#   teaser: La Dirección General de Orientación y Atención Educativa (DGOAE) a través del Centro de Orientación Educativa (COE) creó este espacio virtual, en el podrás encontrar información sobre becas, servicio social, voluntariado, bolsa de trabajo y la oferta educativa de la UNAM.
+#   abstract: Apoyamos tu formación integral a través de distintos talleres, cursos, charlas o videoconferencias en temas importantes para ti como Elección de carrera, cambio de carrera, segunda carrera, análisis del plan de estudios, modalidad abierta o distancia, proyecto de vida, autoconocimiento, manejo de estrés, manejo de sentimientos y emociones, resiliencia, estrategias de aprendizaje, prevención de la violencia, promoción de la equidad de género, entre otras muchas temáticas.
+#   stand: S/A
+#   height1: 40px
+#   height: 50px
+#   heightStand: 60px
+#   heightStyle: height:50px
+#   column: 1
 
 - siteurl: https://www.lilly.com/latam/carrera
   logourl: https://feria-backend-production.up.railway.app/lilly.png
@@ -712,18 +712,18 @@ companies:
   heightStyle: height:50px
   column: 2
 
-- siteurl: http://sefi.org.mx/
-  logourl: images/companies/sefiazul.png
-  name: SEFI
-  carreras: TODAS LAS CARRERAS
-  teaser: El 19 de septiembre de 1962, se fundó la Sociedad de Exalumnos de la Facultad de Ingeniería, A.C. (SEFI)
-  abstract: En respuesta a la invitación del Rector Ignacio Chávez, el 19 de septiembre de 1962, se fundó la Sociedad de Exalumnos de la Facultad de Ingeniería, A.C. (SEFI). La cual tiene como objetivo colaborar moral y materialmente con la Universidad y con la Facultad de Ingeniería, organismos que tienen como fines la docencia, la investigación y la difusión de la cultura. Hoy en día, representa un ejemplo a seguir para toda la comunidad universitaria en apoyo a su Alma Mater.
-  stand: S/A
-  height1: 40px
-  height: 80px
-  heightStand: 40px
-  heightStyle: height:80px
-  column: 2
+# - siteurl: http://sefi.org.mx/
+#   logourl: images/companies/sefiazul.png
+#   name: SEFI
+#   carreras: TODAS LAS CARRERAS
+#   teaser: El 19 de septiembre de 1962, se fundó la Sociedad de Exalumnos de la Facultad de Ingeniería, A.C. (SEFI)
+#   abstract: En respuesta a la invitación del Rector Ignacio Chávez, el 19 de septiembre de 1962, se fundó la Sociedad de Exalumnos de la Facultad de Ingeniería, A.C. (SEFI). La cual tiene como objetivo colaborar moral y materialmente con la Universidad y con la Facultad de Ingeniería, organismos que tienen como fines la docencia, la investigación y la difusión de la cultura. Hoy en día, representa un ejemplo a seguir para toda la comunidad universitaria en apoyo a su Alma Mater.
+#   stand: S/A
+#   height1: 40px
+#   height: 80px
+#   heightStand: 40px
+#   heightStyle: height:80px
+#   column: 2
 
 # - siteurl: https://sferea.com/
 #   logourl: images/companies/sferea.png
