@@ -29,7 +29,7 @@ companies:
   logourl: images/companies/audi.png
   name: Audi
   carreras: TODAS LAS CARRERAS
-  teaser: Audi offers you a modern work environment with many additional
+  teaser: Audi offers you a modern work environment with many additional, personalized benefits, training and development options, health programs, as well as a support for your personal life and career. We incentivize young people and experienced professionals alike to 
   abstract: Audi offers you a modern work environment with many additional, personalized benefits, training and development options, health programs, as well as a support for your personal life and career. We incentivize young people and experienced professionals alike to contribute with their knowledge and skills in a targeted manner. Whether you are looking to start your professional journey, attend a dual university or take the next career step, Audi is a powerful partner, who gives you the flexibility you need for your personal growth.
   stand: S/A
   height1: 30px
@@ -71,7 +71,7 @@ companies:
   stand: S/A
   height1: 18px
   height: 10px
-  heightStand: 10px
+  heightStand: 25px
   heightStyle: height:35px
   column: 1
 
@@ -84,7 +84,7 @@ companies:
   stand: S/A
   height1: 40px
   height: 50px
-  heightStand: 50px
+  heightStand: 60px
   heightStyle: height:50px
   column: 1
 
@@ -97,7 +97,7 @@ companies:
   stand: S/A
   height1: 20px
   height: 30px
-  heightStand: 30px
+  heightStand: 25px
   heightStyle: height:40px
   column: 1
 
@@ -365,7 +365,7 @@ companies:
   stand: S/A
   height1: 50px
   height: 30px
-  heightStand: 40px
+  heightStand: 35px
   heightStyle: height:50px
   column: 2
 
@@ -468,7 +468,7 @@ companies:
   stand: S/A
   height1: 25px
   height: 30px
-  heightStand: 40px
+  heightStand: 35px
   heightStyle: height:50px
   column: 2
 
@@ -481,7 +481,7 @@ companies:
   stand: S/A
   height1: 30px
   height: 50px
-  heightStand: 40px
+  heightStand: 35px
   heightStyle: height:50px
   column: 2
 
@@ -708,7 +708,7 @@ companies:
   stand: S/A
   height1: 30px
   height: 80px
-  heightStand: 60px
+  heightStand: 50px
   heightStyle: height:50px
   column: 2
 
