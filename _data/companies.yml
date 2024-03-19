@@ -472,18 +472,18 @@ companies:
   heightStyle: height:50px
   column: 2
 
-- siteurl: https://www.ica.com.mx/
-  logourl: images/companies/ica.jpeg
-  name: ICA
-  carreras: TODAS LAS CARRERAS
-  teaser: ICA es la empresa líder en construcción y operación de infraestructura en México.
-  abstract: ICA es la empresa líder en construcción y operación de infraestructura en México, fundada en 1947 y con experiencia en trece países, siete sectores y un sólido portafolio de activos. El grupo está conformado por tres divisiones y especialidades en construcción civil e industrial, concesiones y aeropuertos.
-  stand: S/A
-  height1: 30px
-  height: 50px
-  heightStand: 35px
-  heightStyle: height:50px
-  column: 2
+# - siteurl: https://www.ica.com.mx/
+#   logourl: images/companies/ica.jpeg
+#   name: ICA
+#   carreras: TODAS LAS CARRERAS
+#   teaser: ICA es la empresa líder en construcción y operación de infraestructura en México.
+#   abstract: ICA es la empresa líder en construcción y operación de infraestructura en México, fundada en 1947 y con experiencia en trece países, siete sectores y un sólido portafolio de activos. El grupo está conformado por tres divisiones y especialidades en construcción civil e industrial, concesiones y aeropuertos.
+#   stand: S/A
+#   height1: 30px
+#   height: 50px
+#   heightStand: 35px
+#   heightStyle: height:50px
+#   column: 2
 
 - siteurl: https://www.icafluor.com/index.html
   logourl: images/companies/icafluor.jpg
