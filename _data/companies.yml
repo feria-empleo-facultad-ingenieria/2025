@@ -1,4 +1,16 @@
 companies:
+- siteurl: https://empleo.adecco.com.mx/
+  logourl: https://feria-backend-production.up.railway.app/adecco.jpg
+  name: Adecco
+  carreras: TODAS LAS CARRERAS
+  teaser: "Somos el Grupo Adecco. Una red de profesionales apasionados que trabajan juntos, en más de 60 países, para ayudar a las empresas a optimizar su talento, transformar sus plantillas y fomentar la empleabilidad de las personas en todo el mundo. Descubre cómo es construir una carrera en el Grupo Adecco dentro de nuestra familia de marcas."
+  abstract: "Somos el Grupo Adecco. Una red de profesionales apasionados que trabajan juntos, en más de 60 países, para ayudar a las empresas a optimizar su talento, transformar sus plantillas y fomentar la empleabilidad de las personas en todo el mundo. Descubre cómo es construir una carrera en el Grupo Adecco dentro de nuestra familia de marcas."
+  stand: S/A
+  height1: 40px
+  height: 50px
+  heightStand: 35px
+  heightStyle: height:40px
+  column: 1
 # - siteurl: https://www.aspel.com.mx/acerca-de-aspel
 #   logourl: images/companies/SiigoAspel.png
 #   name: Aspel
@@ -61,6 +73,18 @@ companies:
 #   height1: 20px
 #   height: 80px
 #   column: 1
+- siteurl: https://www.bosch.com.mx/carreras/
+  logourl: https://feria-backend-production.up.railway.app/bosh.jpg
+  name: Bosh
+  carreras: TODAS LAS CARRERAS
+  teaser: "En Bosch, te cuidamos. Nos importas tú, nuestro negocio y nuestro entorno.  Nuestra promesa para nuestros asociados es sólida: crecemos juntos, disfrutamos nuestro trabajo y nos inspiramos el uno al otro. Únete y siente la diferencia."
+  abstract: "En Bosch, te cuidamos. Nos importas tú, nuestro negocio y nuestro entorno.  Nuestra promesa para nuestros asociados es sólida: crecemos juntos, disfrutamos nuestro trabajo y nos inspiramos el uno al otro. Únete y siente la diferencia."
+  stand: S/A
+  height1: 18px
+  height: 30px
+  heightStand: 25px
+  heightStyle: height:35px
+  column: 1
 
 - siteurl: https://bosonit.com/
   logourl: https://feria-backend-production.up.railway.app/Bosonit.svg
