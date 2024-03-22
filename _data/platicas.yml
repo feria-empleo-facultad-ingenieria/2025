@@ -99,3 +99,14 @@ platicas:
   conferencia_fecha: 16 Abril 2024
   image_width: 120
 
+- conferencista_foto: images/companies/computra2.png
+  conferencista_linkedin: Computrabajo
+  conferencista_nombre: Plática Computrabajo
+  conferencia_nombre: Computrabajo
+  conferencia_hora: 16:00 – 18:15
+  conferencia_lugar: Auditorio "Javier Barros Sierra"
+  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+  conferencia_empresa: Computrabajo
+  conferencia_fecha: 16 Abril 2024
+  image_width: 120
+
