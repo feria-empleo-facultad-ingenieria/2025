@@ -28,51 +28,66 @@ layout: default_feria
     <div class="row no-gutters">
       <div class="col-xl-8 pr-xl-2">
         {% for platica in site.data.platicas.platicas %}
-        <div class="card mb-3">
+        <div class="card mb-5">
+
           <div class="card-header bg-light">
+            <div class="row">
+              <div class="col-3">
+                <img src="{{ platica.conferencista_foto }}" width="{{platica.image_width}}}" alt="">
+              </div>
+              <div class="col-9">
+                <h4 class="card-title">{{ platica.conferencia_nombre }}</h4>
+                <h6 class="card-subtitle mb-2 text-muted">
+                  <p>{{ platica.conferencia_fecha }} </p>
+                </h6>
+              </div>
+            </div>
+            
+          </div>
+        
+          <div class="card-body overflow-hidden">
             <div class="row justify-content-between">
-              <div class="col">
-                <div class="media align-items-center">
-                  <div class="avatar avatar-2xl status-online">
-                    <div style="width: 150px;">
-                      <img src="{{ platica.conferencista_foto }}" width="{{platica.image_width}}}" alt="">
-                    </div>
-                  </div>
-                  <div class="media-body ml-2">
-                    <p class="mb-0">
-                     
-                          <table>
-
-                            <tr><td>Ponente:    </td><td><strong>{{ platica.conferencista_nombre }}</strong></td></tr>
-                            <tr><td>Conferencia:</td><td><strong>{{ platica.conferencia_nombre }}</strong></td></tr>
-
-                            <tr><td>Recinto:    </td><td><strong>{{ platica.conferencia_lugar }}</strong></td></tr>
-                            <tr><td>Horario:    </td><td><strong>{{ platica.conferencia_hora }} • <i class="icon-world"></i></strong></td></tr>
-                          </table>
-                        
-
-                    </p>
-                  </div>
+              <div class="row">
+                <div class="col-12 ml-4">
+                  <table>
+                    <tr><td>Ponente:    </td><td><strong>&nbsp;{{ platica.conferencista_nombre }}</strong></td></tr>
+                    <tr><td>Recinto:    </td><td><strong>&nbsp;{{ platica.conferencia_lugar }}</strong></td></tr>
+                    <tr><td>Horario:    </td><td><strong>&nbsp;{{ platica.conferencia_hora }} • <i class="icon-world"></i></strong></td></tr>
+                  </table>
                 </div>
               </div>
-              <div class="col-auto">&nbsp;</div>
             </div>
           </div>
-          <div class="card-body overflow-hidden">
+
+          <div class="card-footer bg-slider">
             <div class="row">
               <div class="col-md-8 col-sm-12">
                 <p>{{ platica.conferencia_abstract }}</p>
               </div>
               <div class="col-md-4 col-sm-12">
-                  {{ platica.facebookEntry }}
-              </div>
+                {{ platica.facebookEntry }}
+                {% if {{platica.image_flyer}} != '' %}
+                <a href="#" 
+                    onclick="javascript:return false;" 
+                    title="{{ platica.conferencia_nombre }}" 
+                    data-toggle="popover" 
+                    data-trigger="focus" 
+                    data-img="{{ platica.image_flyer }}">
+                    más info...
+                </a>
+                {% endif %}
             </div>
+              </div>
+              
+
           </div>
+<!-- 
           <div class="card-footer bg-light pt-0">
             <div class="border-200 fs--1 py-3">
                 {{ platica.conferencia_fecha }} • {{ platica.conferencia_empresa }}
             </div>
-          </div>
+          </div> -->
+
         </div>
         {% endfor %}
       </div>
@@ -80,3 +95,19 @@ layout: default_feria
     </div>
   </div>
 </div>
+
+<script>
+  $(document).ready(function(){
+    //$('[data-toggle="popover"]').popover();   
+    $('[data-toggle="popover"]').popover({
+      html: true,
+      content: function(){return '<img src="'+$(this).data('img') + '" />';}
+    });
+  });
+</script>
+
+<style>
+.popover {
+  max-width: 600px;
+}
+</style>
