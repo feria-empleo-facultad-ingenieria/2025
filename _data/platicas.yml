@@ -14,7 +14,7 @@ platicas:
 
 - conferencista_foto: images/companies/ford.png
   conferencista_linkedin: ""
-  conferencista_nombre: Plática FORD
+  conferencista_nombre: FORD
   conferencia_nombre: "Atracción de talento Ford"
   conferencia_hora: 10:00 – 12:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
@@ -26,8 +26,8 @@ platicas:
 
 - conferencista_foto: images/companies/huawei.png
   conferencista_linkedin: HUAWEI
-  conferencista_nombre: Plática HUAWEI
-  conferencia_nombre: HUAWEI
+  conferencista_nombre:  HUAWEI
+  conferencia_nombre: Plática HUAWEI
   conferencia_hora: 12:00 – 14:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
@@ -38,7 +38,7 @@ platicas:
 
 - conferencista_foto: images/companies/krones.png
   conferencista_linkedin: ""
-  conferencista_nombre: Plática KRONES
+  conferencista_nombre: KRONES
   conferencia_nombre: "¡Forma parte de nuestra nueva generación!"
   conferencia_hora: 14:00 – 15:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
@@ -62,8 +62,8 @@ platicas:
 
 - conferencista_foto: images/companies/audi.png
   conferencista_linkedin: AUDI
-  conferencista_nombre: Plática AUDI
-  conferencia_nombre: AUDI
+  conferencista_nombre:  AUDI
+  conferencia_nombre: Plática AUDI
   conferencia_hora: 16:00 – 18:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
@@ -86,8 +86,8 @@ platicas:
 
 - conferencista_foto: https://www.cimesa.net/wp-content/uploads/sites/19/2022/11/Cimesa-h.jpg
   conferencista_linkedin: CIMESA
-  conferencista_nombre: Plática CIMESA
-  conferencia_nombre: CIMESA
+  conferencista_nombre: CIMESA
+  conferencia_nombre: Plática CIMESA
   conferencia_hora: 12:00 – 14:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
@@ -110,8 +110,8 @@ platicas:
 
 - conferencista_foto: images/companies/computra2.png
   conferencista_linkedin: Computrabajo
-  conferencista_nombre: Plática Computrabajo
-  conferencia_nombre: Computrabajo
+  conferencista_nombre: Computrabajo
+  conferencia_nombre: Plática Computrabajo
   conferencia_hora: 16:00 – 18:15
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
