@@ -60,17 +60,18 @@ platicas:
   image_width: 120
   image_flyer: "images/companies/flyers/flyer_faro.jpeg"
 
-- conferencista_foto: images/companies/audi.png
-  conferencista_linkedin: AUDI
-  conferencista_nombre:  AUDI
-  conferencia_nombre: Plática AUDI
-  conferencia_hora: 16:00 – 18:00
+- conferencista_foto: images/companies/computra2.png
+  conferencista_linkedin: Computrabajo
+  conferencista_nombre: Computrabajo
+  conferencia_nombre: Plática Computrabajo
+  conferencia_hora: 16:00 – 18:15
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
-  conferencia_empresa: AUDI
+  conferencia_empresa: Computrabajo
   conferencia_fecha: 15 Abril 2024
-  image_width: 100
+  image_width: 120
   image_flyer: ""
+
 
 - conferencista_foto: images/companies/icafluor.jpg
   conferencista_linkedin: ICA FLUOR
@@ -105,18 +106,19 @@ platicas:
   conferencia_abstract:  "Explorando los modelos de la IA que pontencian la red. Asiste y conoce los retos que encontrarás en ZTE"
   conferencia_empresa: ZTE
   conferencia_fecha: 16 Abril 2024
-  image_width: 120
+  image_width: 80
   image_flyer: "images/companies/flyers/flyer_zte.jpeg"
 
-- conferencista_foto: images/companies/computra2.png
-  conferencista_linkedin: Computrabajo
-  conferencista_nombre: Computrabajo
-  conferencia_nombre: Plática Computrabajo
-  conferencia_hora: 16:00 – 18:15
+- conferencista_foto: images/companies/audi.png
+  conferencista_linkedin: AUDI
+  conferencista_nombre:  AUDI
+  conferencia_nombre: Plática AUDI
+  conferencia_hora: 16:00 – 18:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
-  conferencia_empresa: Computrabajo
+  conferencia_empresa: AUDI
   conferencia_fecha: 16 Abril 2024
-  image_width: 120
+  image_width: 100
   image_flyer: ""
+
 
