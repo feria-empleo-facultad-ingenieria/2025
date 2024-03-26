@@ -32,11 +32,10 @@ actividades:
   recinto: Auditorio "Javier Barros Sierra"
 - mes: ABRIL
   dia: 15
-  nombre: AUDI
-  hora: 16:00 – 18:00 
+  nombre: COMPUTRABAJO
+  hora: 16:00 – 18:15 
   lugar: Auditorio
   recinto: Auditorio "Javier Barros Sierra"
-
 
 - mes: ABRIL
   dia: 16
@@ -61,8 +60,7 @@ actividades:
 
 - mes: ABRIL
   dia: 16
-  nombre: COMPUTRABAJO
-  hora: 16:00 – 18:15 
+  nombre: AUDI
+  hora: 16:00 – 18:00 
   lugar: Auditorio
   recinto: Auditorio "Javier Barros Sierra"
-
