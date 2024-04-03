@@ -64,14 +64,25 @@ platicas:
   conferencista_linkedin: Computrabajo
   conferencista_nombre: Computrabajo
   conferencia_nombre: Plática Computrabajo
-  conferencia_hora: 16:00 – 18:15
+  conferencia_hora: 16:00 – 18:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: Computrabajo
   conferencia_fecha: 15 Abril 2024
   image_width: 120
-  image_flyer: ""
+  image_flyer: "images/companies/flyers/flyer_computrabajo.jpeg"
 
+- conferencista_foto: https://feria-backend-production.up.railway.app/bosh.jpg
+  conferencista_linkedin: Bosch
+  conferencista_nombre: Bosch
+  conferencia_nombre: Atracción de talento de Bosch
+  conferencia_hora: 18:00 – 20:00
+  conferencia_lugar: Auditorio "Javier Barros Sierra"
+  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+  conferencia_empresa: Bosch
+  conferencia_fecha: 15 Abril 2024
+  image_width: 120
+  image_flyer: ""
 
 - conferencista_foto: images/companies/icafluor.jpg
   conferencista_linkedin: ICA FLUOR

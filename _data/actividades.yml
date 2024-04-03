@@ -33,9 +33,19 @@ actividades:
 - mes: ABRIL
   dia: 15
   nombre: COMPUTRABAJO
-  hora: 16:00 – 18:15 
+  hora: 16:00 – 18:00 
   lugar: Auditorio
   recinto: Auditorio "Javier Barros Sierra"
+
+- mes: ABRIL
+  dia: 15
+  nombre: Atracción de talento de Bosch
+  hora: 18:00 – 20:00 
+  lugar: Auditorio
+  recinto: Auditorio "Javier Barros Sierra"
+
+ 
+
 
 - mes: ABRIL
   dia: 16
