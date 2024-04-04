@@ -50,12 +50,12 @@ platicas:
 
 - conferencista_foto: images/companies/quebec.jpg
   conferencista_linkedin: ""
-  conferencista_nombre: Quebéc
-  conferencia_nombre: "Oportunidades laborales en Quebéc"
+  conferencista_nombre: quebec
+  conferencia_nombre: "Oportunidades laborales en quebec"
   conferencia_hora: 14:00 – 16:00
   conferencia_lugar: Aula Magna
-  conferencia_abstract:  "Conferencia sobre las oportunidades laborales en Quebéc, Canadá"
-  conferencia_empresa: QUEBÉC
+  conferencia_abstract:  "Conferencia sobre las oportunidades laborales en quebec, Canadá"
+  conferencia_empresa: quebec
   conferencia_fecha: 15 Abril 2024
   image_width: 200
   image_flyer: "images/companies/flyers/flyer_quebec.jpg"
