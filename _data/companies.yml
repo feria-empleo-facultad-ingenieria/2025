@@ -1,4 +1,17 @@
 companies:
+- siteurl: https://www.faroprotec.com/acadefense
+  logourl: images/companies/acadefense.jpeg
+  name: Acadefense
+  carreras: TODAS LAS CARRERAS
+  teaser: "Cuando las empresas buscan talento se fijan cada vez más en las competencias demostrables que son una ventaja competitiva al momento de buscar trabajo."
+  abstract: "Cuando las empresas buscan talento se fijan cada vez más en las competencias demostrables que son una ventaja competitiva al momento de buscar trabajo. Cada vez más en todas las áreas, al revisar un CV en Redes Sociales y Bolsas de Trabajo como Linkedin, OCC, Indeed, Computrabajo, no es suficiente. Las empresas también buscan capacidades, habilidades y certificaciones que ya hoy constituyen una parte esencial de tu trayectoria."
+  stand: S/A
+  height1: 50px
+  height: 80px
+  heightStand: 50px
+  heightStyle: height:60px
+  column: 1
+
 - siteurl: https://empleo.adecco.com.mx/
   logourl: https://feria-backend-production.up.railway.app/adecco.jpg
   name: Adecco

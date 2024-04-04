@@ -48,6 +48,18 @@ platicas:
   image_width: 200
   image_flyer: "images/companies/flyers/krones_flayer.jpeg"
 
+- conferencista_foto: images/companies/quebec.jpg
+  conferencista_linkedin: ""
+  conferencista_nombre: Quebéc
+  conferencia_nombre: "Oportunidades laborales en Quebéc"
+  conferencia_hora: 14:00 – 16:00
+  conferencia_lugar: Aula Magna
+  conferencia_abstract:  "Conferencia sobre las oportunidades laborales en Quebéc, Canadá"
+  conferencia_empresa: QUEBÉC
+  conferencia_fecha: 15 Abril 2024
+  image_width: 200
+  image_flyer: "images/companies/flyers/flyer_quebec.jpg"
+
 - conferencista_foto: images/companies/faroprotec.png
   conferencista_linkedin: FARO PROTEC
   conferencista_nombre: Rafa Bretón
