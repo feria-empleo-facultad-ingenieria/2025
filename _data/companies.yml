@@ -446,14 +446,14 @@ companies:
 #   column: 1
 
 - siteurl: https://www.huawei.com/mx/contact-us
-  logourl: images/companies/huawei.svg
+  logourl: images/companies/huawei_black.jpeg
   name: Huawei
   carreras: TODAS LAS CARRERAS
   teaser: Fundada en 1987, Huawei es un proveedor de infraestructura de tecnologías de información y comunicaciones (TIC) y dispositivos inteligentes. 
   abstract: Fundada en 1987, Huawei es un proveedor de infraestructura de tecnologías de información y comunicaciones (TIC) y dispositivos inteligentes. Tenemos aproximadamente 195,000 empleados y operamos en más de 170 países y regiones, sirviendo a más de 3 mil millones de personas alrededor del mundo.
   stand: S/A
   height1: 40px
-  height: 40px
+  height: 60px
   heightStand: 30px
   heightStyle: height:50px
   column: 2
