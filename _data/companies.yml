@@ -135,7 +135,7 @@ companies:
   height1: 20px
   height: 30px
   heightStand: 25px
-  heightStyle: height:40px
+  heightStyle: height:30px
   column: 1
 
 - siteurl: http://www.ciadetalentos.com.mx/
@@ -416,7 +416,7 @@ companies:
   height1: 50px
   height: 60px
   heightStand: 60px
-  heightStyle: height:100px
+  heightStyle: height:80px
   column: 1
 
 # - siteurl: http://www.henkel.mx/index.htm
@@ -454,8 +454,8 @@ companies:
   stand: S/A
   height1: 40px
   height: 60px
-  heightStand: 30px
-  heightStyle: height:50px
+  heightStand: 60px
+  heightStyle: height:80px
   column: 2
 
 - siteurl: https://www.keyence.com.mx/ss/careers/

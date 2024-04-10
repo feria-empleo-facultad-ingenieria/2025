@@ -33,7 +33,7 @@ platicas:
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: HUAWEI
   conferencia_fecha: 15 Abril 2024
-  image_width: 200
+  image_width: 80
   image_flyer: ""
 
 - conferencista_foto: images/companies/krones.png
