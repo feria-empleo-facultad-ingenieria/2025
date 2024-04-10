@@ -34,7 +34,7 @@ platicas:
   conferencia_empresa: HUAWEI
   conferencia_fecha: 15 Abril 2024
   image_width: 80
-  image_flyer: ""
+  image_flyer: "images/companies/flyers/flyer_huawei.jpg"
 
 - conferencista_foto: images/companies/krones.png
   conferencista_linkedin: ""
@@ -46,7 +46,7 @@ platicas:
   conferencia_empresa: KRONES
   conferencia_fecha: 15 Abril 2024
   image_width: 200
-  image_flyer: "images/companies/flyers/krones_flayer.jpeg"
+  image_flyer: "images/companies/flyers/flyer_krones.jpeg"
 
 - conferencista_foto: images/companies/quebec.jpg
   conferencista_linkedin: ""
@@ -94,7 +94,7 @@ platicas:
   conferencia_empresa: Bosch
   conferencia_fecha: 15 Abril 2024
   image_width: 120
-  image_flyer: ""
+  image_flyer: "images/companies/flyers/flyer_bosch.jpg"
 
 - conferencista_foto: images/companies/icafluor.jpg
   conferencista_linkedin: ICA FLUOR
@@ -118,7 +118,7 @@ platicas:
   conferencia_empresa: CIMESA
   conferencia_fecha: 16 Abril 2024
   image_width: 140
-  image_flyer: ""
+  image_flyer: "images/companies/flyers/flyer_cimesa.jpg"
 
 - conferencista_foto: images/companies/zte.png
   conferencista_linkedin: Ing. Luis M. Olvera
@@ -142,6 +142,6 @@ platicas:
   conferencia_empresa: AUDI
   conferencia_fecha: 16 Abril 2024
   image_width: 100
-  image_flyer: ""
+  image_flyer: "images/companies/flyers/flyer_audi.jpg"
 
 
