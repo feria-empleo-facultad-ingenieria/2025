@@ -276,18 +276,18 @@ companies:
 #   heightStyle: height:50px
 #   column: 1
 
-- siteurl: https://www.lilly.com/latam/carrera
-  logourl: https://feria-backend-production.up.railway.app/lilly.png
-  name: Eli Lilly
-  carreras: TODAS LAS CARRERAS
-  teaser: Tu trabajo ayuda a mejorar la calidad de vida de las personas en el mundo. Cada acción genera una reacción. Un pensamiento puede fomentar la curiosidad. Un paso puede llevarte a un descubrimiento. Una idea puede mejorar la vida de millones de personas. Cada decisión que tomas está llena de posibilidades.
-  abstract: Tu trabajo ayuda a mejorar la calidad de vida de las personas en el mundo. Cada acción genera una reacción. Un pensamiento puede fomentar la curiosidad. Un paso puede llevarte a un descubrimiento. Una idea puede mejorar la vida de millones de personas. Cada decisión que tomas está llena de posibilidades.
-  stand: S/A
-  height1: 40px
-  height: 80px
-  heightStand: 60px
-  heightStyle: height:60px
-  column: 1
+# - siteurl: https://www.lilly.com/latam/carrera
+#   logourl: https://feria-backend-production.up.railway.app/lilly.png
+#   name: Eli Lilly
+#   carreras: TODAS LAS CARRERAS
+#   teaser: Tu trabajo ayuda a mejorar la calidad de vida de las personas en el mundo. Cada acción genera una reacción. Un pensamiento puede fomentar la curiosidad. Un paso puede llevarte a un descubrimiento. Una idea puede mejorar la vida de millones de personas. Cada decisión que tomas está llena de posibilidades.
+#   abstract: Tu trabajo ayuda a mejorar la calidad de vida de las personas en el mundo. Cada acción genera una reacción. Un pensamiento puede fomentar la curiosidad. Un paso puede llevarte a un descubrimiento. Una idea puede mejorar la vida de millones de personas. Cada decisión que tomas está llena de posibilidades.
+#   stand: S/A
+#   height1: 40px
+#   height: 80px
+#   heightStand: 60px
+#   heightStyle: height:60px
+#   column: 1
 
 
 - siteurl: https://www.ey.com/es_mx
@@ -535,18 +535,18 @@ companies:
   heightStyle: height:50px
   column: 2
 
-# - siteurl: https://www.indracompany.com/
-#   logourl: images/companies/indra.jpeg
-#   name: INDRA
-#   carreras: TODAS LAS CARRERAS
-#   teaser: ¡Te estamos esperando! Elige a una empresa que ha vuelto a ser certificada por Top Employer como una de las mejores empresas para trabajar de España. 
-#   abstract: ¡Te estamos esperando! Elige a una empresa que ha vuelto a ser certificada por Top Employer como una de las mejores empresas para trabajar de España. 
-#   stand: S/A
-#   height1: 40px
-#   height: 40px
-#   heightStand: 40px
-#   heightStyle: height:50px
-#   column: 2
+- siteurl: https://www.indracompany.com/
+  logourl: images/companies/indra.jpeg
+  name: INDRA
+  carreras: TODAS LAS CARRERAS
+  teaser: ¡Te estamos esperando! Elige a una empresa que ha vuelto a ser certificada por Top Employer como una de las mejores empresas para trabajar de España. 
+  abstract: ¡Te estamos esperando! Elige a una empresa que ha vuelto a ser certificada por Top Employer como una de las mejores empresas para trabajar de España. 
+  stand: S/A
+  height1: 40px
+  height: 40px
+  heightStand: 40px
+  heightStyle: height:50px
+  column: 2
 
 - siteurl: https://www.knightpiesold.com/en/
   logourl: images/companies/knightpiesold.png
