@@ -1,14 +1,14 @@
 platicas:
 
 - conferencista_foto: https://feria-backend-production.up.railway.app/feria30Jan2024.jpg
-  conferencista_linkedin: "Inauguración de la Feria del Empleo 2024"
+  conferencista_linkedin: "Inauguración de la Feria del Empleo 2025"
   conferencista_nombre: "Inauguración"
-  conferencia_nombre:  "Inauguración de la Feria del Empleo 2024"
+  conferencia_nombre:  "Inauguración de la Feria del Empleo 2025"
   conferencia_lugar: "Auditorio 'Javier Barros Sierra'"
   conferencia_hora: 10:00 – 10:15
   conferencia_abstract: "Con la presencia del Director de la Facultad"
-  conferencia_empresa: "Inauguración de la Feria 2024"
-  conferencia_fecha: 15 Abril 2024
+  conferencia_empresa: "Inauguración de la Feria 2025"
+  conferencia_fecha: 15 Abril 2025
   image_width: 130
   image_flyer: ""
 
@@ -20,7 +20,7 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  "¡Forma parte de nuestra nueva generación!"
   conferencia_empresa: FORD
-  conferencia_fecha: 15 Abril 2024
+  conferencia_fecha: 15 Abril 2025
   image_width: 130
   image_flyer: "images/companies/flyers/flyer_ford.jpeg"
 
@@ -32,7 +32,7 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: HUAWEI
-  conferencia_fecha: 15 Abril 2024
+  conferencia_fecha: 15 Abril 2025
   image_width: 80
   image_flyer: "images/companies/flyers/flyer_huawei.jpg"
 
@@ -44,7 +44,7 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  "Únete a Krones y desarrolla tu talento con nosotros"
   conferencia_empresa: KRONES
-  conferencia_fecha: 15 Abril 2024
+  conferencia_fecha: 15 Abril 2025
   image_width: 200
   image_flyer: "images/companies/flyers/flyer_krones.jpeg"
 
@@ -56,7 +56,7 @@ platicas:
   conferencia_lugar: Aula Magna
   conferencia_abstract:  "Conferencia sobre las oportunidades laborales en quebec, Canadá"
   conferencia_empresa: quebec
-  conferencia_fecha: 15 Abril 2024
+  conferencia_fecha: 15 Abril 2025
   image_width: 200
   image_flyer: "images/companies/flyers/flyer_quebec.jpg"
 
@@ -68,7 +68,7 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: FARO PROTEC
-  conferencia_fecha: 15 Abril 2024
+  conferencia_fecha: 15 Abril 2025
   image_width: 120
   image_flyer: "images/companies/flyers/flyer_faro.jpeg"
 
@@ -80,7 +80,7 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: Computrabajo
-  conferencia_fecha: 15 Abril 2024
+  conferencia_fecha: 15 Abril 2025
   image_width: 120
   image_flyer: "images/companies/flyers/flyer_computrabajo.jpeg"
 
@@ -92,7 +92,7 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: Bosch
-  conferencia_fecha: 15 Abril 2024
+  conferencia_fecha: 15 Abril 2025
   image_width: 120
   image_flyer: "images/companies/flyers/flyer_bosch.jpg"
 
@@ -104,7 +104,7 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: ICA FLUOR
-  conferencia_fecha: 16 Abril 2024
+  conferencia_fecha: 16 Abril 2025
   image_width: 130
   image_flyer: "images/companies/flyers/flyer_ica_fluor.jpeg"
 
@@ -116,7 +116,7 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: CIMESA
-  conferencia_fecha: 16 Abril 2024
+  conferencia_fecha: 16 Abril 2025
   image_width: 140
   image_flyer: "images/companies/flyers/flyer_cimesa.jpg"
 
@@ -128,7 +128,7 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  "Explorando los modelos de la IA que pontencian la red. Asiste y conoce los retos que encontrarás en ZTE"
   conferencia_empresa: ZTE
-  conferencia_fecha: 16 Abril 2024
+  conferencia_fecha: 16 Abril 2025
   image_width: 80
   image_flyer: "images/companies/flyers/flyer_zte.jpeg"
 
@@ -140,7 +140,7 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: AUDI
-  conferencia_fecha: 16 Abril 2024
+  conferencia_fecha: 16 Abril 2025
   image_width: 100
   image_flyer: "images/companies/flyers/flyer_audi.jpg"
 
