@@ -1,85 +1,85 @@
 actividades:
 - mes: ABRIL
-  dia: 15
+  dia: 28
   nombre: Inauguración de la Feria del Empleo 2025
   abstract: Con la presencia del Director de la Facultad
   hora: 10:00 - 10:15 
   lugar: Edificio principal de la Facultad de Ingeniería
   recinto: Auditorio "Javier Barros Sierra"
-- mes: ABRIL
-  dia: 15
-  nombre: FORD
-  hora: 10:00 – 12:00 
-  lugar: Auditorio
-  recinto: Auditorio "Javier Barros Sierra"
-- mes: ABRIL
-  dia: 15
-  nombre: HUAWEI
-  hora: 12:00 – 14:00 
-  lugar: Auditorio
-  recinto: Auditorio "Javier Barros Sierra"
-- mes: ABRIL
-  dia: 15
-  nombre: KRONES
-  hora: 14:00 – 15:00 
-  lugar: Auditorio
-  recinto: Auditorio "Javier Barros Sierra"
+# - mes: ABRIL
+#   dia: 28
+#   nombre: FORD
+#   hora: 10:00 – 12:00 
+#   lugar: Auditorio
+#   recinto: Auditorio "Javier Barros Sierra"
+# - mes: ABRIL
+#   dia: 28
+#   nombre: HUAWEI
+#   hora: 12:00 – 14:00 
+#   lugar: Auditorio
+#   recinto: Auditorio "Javier Barros Sierra"
+# - mes: ABRIL
+#   dia: 28
+#   nombre: KRONES
+#   hora: 14:00 – 15:00 
+#   lugar: Auditorio
+#   recinto: Auditorio "Javier Barros Sierra"
 
-- mes: ABRIL
-  dia: 15
-  nombre: Oportunidades laborales en quebec
-  hora: 14:00 – 16:00 
-  lugar: Aula Magna
-  recinto: Aula Magna
+# - mes: ABRIL
+#   dia: 28
+#   nombre: Oportunidades laborales en quebec
+#   hora: 14:00 – 16:00 
+#   lugar: Aula Magna
+#   recinto: Aula Magna
 
-- mes: ABRIL
-  dia: 15
-  nombre: FARO PROTEC
-  hora: 15:00 – 16:00 
-  lugar: Auditorio
-  recinto: Auditorio "Javier Barros Sierra"
+# - mes: ABRIL
+#   dia: 28
+#   nombre: FARO PROTEC
+#   hora: 15:00 – 16:00 
+#   lugar: Auditorio
+#   recinto: Auditorio "Javier Barros Sierra"
 
-- mes: ABRIL
-  dia: 15
-  nombre: COMPUTRABAJO
-  hora: 16:00 – 18:00 
-  lugar: Auditorio
-  recinto: Auditorio "Javier Barros Sierra"
+# - mes: ABRIL
+#   dia: 28
+#   nombre: COMPUTRABAJO
+#   hora: 16:00 – 18:00 
+#   lugar: Auditorio
+#   recinto: Auditorio "Javier Barros Sierra"
 
-- mes: ABRIL
-  dia: 15
-  nombre: Atracción de talento de Bosch
-  hora: 18:00 – 20:00 
-  lugar: Auditorio
-  recinto: Auditorio "Javier Barros Sierra"
+# - mes: ABRIL
+#   dia: 28
+#   nombre: Atracción de talento de Bosch
+#   hora: 18:00 – 20:00 
+#   lugar: Auditorio
+#   recinto: Auditorio "Javier Barros Sierra"
 
  
 
 
-- mes: ABRIL
-  dia: 16
-  nombre: ICA FLUOR
-  hora: 10:00 – 12:00 
-  lugar: Auditorio
-  recinto: Auditorio "Javier Barros Sierra"
+# - mes: ABRIL
+#   dia: 29
+#   nombre: ICA FLUOR
+#   hora: 10:00 – 12:00 
+#   lugar: Auditorio
+#   recinto: Auditorio "Javier Barros Sierra"
 
-- mes: ABRIL
-  dia: 16
-  nombre: CIMESA
-  hora: 12:00 – 14:00 
-  lugar: Auditorio
-  recinto: Auditorio "Javier Barros Sierra"
+# - mes: ABRIL
+#   dia: 29
+#   nombre: CIMESA
+#   hora: 12:00 – 14:00 
+#   lugar: Auditorio
+#   recinto: Auditorio "Javier Barros Sierra"
 
-- mes: ABRIL
-  dia: 16
-  nombre: ZTE
-  hora: 14:00 – 16:00 
-  lugar: Auditorio
-  recinto: Auditorio "Javier Barros Sierra"
+# - mes: ABRIL
+#   dia: 29
+#   nombre: ZTE
+#   hora: 14:00 – 16:00 
+#   lugar: Auditorio
+#   recinto: Auditorio "Javier Barros Sierra"
 
-- mes: ABRIL
-  dia: 16
-  nombre: AUDI
-  hora: 16:00 – 18:00 
-  lugar: Auditorio
-  recinto: Auditorio "Javier Barros Sierra"
+# - mes: ABRIL
+#   dia: 29
+#   nombre: AUDI
+#   hora: 16:00 – 18:00 
+#   lugar: Auditorio
+#   recinto: Auditorio "Javier Barros Sierra"
