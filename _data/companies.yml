@@ -523,31 +523,31 @@ companies:
 #   heightStyle: height:50px
 #   column: 2
 
-- siteurl: https://www.ica.com.mx/
-  logourl: images/companies/ica.jpeg
-  name: ICA
-  carreras: TODAS LAS CARRERAS
-  teaser: ICA es la empresa líder en construcción y operación de infraestructura en México.
-  abstract: ICA es la empresa líder en construcción y operación de infraestructura en México, fundada en 1947 y con experiencia en trece países, siete sectores y un sólido portafolio de activos. El grupo está conformado por tres divisiones y especialidades en construcción civil e industrial, concesiones y aeropuertos.
-  stand: S/A
-  height1: 30px
-  height: 50px
-  heightStand: 35px
-  heightStyle: height:50px
-  column: 2
-
-# - siteurl: https://www.icafluor.com/index.html
-#   logourl: images/companies/icafluor.jpg
-#   name: ICA Flour
+# - siteurl: https://www.ica.com.mx/
+#   logourl: images/companies/ica.jpeg
+#   name: ICA
 #   carreras: TODAS LAS CARRERAS
-#   teaser: ICA Fluor es una empresa dedicada a desarrollar la construcción de proyectos y plantas industriales, para el sector público y privado, en México, Centro América y el Caribe.
-#   abstract: ICA Fluor es el contratista IPC líder en México con servicios orientados a resultados de nivel mundial tales como; estudios de viabilidad, estudios pre-inversión, ingeniería financiera, permisos, servicios ambientales, gestión de proyectos, diseño conceptual y preliminar, procuración, construcción, puesta en marcha, transferencia y operaciones de apoyo a sus clientes.
+#   teaser: ICA es la empresa líder en construcción y operación de infraestructura en México.
+#   abstract: ICA es la empresa líder en construcción y operación de infraestructura en México, fundada en 1947 y con experiencia en trece países, siete sectores y un sólido portafolio de activos. El grupo está conformado por tres divisiones y especialidades en construcción civil e industrial, concesiones y aeropuertos.
 #   stand: S/A
-#   height1: 40px
-#   height: 80px
-#   heightStand: 40px
+#   height1: 30px
+#   height: 50px
+#   heightStand: 35px
 #   heightStyle: height:50px
 #   column: 2
+
+- siteurl: https://www.icafluor.com/index.html
+  logourl: images/companies/icafluor.jpg
+  name: ICA Flour
+  carreras: TODAS LAS CARRERAS
+  teaser: ICA Fluor es una empresa dedicada a desarrollar la construcción de proyectos y plantas industriales, para el sector público y privado, en México, Centro América y el Caribe.
+  abstract: ICA Fluor es el contratista IPC líder en México con servicios orientados a resultados de nivel mundial tales como; estudios de viabilidad, estudios pre-inversión, ingeniería financiera, permisos, servicios ambientales, gestión de proyectos, diseño conceptual y preliminar, procuración, construcción, puesta en marcha, transferencia y operaciones de apoyo a sus clientes.
+  stand: S/A
+  height1: 40px
+  height: 80px
+  heightStand: 40px
+  heightStyle: height:50px
+  column: 2
 
 # - siteurl: https://www.indracompany.com/
 #   logourl: images/companies/indra.jpeg
