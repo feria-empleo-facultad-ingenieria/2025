@@ -44,41 +44,19 @@ layout: default_newtemplate
                         <span class="calendar-day">{{ actividad.dia }}</span>
                       </div>
                       <div class="media-body position-relative pl-3">
-                        <h6 class="fs-0 mb-0"><a href="../pages/event-detail.html">{{ actividad.nombre }}</a></h6>
+                        <h6 class="fs-0 mb-0"><a href="#">{{ actividad.nombre }}</a></h6>
                         <p class="mb-1">{{ actividad.abstract }}</p>
                         <p class="text-1000 mb-0">Hora: {{ actividad.hora }}</p>
                         {% if actividad.lugar != 'a' %}
                         <p class="text-1000 mb-0">Lugar: {{ actividad.lugar }}</p>
                         {% endif%}
                         Recinto: {{ actividad.recinto }}
-                        <hr class="border-dashed border-bottom-0">
                       </div>
                     </div>
                     {% endfor %}
                 </div>
             </div>
-            <div class="col-md-6 col-sm-12">
-              <div class="card-body fs--1">
-                  {% for actividad in site.data.actividades.actividades2 %}
-                  <div class="media btn-reveal-trigger">
-                    <div class="calendar">
-                      <span class="calendar-month">{{ actividad.mes }}</span>
-                      <span class="calendar-day">{{ actividad.dia }}</span>
-                    </div>
-                    <div class="media-body position-relative pl-3">
-                      <h6 class="fs-0 mb-0"><a href="../pages/event-detail.html">{{ actividad.nombre }}</a></h6>
-                      <p class="mb-1">{{ actividad.abstract }}</p>
-                      <p class="text-1000 mb-0">Hora: {{ actividad.hora }}</p>
-                      {% if actividad.lugar != 'a' %}
-                      <p class="text-1000 mb-0">Lugar: {{ actividad.lugar }}</p>
-                      {% endif%}
-                      Recinto: {{ actividad.recinto }}
-                      <hr class="border-dashed border-bottom-0">
-                    </div>
-                  </div>
-                  {% endfor %}
-              </div>
-            </div>
+
           </div>
 
         </div>
