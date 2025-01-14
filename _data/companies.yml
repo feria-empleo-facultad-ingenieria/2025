@@ -510,18 +510,18 @@ companies:
 #   column: 2
 
 
-# - siteurl: https://home.kpmg/mx/es/home/carrera.html
-#   logourl: images/companies/KPMG.png
-#   name: KPMG
-#   carreras: TODAS LAS CARRERAS
-#   teaser: Somos una red global de firmas con profundas raíces locales, que brindamos servicios de Auditoría, Impuestos y Asesoría al mercado.
-#   abstract: Somos una red global de firmas con profundas raíces locales, que brindamos servicios de Auditoría, Impuestos y Asesoría al mercado. Ofrecemos un beneficio doble a nuestros clientes, experiencia global y un amplio conocimiento local de sus necesidades.
-#   stand: S/A
-#   height1: 25px
-#   height: 40px
-#   heightStand: 35px
-#   heightStyle: height:50px
-#   column: 2
+- siteurl: https://home.kpmg/mx/es/home/carrera.html
+  logourl: images/companies/KPMG.png
+  name: KPMG
+  carreras: TODAS LAS CARRERAS
+  teaser: Somos una red global de firmas con profundas raíces locales, que brindamos servicios de Auditoría, Impuestos y Asesoría al mercado.
+  abstract: Somos una red global de firmas con profundas raíces locales, que brindamos servicios de Auditoría, Impuestos y Asesoría al mercado. Ofrecemos un beneficio doble a nuestros clientes, experiencia global y un amplio conocimiento local de sus necesidades.
+  stand: S/A
+  height1: 25px
+  height: 40px
+  heightStand: 35px
+  heightStyle: height:50px
+  column: 2
 
 # - siteurl: https://www.ica.com.mx/
 #   logourl: images/companies/ica.jpeg
