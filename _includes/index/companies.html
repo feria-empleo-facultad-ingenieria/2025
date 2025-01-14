@@ -1,0 +1,22 @@
+<section class="aos-init aos-animate">
+  <div data-aos="fade-up">
+    <div class="row flex-md-row mb-4">
+      <div class="col-md-12 ml-auto mr-auto">
+        <h3 class="text-primary">{{ site.data.generalinfo.empresas_titulo }}</h3>
+      </div>
+      <div class="col-md-12 ml-auto mr-auto" >
+        <div class="clients-slider swiper swiper-initialized swiper-horizontal">
+          <div class="swiper-wrapper align-items-center" id="swiper-wrapper-2eeb9cabadd9643e" aria-live="off" style="transition-duration: 0ms; transform: translate3d(0px, 0px, 0px); transition-delay: 0ms;">
+            {% assign counterC = 0 %}
+            {% assign totalC = site.data.companies.companies  | size %}
+            {% for company in site.data.companies.companies %}
+            <div class="swiper-slide" role="group" aria-label="{{counterC}} / {{totalC}}" style="height: 80px !important;" data-swiper-slide-index="{{ counterC++ }}">
+              <img src="{{ company.logourl }}" style="vertical-align:middle;height:40px;" class="img-fluid" alt="">
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

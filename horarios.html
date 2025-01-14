@@ -1,8 +1,12 @@
 ---
-layout: default_feria
+layout: default_newtemplate
 ---
+
+<section>
 <div id="page" class="clearfix">
   <div class="container">
+    {% include index/about.html %} 
+    
     {% assign title01 = site.data.generalinfo.horarios_titulo_pagina  %}
     {% assign title02 = site.data.generalinfo.horarios_subtitulo_pagina %}
     {% assign title_icono = "icon-clock" %}
@@ -23,7 +27,7 @@ layout: default_feria
     {% assign link04_ref ="stands.html" %}
     {% assign link04_icono = "icon-map-marker" %}
     {% assign link04_nombre = "Stands" %}
-    {% include hexa.html %}
+    
     <div class="row no-gutters">
       <div class="col-xl-8 pr-xl-2">
         <div class="card mb-3 mb-lg-0">
@@ -83,4 +87,5 @@ layout: default_feria
     </div>
   </div>
 </div>
+</section>
     
