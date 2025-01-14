@@ -50,18 +50,18 @@ companies:
 #   heightStyle: height:50px
 #   column: 1
 
-# - siteurl: https://www.audi.com.mx/mx/web/es/audi-en-mexico/carreras.html
-#   logourl: images/companies/audi.png
-#   name: Audi
-#   carreras: TODAS LAS CARRERAS
-#   teaser: Audi offers you a modern work environment with many additional, personalized benefits, training and development options, health programs, as well as a support for your personal life and career. We incentivize young people and experienced professionals alike to 
-#   abstract: Audi offers you a modern work environment with many additional, personalized benefits, training and development options, health programs, as well as a support for your personal life and career. We incentivize young people and experienced professionals alike to contribute with their knowledge and skills in a targeted manner. Whether you are looking to start your professional journey, attend a dual university or take the next career step, Audi is a powerful partner, who gives you the flexibility you need for your personal growth.
-#   stand: S/A
-#   height1: 30px
-#   height: 60px
-#   heightStand: 50px
-#   heightStyle: height:50px
-#   column: 1
+- siteurl: https://www.audi.com.mx/mx/web/es/audi-en-mexico/carreras.html
+  logourl: images/companies/audi.png
+  name: Audi
+  carreras: TODAS LAS CARRERAS
+  teaser: Audi offers you a modern work environment with many additional, personalized benefits, training and development options, health programs, as well as a support for your personal life and career. We incentivize young people and experienced professionals alike to 
+  abstract: Audi offers you a modern work environment with many additional, personalized benefits, training and development options, health programs, as well as a support for your personal life and career. We incentivize young people and experienced professionals alike to contribute with their knowledge and skills in a targeted manner. Whether you are looking to start your professional journey, attend a dual university or take the next career step, Audi is a powerful partner, who gives you the flexibility you need for your personal growth.
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
 
 # - siteurl: https://axity.com/trabaja-con-nosotros/
 #   logourl: images/companies/axity.png
