@@ -230,7 +230,7 @@ companies:
 
 
 - siteurl: https://grupoinfra.com/
-  logourl: images/companies/cryo.jpeg
+  logourl: images/companies/cryoinfra.avif
   name: CryoInfra
   carreras: TODAS LAS CARRERAS
   teaser: Por 100 años Grupo Infra ha sido protagonista de la transformación de México
@@ -382,7 +382,7 @@ companies:
 # #   column: 1
 
 - siteurl: https://grupoinfra.com/
-  logourl: images/companies/infra.jpeg
+  logourl: images/companies/infra.webp
   name: Grupo Infra
   carreras: TODAS LAS CARRERAS
   teaser: Por 100 años Grupo Infra ha sido protagonista de la transformación de México
