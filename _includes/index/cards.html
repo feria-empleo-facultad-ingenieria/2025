@@ -3,10 +3,10 @@
 
     {% for company in site.data.companies.companies %}
     <div class="col-xs-2 col-md-2" data-aos="fade-up">
-      <div class="card mb-4 shadow-sm" style="height: 50px;">
+      <div class="card rounded-5 mb-4 shadow-sm" style="height: 50px;">
         <div class="card-body card-marcas imggrow"  >
           <a href="{{ company.siteurl }}" target="_blank" >
-            <img src="{{ company.logourl }}" alt="{{company.name}}" style="vertical-align: middle" data-bs-toggle="tooltip" height="40px" title="{{ company.teaser }}">
+            <img src="{{ company.logourl }}" alt="{{company.name}}" data-bs-toggle="tooltip" style="vertical-align: middle" height="40px" title="{{ company.teaser }}">
           </a>
         </div>
       </div>
@@ -14,4 +14,5 @@
     {% endfor %}
     
   </div>
+  
 </section>
