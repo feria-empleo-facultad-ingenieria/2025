@@ -126,6 +126,17 @@ companies:
 #   heightStyle: height:50px
 #   column: 1
 
+- siteurl: https://www.capitalone.com/tech/mexico/
+  logourl: images/companies/CapitalOne.png
+  name: Capital One
+  carreras: TODAS LAS CARRERAS
+  teaser: "The financial industry is primed for innovation—and we’re changing everything. We’re all in on artificial intelligence, machine learning and data analytics because with them we can revolutionize the financial industry and ultimately, change banking for good."
+  abstract: "The financial industry is primed for innovation—and we’re changing everything. We’re all in on artificial intelligence, machine learning and data analytics because with them we can revolutionize the financial industry and ultimately, change banking for good."   
+  stand: S/A
+  height1: 20px
+  height: 80px
+  column: 1
+
 # - siteurl: "https://www.caterpillar.com/en/careers.html"
 #   logourl: https://s7d2.scene7.com/is/image/Caterpillar/CM20220222-5c3c2-280a8?fmt=png-alpha
 #   name: "Caterpillar"
