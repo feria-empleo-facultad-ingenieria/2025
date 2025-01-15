@@ -954,18 +954,18 @@ companies:
 # #   heightStyle: height:50px
 # #   column: 2
  
-# - siteurl: https://www.zte.com.cn/global/
-#   logourl: images/companies/zte.png
-#   name: ZTE
-#   carreras: TODAS LAS CARRERAS
-#   teaser: ZTE is a world-leading comprehensive telecommunication solution 
-#   abstract: ZTE is a world-leading comprehensive telecommunication solution provider, the largest telecommunication equipment listed company, as well as a top ranking ICT solutions provider.
-#   stand: S/A
-#   height1: 20px
-#   height: 30px
-#   heightStand: 20px
-#   heightStyle: height:40px
-#   column: 2
+- siteurl: https://www.zte.com.cn/global/
+  logourl: images/companies/zte.png
+  name: ZTE
+  carreras: TODAS LAS CARRERAS
+  teaser: ZTE is a world-leading comprehensive telecommunication solution 
+  abstract: ZTE is a world-leading comprehensive telecommunication solution provider, the largest telecommunication equipment listed company, as well as a top ranking ICT solutions provider.
+  stand: S/A
+  height1: 20px
+  height: 30px
+  heightStand: 20px
+  heightStyle: height:40px
+  column: 2
 
 # - siteurl: http://www.zuma-ti.com.mx/
 #   logourl: images/companies/zuma2.webp
