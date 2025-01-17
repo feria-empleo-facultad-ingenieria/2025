@@ -710,6 +710,21 @@ companies:
 # #   height: 80px
 # #   column: 2
  
+ 
+- siteurl: https://www.pepsicojobs.com/main/?lang=es-MX
+  logourl: images/companies/pepsico.png
+  name: Pepsico
+  carreras: TODAS LAS CARRERAS
+  abstract: "¿Buscas pasantías y oportunidades de empezar tu carrera? PepsiCo es divertido, dinámico y un lugar donde puedes desarrollar tus habilidades y avanzar sin cambiar quién eres. Valoramos tus historias únicas, nuevos conjuntos de habilidades y perspectivas frescas."
+  teaser: "Desde ingeniería hasta derecho, PepsiCo invita a recién graduados y estudiantes a ayudar a definir el futuro de nuestras marcas icónicas y sus carreras."
+  stand: S/A
+  height1: 25px
+  height: 40px
+  heightStand: 30px
+  heightStyle: height:50px
+  column: 2
+ 
+
 - siteurl: http://www.pg.com/es_LATAM/MX/
   logourl: images/companies/pg.jpg
   name: Procter & Gamble
