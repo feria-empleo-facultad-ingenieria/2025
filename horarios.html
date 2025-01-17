@@ -30,10 +30,34 @@ layout: default_newtemplate
     
     <div class="row no-gutters">
       <div class="col-xl-8 pr-xl-2">
+        <!-- <div class="container">
+          <div class="row">
+            <div class="col-15 border">
+              <div class="col-md-6 col-sm-12 mb-3">
+                {% for fecha in site.data.actividades.fechas  %}
+                <h4 class="mt-0 mb-3 text-dark op-8 font-weight-bold">
+                  {{ fecha.dianombre }}, {{ fecha.dia }} de {{ fecha.mes }}
+                </h4>
+                
+                <ul class="list-timeline list-timeline-primary">
+                  {% assign filtered = site.data.actividades.actividades | where: "dia", fecha.dia  %}
+                  {% for actividad in filtered %}
+                  <li class="list-timeline-item p-0 pb-3 pb-lg-12 d-flex flex-wrap flex-column">
+                      <p class="my-0 text-dark flex-fw text-sm"><span class="text-inverse op-8"><strong>{{ actividad.hora }}</strong></span> - {{ actividad.nombre }}</p>
+                  </li>
+                  {% endfor %}
+                </ul>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+        </div> -->
+
         <div class="card mb-3 mb-lg-0">
           <div class="card-header bg-light">
             <h5 class="mb-0">Programa de Actividades</h5>
           </div>
+ 
           <div class="row">
             <div class="col-md-6 col-sm-12">
                 <div class="card-body fs--1">
@@ -56,10 +80,9 @@ layout: default_newtemplate
                     {% endfor %}
                 </div>
             </div>
-
           </div>
 
-        </div>
+        </div> 
       </div>
       {% include izquierda.html %}
     </div>

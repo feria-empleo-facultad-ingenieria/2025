@@ -289,7 +289,7 @@ companies:
 #   column: 1
 
 - siteurl: https://www.lilly.com/latam/carrera
-  logourl: https://feria-backend-production.up.railway.app/lilly.png
+  logourl: images/companies/lilly.png
   name: Eli Lilly
   carreras: TODAS LAS CARRERAS
   teaser: Tu trabajo ayuda a mejorar la calidad de vida de las personas en el mundo. Cada acción genera una reacción. Un pensamiento puede fomentar la curiosidad. Un paso puede llevarte a un descubrimiento. Una idea puede mejorar la vida de millones de personas. Cada decisión que tomas está llena de posibilidades.
@@ -303,7 +303,7 @@ companies:
 
 
 - siteurl: https://www.ey.com/es_mx
-  logourl: https://feria-backend-production.up.railway.app/ey_logo.svg
+  logourl: images/companies/ey_logo.svg
   name: Ey
   carreras: TODAS LAS CARRERAS
   teaser: "Dondequiera que el mundo laboral los lleve, la Red de EY Alumni está lista para conectarlos con las personas que necesita estar en contacto."
@@ -931,7 +931,7 @@ companies:
 #   column: 2
 
 - siteurl: "https://www.worley.com/"
-  logourl: https://feria-backend-production.up.railway.app/5d5cd299-f0d2-4936-9ac1-9da22218c783.jpg
+  logourl: images/companies/worley.jpg
   name: "Worley"
   carreras: "Todas las carreras"
   teaser: "In the face of the world’s transition to a lower carbon and distributed energy system, what does it take to make sustainable transformation a reality in energy, chemicals and resources?"

@@ -1,3 +1,14 @@
+fechas:
+- mes: Abril
+  dia: 28
+  dianombre: Lunes
+  year: 2025
+
+- mes: Abril
+  dia: 29
+  dianombre: Martes
+  year: 2025
+
 actividades:
 - mes: ABRIL
   dia: 28
@@ -6,62 +17,43 @@ actividades:
   hora: 10:00 - 10:15 
   lugar: Edificio principal de la Facultad de Ingeniería
   recinto: Auditorio "Javier Barros Sierra"
-# - mes: ABRIL
-#   dia: 28
-#   nombre: FORD
-#   hora: 10:00 – 12:00 
-#   lugar: Auditorio
-#   recinto: Auditorio "Javier Barros Sierra"
-# - mes: ABRIL
-#   dia: 28
-#   nombre: HUAWEI
-#   hora: 12:00 – 14:00 
-#   lugar: Auditorio
-#   recinto: Auditorio "Javier Barros Sierra"
-# - mes: ABRIL
-#   dia: 28
-#   nombre: KRONES
-#   hora: 14:00 – 15:00 
-#   lugar: Auditorio
-#   recinto: Auditorio "Javier Barros Sierra"
 
-# - mes: ABRIL
-#   dia: 28
-#   nombre: Oportunidades laborales en quebec
-#   hora: 14:00 – 16:00 
-#   lugar: Aula Magna
-#   recinto: Aula Magna
+- mes: ABRIL
+  dia: 28
+  nombre: FORD
+  hora: 10:00 – 12:00 
+  lugar: Auditorio
+  recinto: Auditorio "Javier Barros Sierra"
 
-# - mes: ABRIL
-#   dia: 28
-#   nombre: FARO PROTEC
-#   hora: 15:00 – 16:00 
-#   lugar: Auditorio
-#   recinto: Auditorio "Javier Barros Sierra"
+- mes: ABRIL
+  dia: 28
+  nombre: HUAWEI
+  hora: 12:00 – 14:00 
+  lugar: Auditorio
+  recinto: Auditorio "Javier Barros Sierra"
 
-# - mes: ABRIL
-#   dia: 28
-#   nombre: COMPUTRABAJO
-#   hora: 16:00 – 18:00 
-#   lugar: Auditorio
-#   recinto: Auditorio "Javier Barros Sierra"
+- mes: ABRIL
+  dia: 28
+  nombre: Grupo México
+  hora: 14:00 – 16:00 
+  lugar: Auditorio
+  recinto: Auditorio "Javier Barros Sierra"
 
-# - mes: ABRIL
-#   dia: 28
-#   nombre: Atracción de talento de Bosch
-#   hora: 18:00 – 20:00 
-#   lugar: Auditorio
-#   recinto: Auditorio "Javier Barros Sierra"
-
- 
+- mes: ABRIL
+  dia: 28
+  nombre: Audi
+  hora: 16:00 – 18:00 
+  lugar: Aula Magna
+  recinto: Aula Magna
 
 
-# - mes: ABRIL
-#   dia: 29
-#   nombre: ICA FLUOR
-#   hora: 10:00 – 12:00 
-#   lugar: Auditorio
-#   recinto: Auditorio "Javier Barros Sierra"
+
+- mes: ABRIL
+  dia: 29
+  nombre: ICA FLUOR
+  hora: 10:00 – 12:00 
+  lugar: Auditorio
+  recinto: Auditorio "Javier Barros Sierra"
 
 # - mes: ABRIL
 #   dia: 29
@@ -70,12 +62,12 @@ actividades:
 #   lugar: Auditorio
 #   recinto: Auditorio "Javier Barros Sierra"
 
-# - mes: ABRIL
-#   dia: 29
-#   nombre: ZTE
-#   hora: 14:00 – 16:00 
-#   lugar: Auditorio
-#   recinto: Auditorio "Javier Barros Sierra"
+- mes: ABRIL
+  dia: 29
+  nombre: EY
+  hora: 14:00 – 16:00 
+  lugar: Auditorio
+  recinto: Auditorio "Javier Barros Sierra"
 
 # - mes: ABRIL
 #   dia: 29
