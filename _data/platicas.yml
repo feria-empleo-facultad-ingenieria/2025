@@ -36,16 +36,7 @@ platicas:
   image_width: 80
 #   image_flyer: "images/companies/flyers/flyer_huawei.jpg"
 
-- conferencista_foto: images/companies/gmexico.svg
-  conferencista_linkedin: ""
-  conferencista_nombre: Grupo México
-  conferencia_nombre: "¡Forma parte de nuestra nueva generación!"
-  conferencia_hora: 14:00 – 16:00
-  conferencia_lugar: Auditorio "Javier Barros Sierra"
-  conferencia_abstract:  "Únete y desarrolla tu talento con nosotros"
-  conferencia_empresa: Grupo México
-  conferencia_fecha: 28 Abril 2025
-  image_width: 200
+
 #   image_flyer: "images/companies/flyers/flyer_krones.jpeg"
 
 - conferencista_foto: images/companies/audi.png
@@ -74,19 +65,18 @@ platicas:
   image_width: 130
 #   image_flyer: "images/companies/flyers/flyer_ica_fluor.jpeg"
 
-# - conferencista_foto: https://www.cimesa.net/wp-content/uploads/sites/19/2022/11/Cimesa-h.jpg
-#   conferencista_linkedin: CIMESA
-#   conferencista_nombre: CIMESA
-#   conferencia_nombre: Plática CIMESA
-#   conferencia_hora: 12:00 – 14:00
-#   conferencia_lugar: Auditorio "Javier Barros Sierra"
-#   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
-#   conferencia_empresa: CIMESA
-#   conferencia_fecha: 29 Abril 2025
-#   image_width: 140
-#   image_flyer: "images/companies/flyers/flyer_cimesa.jpg"
+- conferencista_foto: images/companies/gmexico.svg
+  conferencista_linkedin: ""
+  conferencista_nombre: Grupo México
+  conferencia_nombre: "¡Forma parte de nuestra nueva generación!"
+  conferencia_hora: 12:00 – 14:00
+  conferencia_lugar: Auditorio "Javier Barros Sierra"
+  conferencia_abstract:  "Únete y desarrolla tu talento con nosotros"
+  conferencia_empresa: Grupo México
+  conferencia_fecha: 29 Abril 2025
+  image_width: 200
 
-- conferencista_foto: images/companies/ey.png
+- conferencista_foto: images/companies/ey_logo.svg
   conferencista_linkedin: ey
   conferencista_nombre: EY
   conferencia_nombre: "Talento de la Facultad de Ingeniería"
@@ -96,18 +86,18 @@ platicas:
   conferencia_empresa: EY
   conferencia_fecha: 29 Abril 2025
   image_width: 80
-  image_flyer: "images/companies/flyers/ey.png"
+#  image_flyer: "images/companies/flyers/ey.png"
 
-# - conferencista_foto: images/companies/zte.png
-#   conferencista_linkedin: Ing. Luis M. Olvera
-#   conferencista_nombre: "Ing. Luis M. Olvera"
-#   conferencia_nombre: "Inteligencias Artificiales en las era 5G"
-#   conferencia_hora: 14:00 – 16:00
-#   conferencia_lugar: Auditorio "Javier Barros Sierra"
-#   conferencia_abstract:  "Explorando los modelos de la IA que pontencian la red. Asiste y conoce los retos que encontrarás en ZTE"
-#   conferencia_empresa: ZTE
-#   conferencia_fecha: 29 Abril 2025
-#   image_width: 80
+- conferencista_foto: images/companies/zte.png
+  conferencista_linkedin: Ing. Luis M. Olvera
+  conferencista_nombre: "Ing. Luis M. Olvera"
+  conferencia_nombre: "Inteligencias Artificiales en las era 5G"
+  conferencia_hora: 14:00 – 16:00
+  conferencia_lugar: Auditorio "Javier Barros Sierra"
+  conferencia_abstract:  "Explorando los modelos de la IA que pontencian la red. Asiste y conoce los retos que encontrarás en ZTE"
+  conferencia_empresa: ZTE
+  conferencia_fecha: 29 Abril 2025
+  image_width: 80
 #   image_flyer: "images/companies/flyers/flyer_zte.jpeg"
 
 

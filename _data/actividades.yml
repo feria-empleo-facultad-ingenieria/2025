@@ -34,13 +34,6 @@ actividades:
 
 - mes: ABRIL
   dia: 28
-  nombre: Grupo México
-  hora: 14:00 – 16:00 
-  lugar: Auditorio
-  recinto: Auditorio "Javier Barros Sierra"
-
-- mes: ABRIL
-  dia: 28
   nombre: Audi
   hora: 16:00 – 18:00 
   lugar: Aula Magna
@@ -55,12 +48,12 @@ actividades:
   lugar: Auditorio
   recinto: Auditorio "Javier Barros Sierra"
 
-# - mes: ABRIL
-#   dia: 29
-#   nombre: CIMESA
-#   hora: 12:00 – 14:00 
-#   lugar: Auditorio
-#   recinto: Auditorio "Javier Barros Sierra"
+- mes: ABRIL
+  dia: 29
+  nombre: Grupo México
+  hora: 12:00 – 14:00 
+  lugar: Auditorio
+  recinto: Auditorio "Javier Barros Sierra"
 
 - mes: ABRIL
   dia: 29
@@ -69,9 +62,9 @@ actividades:
   lugar: Auditorio
   recinto: Auditorio "Javier Barros Sierra"
 
-# - mes: ABRIL
-#   dia: 29
-#   nombre: AUDI
-#   hora: 16:00 – 18:00 
-#   lugar: Auditorio
-#   recinto: Auditorio "Javier Barros Sierra"
+- mes: ABRIL
+  dia: 29
+  nombre: ZTE
+  hora: 16:00 – 18:00 
+  lugar: Auditorio
+  recinto: Auditorio "Javier Barros Sierra"
