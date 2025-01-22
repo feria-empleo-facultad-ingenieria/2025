@@ -31,12 +31,12 @@ layout: default_newtemplate
         <div class="card-body">
           <div class="container">
             <h5 class="fs-0 mb-0">{{ site.data.generalinfo.stands_lugares }}</h5>
-            <div class="row">
+            <div class="row aos-init aos-animate ">
               {% for company in site.data.companies.companies %}
-              <div class="col-lg-6 col-md-12">
+              <div class="col-lg-6 col-md-12" data-aos="fade-right">
                 <h3>
-                  <img class="figure-img img-fluid rounded" src="{{ company.logourl}}" style="height: 50px;" alt="{{ company.name }}">
-                  <span class="badge dark">
+                  <img class="figure-img img-fluid rounded" src="{{ company.logourl}}" style="height: 30px;" alt="{{ company.name }}">
+                  <span class="badge dark border-1">
                     <a href="#" onclick="javascript:return false;" title="{{ company.name }}" data-bs-toggle="popover" data-bs-trigger="focus" data-bs-content="{{ company.abstract }}">{{ company.name  }}</a>
                   </span>
                 </h3>
