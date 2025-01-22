@@ -325,13 +325,13 @@ companies:
   column: 1
 
 - siteurl: https://www.faroprotec.com/
-  logourl: images/companies/faroprotec.png
+  logourl: images/companies/logofaro.svg
   name: Faroprotec
-  logoBanner: 40px
-  logoCard: 40px
+  logoBanner: 30px
+  logoCard: 30px
   carreras: TODAS LAS CARRERAS
-  teaser: Asegurar la continuidad de negocios mediante tecnología avanzada, asesoría honesta y servicio sobresaliente
-  abstract: Asegurar la continuidad de negocios mediante tecnología avanzada, asesoría honesta y servicio sobresaliente
+  teaser: Si quieres una carrera significativa en un ambiente dinámico de gente brillante que realmente hacen una diferencia, tenemos un lugar para ti.
+  abstract: Si quieres una carrera significativa en un ambiente dinámico de gente brillante que realmente hacen una diferencia, tenemos un lugar para ti.
   stand: S/A
   height1: 40px
   height: 60px
