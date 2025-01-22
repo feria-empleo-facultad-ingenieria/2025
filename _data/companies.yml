@@ -137,18 +137,18 @@ companies:
   height: 80px
   column: 1
 
-# - siteurl: "https://www.caterpillar.com/en/careers.html"
-#   logourl: https://s7d2.scene7.com/is/image/Caterpillar/CM20220222-5c3c2-280a8?fmt=png-alpha
-#   name: "Caterpillar"
-#   carreras: "Todas las carreras"
-#   teaser: "At Caterpillar, you build what matters—whether it’s the career you want, crucial work skills, strong relationships or new digital technologies."
-#   abstract: "At Caterpillar, you build what matters—whether it’s the career you want, crucial work skills, strong relationships or new digital technologies. There are big jobs to be done worldwide—building critical infrastructure, bolstering local economies, meeting the demand for energy—and that work is powered by our people."
-#   stand: S/A
-#   height1: 20px
-#   height: 30px
-#   heightStand: 25px
-#   heightStyle: height:30px
-#   column: 1
+- siteurl: "https://www.caterpillar.com/en/careers.html"
+  logourl: images/companies/caterpillar.png
+  name: "Caterpillar"
+  carreras: "Todas las carreras"
+  teaser: "At Caterpillar, you build what matters—whether it’s the career you want, crucial work skills, strong relationships or new digital technologies."
+  abstract: "At Caterpillar, you build what matters—whether it’s the career you want, crucial work skills, strong relationships or new digital technologies. There are big jobs to be done worldwide—building critical infrastructure, bolstering local economies, meeting the demand for energy—and that work is powered by our people."
+  stand: S/A
+  height1: 20px
+  height: 30px
+  heightStand: 25px
+  heightStyle: height:30px
+  column: 1
 
 - siteurl: http://www.ciadetalentos.com.mx/
   logourl: images/companies/cia2.jpg
