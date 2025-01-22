@@ -324,18 +324,20 @@ companies:
   heightStyle: height:90px
   column: 1
 
-# - siteurl: https://www.faroprotec.com/
-#   logourl: images/companies/faroprotec.png
-#   name: Faroprotec
-#   carreras: TODAS LAS CARRERAS
-#   teaser: Asegurar la continuidad de negocios mediante tecnología avanzada, asesoría honesta y servicio sobresaliente
-#   abstract: Asegurar la continuidad de negocios mediante tecnología avanzada, asesoría honesta y servicio sobresaliente
-#   stand: S/A
-#   height1: 40px
-#   height: 60px
-#   heightStand: 50px
-#   heightStyle: height:50px
-#   column: 1
+- siteurl: https://www.faroprotec.com/
+  logourl: images/companies/faroprotec.png
+  name: Faroprotec
+  logoBanner: 40px
+  logoCard: 40px
+  carreras: TODAS LAS CARRERAS
+  teaser: Asegurar la continuidad de negocios mediante tecnología avanzada, asesoría honesta y servicio sobresaliente
+  abstract: Asegurar la continuidad de negocios mediante tecnología avanzada, asesoría honesta y servicio sobresaliente
+  stand: S/A
+  height1: 40px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
 
 # - siteurl: https://www.emerson.com/es-mx/careers
 #   logourl: images/companies/emerson.png
