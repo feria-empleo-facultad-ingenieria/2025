@@ -13,6 +13,7 @@ actividades:
 - mes: ABRIL
   dia: 28
   nombre: Inauguración de la Feria del Empleo 2025
+  shortName: "Inauguración"
   abstract: Con la presencia del Director de la Facultad
   hora: 10:00 - 10:15 
   lugar: Edificio principal de la Facultad de Ingeniería
@@ -21,6 +22,7 @@ actividades:
 - mes: ABRIL
   dia: 28
   nombre: FORD
+  shortName: "Conferencia Ford"
   hora: 10:00 – 12:00 
   lugar: Auditorio
   recinto: Auditorio "Javier Barros Sierra"
@@ -28,6 +30,7 @@ actividades:
 - mes: ABRIL
   dia: 28
   nombre: HUAWEI
+  shortName: "Conferencia Huawei"
   hora: 12:00 – 14:00 
   lugar: Auditorio
   recinto: Auditorio "Javier Barros Sierra"
@@ -35,6 +38,7 @@ actividades:
 - mes: ABRIL
   dia: 28
   nombre: Audi
+  shortName: "Conferencia Audi"
   hora: 16:00 – 18:00 
   lugar: Aula Magna
   recinto: Aula Magna
@@ -43,7 +47,8 @@ actividades:
 
 - mes: ABRIL
   dia: 29
-  nombre: ICA FLUOR
+  nombre: "ICA FLUOR"
+  shortName: "Conferencia Ica Fluor"
   hora: 10:00 – 12:00 
   lugar: Auditorio
   recinto: Auditorio "Javier Barros Sierra"
@@ -51,6 +56,7 @@ actividades:
 - mes: ABRIL
   dia: 29
   nombre: Grupo México
+  shortName: "Conferencia Grupo México"
   hora: 12:00 – 14:00 
   lugar: Auditorio
   recinto: Auditorio "Javier Barros Sierra"
@@ -58,6 +64,7 @@ actividades:
 - mes: ABRIL
   dia: 29
   nombre: EY
+  shortName: "Conferencia Ey"
   hora: 14:00 – 16:00 
   lugar: Auditorio
   recinto: Auditorio "Javier Barros Sierra"
@@ -65,6 +72,7 @@ actividades:
 - mes: ABRIL
   dia: 29
   nombre: ZTE
+  shortName: "Conferencia ZTE"
   hora: 16:00 – 18:00 
   lugar: Auditorio
   recinto: Auditorio "Javier Barros Sierra"

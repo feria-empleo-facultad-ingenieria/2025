@@ -19,7 +19,7 @@
               {% assign filtered = site.data.actividades.actividades | where: "dia", fecha.dia  %}
               {% for actividad in filtered %}
               <li class="list-timeline-item p-0 pb-3 pb-lg-12 d-flex flex-wrap flex-column">
-                  <p class="my-0 text-dark flex-fw text-sm"><span class="text-inverse op-8"><strong>{{ actividad.hora }}</strong></span> - {{ actividad.nombre }}</p>
+                  <p class="my-0 text-dark flex-fw text-sm"><span class="text-inverse op-8"><strong>{{ actividad.hora }}</strong></span> - {{ actividad.shortName }}</p>
               </li>
               {% endfor %}
             </ul>

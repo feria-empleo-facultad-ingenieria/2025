@@ -139,6 +139,7 @@ companies:
 
 - siteurl: "https://www.caterpillar.com/en/careers.html"
   logourl: images/companies/caterpillar.png
+  logoCard: 20px
   name: "Caterpillar"
   carreras: "Todas las carreras"
   teaser: "At Caterpillar, you build what matters—whether it’s the career you want, crucial work skills, strong relationships or new digital technologies."
@@ -152,6 +153,7 @@ companies:
 
 - siteurl: http://www.ciadetalentos.com.mx/
   logourl: images/companies/cia2.jpg
+  logoCard: 60px
   name: Cia de Talentos
   carreras: TODAS LAS CARRERAS
   teaser: "Somos el Grupo Cia de Talentos, que hace más de 30 años conecta los mejores talentos a las más importantes oportunidades de toda América Latina. A lo largo de nuestra historia, atendimos a más de 2.000 empresas y facilitamos la contratación de 100.000 talentos."
@@ -192,6 +194,7 @@ companies:
 - siteurl: https://mx.computrabajo.com/
   logourl: images/companies/computra2.png
   name: Computrabajo
+  logoCard: 30px
   carreras: TODAS LAS CARRERAS
   teaser: "Si buscas trabajo ¡Computrabajo es tu mejor aliado! Miles de ofertas de empleo están esperándote, Encontrar empleo. Te ayudamos a encontrar un empleo mejor. Haz que tu currículum sea visible para miles de empresas en nuestra bolsa de trabajo"
   abstract: Publica tus ofertas en el portal de empleo con mayor audiencia en Latinoamérica.
@@ -304,6 +307,7 @@ companies:
 
 - siteurl: https://www.ey.com/es_mx
   logourl: images/companies/ey_logo.svg
+  logoCard: 50px
   name: Ey
   carreras: TODAS LAS CARRERAS
   teaser: "Dondequiera que el mundo laboral los lleve, la Red de EY Alumni está lista para conectarlos con las personas que necesita estar en contacto."
@@ -523,6 +527,7 @@ companies:
 
 - siteurl: https://home.kpmg/mx/es/home/carrera.html
   logourl: images/companies/KPMG.png
+  logoCard: 30px
   name: KPMG
   carreras: TODAS LAS CARRERAS
   teaser: Somos una red global de firmas con profundas raíces locales, que brindamos servicios de Auditoría, Impuestos y Asesoría al mercado.
@@ -601,6 +606,7 @@ companies:
 
 - siteurl: https://jobs.airavirtual.com/el_puerto_de_liverpool
   logourl: images/companies/LiverpoolColor.png
+  logoCard: 60px
   name: Liverpool
   carreras: TODAS LAS CARRERAS
   teaser: "Nuestro compromiso se centra en el bienestar de nuestros colaboradores y clientes. Somos una empresa innovadora y en constante evolución, sabemos la importancia de transformar a nuestros negocios a través de nuestros colaboradores."
@@ -614,6 +620,7 @@ companies:
 
 - siteurl: https://www.mota-engil.com/es/
   logourl: images/companies/logomotaengil.png
+  logoCard: 30px
   name: Mota-Engil
   carreras: TODAS LAS CARRERAS
   teaser: El Grupo Mota-Engil tiene un trayecto empresarial de más de 75 años, señalados por una cultura de emprendimiento e innovación en su búsqueda permanente de nuevos horizontes.
@@ -727,6 +734,7 @@ companies:
 
 - siteurl: http://www.pg.com/es_LATAM/MX/
   logourl: images/companies/pg.jpg
+  logoCard: 30px
   name: Procter & Gamble
   carreras: TODAS LAS CARRERAS
   teaser: Day 1. It’s something everyone experiences when they join a new company, whether they’re
@@ -778,6 +786,7 @@ companies:
 
 - siteurl: https://careers.slb.com/
   logourl: images/companies/slb.jpeg
+  logoCard: 60px
   name: SLB
   carreras: TODAS LAS CARRERAS
   teaser: Working at the forefront of one of the most dynamic and exciting industries offers unique opportunities to achieve incredible things and realize ambitious personal goals.
@@ -868,6 +877,7 @@ companies:
 
 - siteurl: https://www.instagram.com/unilevercareersmxrd?igsh=NjE3cWRjeWVmdG5m&utm_source=qr
   logourl: images/companies/unilever.png
+  logoCard: 60px
   name: Unilever 
   carreras: TODAS LAS CARRERAS
   teaser: "We are a team of 128,000 people – people with purpose who thrive in our unique culture and make a real and lasting difference to the planet, our society and their careers."
@@ -971,6 +981,7 @@ companies:
  
 - siteurl: https://www.zte.com.cn/global/
   logourl: images/companies/zte.png
+  logoCard: 30px
   name: ZTE
   carreras: TODAS LAS CARRERAS
   teaser: ZTE is a world-leading comprehensive telecommunication solution 
