@@ -253,6 +253,8 @@ companies:
 - siteurl: https://grupoinfra.com/
   logourl: images/companies/cryoinfra.avif
   name: CryoInfra
+  logoBanner: 30px
+  logoCard: 30px
   carreras: TODAS LAS CARRERAS
   teaser: "CRYOINFRA, empresa perteneciente al Grupo Infra, con más de 100 años en el Mercado, es el fabricante de Gases Industriales con la mayor participación de ventas en el mercado nacional, capacidad de producción, cantidad de plantas productoras y cobertura en la República Mexicana."
   abstract: Por 100 años Grupo Infra ha sido protagonista de la transformación de México. Siendo parte esencial del que hacer y del desarrollo en el sector industrial y de salud en nuestro país.
@@ -370,6 +372,8 @@ companies:
 - siteurl: https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1?utm_source=Ford+Champs&utm_medium=Linkedin&utm_id=Ford+Champs
   logourl: images/companies/ford.png
   name: Ford
+  logoBanner: 30px
+  logoCard: 30px
   carreras: TODAS LAS CARRERAS
   teaser: "You can be a part of a company that has a bias for action and has invested in real change when employees said they wanted to work differently. Experience a redesigned and remade work experience that puts health, safety, and wellness at the forefront"
   abstract: Ford Motor Company creates transportation solutions built to improve people's lives. Our innovative products, accessories, experiences, and services are designed and produced across six continents, and we are always looking to attract top talent. Join us.
@@ -408,6 +412,8 @@ companies:
 - siteurl: https://grupoinfra.com/
   logourl: images/companies/infra.webp
   name: Grupo Infra
+  logoBanner: 30px
+  logoCard: 30px
   carreras: TODAS LAS CARRERAS
   teaser: "Colaboramos con miles de clientes desde pequeños negocios hasta grandes conglomerados desde la frontera norte de nuestro país, hasta Centroamérica, con una infraestructura mayor a 30 plantas productoras de gases, más de 230 tiendas oficiales, 50 centros de llenado y más de 800 unidades de transporte"
   abstract: Por 100 años Grupo Infra ha sido protagonista de la transformación de México. Siendo parte esencial del que hacer y del desarrollo en el sector industrial y de salud en nuestro país.
