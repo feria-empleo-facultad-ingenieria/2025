@@ -62,7 +62,7 @@ companies:
   heightStand: 50px
   heightStyle: height:50px
   column: 1
-  standId: Piso 1
+  standId: ""
 
 # - siteurl: https://axity.com/trabaja-con-nosotros/
 #   logourl: images/companies/axity.png
@@ -139,7 +139,7 @@ companies:
   height1: 20px
   height: 80px
   column: 1
-  standId: "NA"
+  standId: ""
 
 - siteurl: "https://www.caterpillar.com/en/careers.html"
   logourl: images/companies/caterpillar.png
