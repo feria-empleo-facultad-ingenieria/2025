@@ -139,7 +139,7 @@ companies:
   height1: 20px
   height: 80px
   column: 1
-  standId: -
+  standId: "NA"
 
 - siteurl: "https://www.caterpillar.com/en/careers.html"
   logourl: images/companies/caterpillar.png
