@@ -36,6 +36,16 @@ platicas:
   image_width: 80
 #   image_flyer: "images/companies/flyers/flyer_huawei.jpg"
 
+- conferencista_foto: images/companies/CapitalOne.png
+  conferencista_linkedin: Capital One
+  conferencista_nombre:  Capital One
+  conferencia_nombre: Plática Capital One
+  conferencia_hora: 12:00 – 14:00
+  conferencia_lugar: Auditorio "Javier Barros Sierra"
+  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+  conferencia_empresa: HUAWEI
+  conferencia_fecha: 28 Abril 2025
+  image_width: 80
 
 #   image_flyer: "images/companies/flyers/flyer_krones.jpeg"
 

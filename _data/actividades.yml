@@ -37,6 +37,14 @@ actividades:
 
 - mes: ABRIL
   dia: 28
+  nombre: Capital One
+  shortName: "Conferencia Capital One"
+  hora: 14:00 – 16:00 
+  lugar: Auditorio
+  recinto: Auditorio "Javier Barros Sierra"
+
+- mes: ABRIL
+  dia: 28
   nombre: Audi
   shortName: "Conferencia Audi"
   hora: 16:00 – 18:00 
