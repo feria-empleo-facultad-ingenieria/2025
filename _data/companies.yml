@@ -1,16 +1,18 @@
 companies:
-# - siteurl: https://www.faroprotec.com/acadefense
-#   logourl: images/companies/acadefense.jpeg
-#   name: Acadefense
-#   carreras: TODAS LAS CARRERAS
-#   teaser: "Cuando las empresas buscan talento se fijan cada vez más en las competencias demostrables que son una ventaja competitiva al momento de buscar trabajo."
-#   abstract: "Cuando las empresas buscan talento se fijan cada vez más en las competencias demostrables que son una ventaja competitiva al momento de buscar trabajo. Cada vez más en todas las áreas, al revisar un CV en Redes Sociales y Bolsas de Trabajo como Linkedin, OCC, Indeed, Computrabajo, no es suficiente. Las empresas también buscan capacidades, habilidades y certificaciones que ya hoy constituyen una parte esencial de tu trayectoria."
-#   stand: S/A
-#   height1: 50px
-#   height: 80px
-#   heightStand: 50px
-#   heightStyle: height:60px
-#   column: 1
+- siteurl: https://www.faroprotec.com/acadefense
+  logourl: images/companies/acadefense.svg
+  name: Acadefense
+  logoBanner: 30px
+  logoCard: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Cuando las empresas buscan talento se fijan cada vez más en las competencias demostrables que son una ventaja competitiva al momento de buscar trabajo."
+  abstract: "Cuando las empresas buscan talento se fijan cada vez más en las competencias demostrables que son una ventaja competitiva al momento de buscar trabajo. Cada vez más en todas las áreas, al revisar un CV en Redes Sociales y Bolsas de Trabajo como Linkedin, OCC, Indeed, Computrabajo, no es suficiente. Las empresas también buscan capacidades, habilidades y certificaciones que ya hoy constituyen una parte esencial de tu trayectoria."
+  stand: S/A
+  height1: 50px
+  height: 80px
+  heightStand: 50px
+  heightStyle: height:60px
+  column: 1
 
 # - siteurl: https://empleo.adecco.com.mx/
 #   logourl: https://feria-backend-production.up.railway.app/adecco.jpg
@@ -808,18 +810,20 @@ companies:
 # #   heightStand: 40px
 # #   column: 2
 
-# - siteurl: https://mx.saint-gobain-glass.com/es-MX
-#   logourl: images/companies/SaintGobain.png
-#   name: Saint-Gobain
-#   carreras: TODAS LAS CARRERAS
-#   teaser: ¡Trabaja en una empresa con más de 350 años de innovación que busca construir lugares grandiosos para vivir y mejorar la vida diaria a través del confort y la sustentabilidad
-#   abstract: Creemos que las personas son protagonistas de sus carreras. Por lo tanto, el Grupo cuenta con prácticas de recursos humanos que se han construido en una cultura de respeto, apertura a la diversidad y reconocimiento del talento interno.
-#   stand: S/A
-#   height1: 40px
-#   height: 60px
-#   heightStand: 40px
-#   heightStyle: height:40px
-#   column: 2
+- siteurl: https://www.saint-gobain-sekurit.com/
+  logourl: images/companies/saint-gobain.png
+  logoCard: 50px
+  logoBanner: 50px
+  name: Saint-Gobain
+  carreras: TODAS LAS CARRERAS
+  teaser: "En Saint-Gobain Sekurit ofrecemos un camino basado en agilidad, colaboración, y nuevas tecnologías, para desarrollar sistemas adaptados a las tendencias del mercado, nuevas demandas y el futuro de la mobilidad. Serás mentoreado para diseñar tu carrera de acuerdo a tu dominio de intereses."
+  abstract: "Ofrecemos varias formas para iniciar tu carrera después de graduarte. Como una compañía internacional con presencia en más de 60 países, entrenamos a una nueva generación de ejecutivos para abordar los retos del mañana. Desde trabajar en un Centro de Investigación y Desarrollo a programas especiales de graduados, las posibilidades no tienen fin."
+  stand: S/A
+  height1: 40px
+  height: 60px
+  heightStand: 40px
+  heightStyle: height:40px
+  column: 2
 
 - siteurl: https://careers.slb.com/
   logourl: images/companies/slbrgb.svg
