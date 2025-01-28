@@ -212,6 +212,22 @@ companies:
   heightStyle: height:50px
   column: 1
 
+- siteurl: https://www.azvi.es/
+  logourl: images/companies/azvi.png
+  name: Construcciones Urales
+  logoBanner: 40px
+  logoCard: 40px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Construye una carrera de éxito con nosotros Unirse a nuestro equipo significa trabajar con personas excepcionales, cada una de las cuales es esencial para mantener nuestra cultura de empresa."
+  abstract: "Formar parte de Azvi es vincularse a una empresa centenaria, con proyectos innovadores y desafiantes, en constante expansión y que apuesta por el talento sin límites. Azvi es una empresa claramente comprometida con el empleo estable y de calidad que realiza importantes esfuerzos por mantener y mejorar las condiciones que garantizan un buen entorno laboral."
+  stand: S/A
+  height1: 25px
+  height: 50px
+  heightStand: 40px
+  heightStyle: height:50px
+  column: 1
+
+
 # - siteurl: https://www.daimlertruck.com/en
 #   logourl: images/companies/daimlertruck.png
 #   name: Daimlertruck
