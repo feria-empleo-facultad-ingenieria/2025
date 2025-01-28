@@ -1019,9 +1019,9 @@ companies:
 # #   column: 2
  
 - siteurl: https://www.zte.com.cn/global/
-  logourl: images/companies/zte.png
+  logourl: images/companies/logozte.png
   logoCard: 30px
-  logoBanner: 20px
+  logoBanner: 30px
   name: ZTE
   carreras: TODAS LAS CARRERAS
   teaser: ZTE is a world-leading comprehensive telecommunication solution 
