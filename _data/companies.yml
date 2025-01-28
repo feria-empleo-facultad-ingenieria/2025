@@ -157,9 +157,9 @@ companies:
   column: 1
 
 - siteurl: http://www.ciadetalentos.com.mx/
-  logourl: images/companies/cia2.jpg
-  logoCard: 60px
-  logoBanner: 50px
+  logourl: images/companies/ciared.png
+  logoCard: 40px
+  logoBanner: 40px
   name: Cia de Talentos
   carreras: TODAS LAS CARRERAS
   teaser: "Somos el Grupo Cia de Talentos, que hace más de 30 años conecta los mejores talentos a las más importantes oportunidades de toda América Latina. A lo largo de nuestra historia, atendimos a más de 2.000 empresas y facilitamos la contratación de 100.000 talentos."
@@ -806,8 +806,9 @@ companies:
 #   column: 2
 
 - siteurl: https://careers.slb.com/
-  logourl: images/companies/slb.jpeg
-  logoCard: 60px
+  logourl: images/companies/slbrgb.svg
+  logoCard: 40px
+  logoBanner: 40px
   name: SLB
   carreras: TODAS LAS CARRERAS
   teaser: Working at the forefront of one of the most dynamic and exciting industries offers unique opportunities to achieve incredible things and realize ambitious personal goals.
