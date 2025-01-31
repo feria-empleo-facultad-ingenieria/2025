@@ -840,18 +840,20 @@ companies:
   heightStyle: height:60px
   column: 2
  
-# - siteurl: https://schneiderele.taleo.net/careersection/2/jobsearch.ftl
-#   logourl: https://feria-backend-production.up.railway.app/schneider-logo.png
-#   name: Schneider Electric
-#   carreras: TODAS LAS CARRERAS
-#   teaser: "Innovation is our middle name. Good is never good enough, and that’s why we are constantly experimenting, taking risks and disrupting the status quo. We are always looking for people who are curious and constantly in beta mode."
-#   abstract: "Innovation is our middle name. Good is never good enough, and that’s why we are constantly experimenting, taking risks and disrupting the status quo. We are always looking for people who are curious and constantly in beta mode."
-#   stand: S/A
-#   height1: 30px
-#   height: 50px
-#   heightStand: 50px
-#   heightStyle: height:50px
-#   column: 2
+- siteurl: https://www.se.com/mx/es/about-us/careers/overview.jsp
+  logourl: images/companies/schneider.png
+  logoCard: 40px
+  logoBanner: 40px
+  name: Schneider Electric
+  carreras: TODAS LAS CARRERAS
+  teaser: "Trabajar en Schneider Electric significa trabajar para lograr un mundo mejor y más limpio. Eres parte de un equipo global creado a partir de la inclusión, maestría, propósito, acción, curiosidad y trabajo en equipo, lo que convierte las ambiciones de sostenibilidad en acciones."
+  abstract: "En Schneider Electric, todo lo que hacemos promueve el progreso y la sostenibilidad para todos: nuestros colegas, clientes, socios, y las comunidades y sociedades donde vivimos y trabajamos. Desde los productos, software y servicios que impulsan la transformación digital de la gestión y automatización de la energía hasta la ciudadanía corporativa y las actividades de voluntariado, impactamos al ayudar a las personas y organizaciones a que se vuelvan más resilientes y eficientes, y que utilicen más la electricidad y la digitalización"
+  stand: S/A
+  height1: 30px
+  height: 50px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 2
 
 # # - siteurl: http://sefi.org.mx/
 # #   logourl: images/companies/sefiazul.png
