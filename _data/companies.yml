@@ -402,6 +402,21 @@ companies:
   heightStyle: height:50px
   column: 1
 
+- siteurl: https://www.gft.com/mx/es
+  logourl: images/companies/logoGFT.png
+  name: GFT
+  logoBanner: 30px
+  logoCard: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Como líderes en transformación digital y apasionados de la innovación tecnológica, aprovechamos todo el potencial de las tecnologías de última generación para ayudar a nuestros clientes a mejorar su productividad con soluciones de software inteligentes en los ámbitos de Enterprise AI and Data, NextGen Finance y Platform Modernisation."
+  abstract: "Nuestra fuerza se basa en una dilatada experiencia y un amplio conocimiento de las tecnologías digitales, un sólido ecosistema de socios y una comprensión profunda de los sectores en los que operamos, entre ellos principalmente la banca, los seguros y la industria del automóvil. "
+  stand: S/A
+  height1: 30px
+  height: 50px
+  heightStand: 40px
+  heightStyle: height:50px
+  column: 1
+
 # # - siteurl: https://www.gm.com.mx/corporativo/empleo_gm/
 # #   logourl: images/companies/gm2.png
 # #   name: General Motors
