@@ -460,18 +460,20 @@ companies:
   heightStyle: height:110px
   column: 1
 
-# - siteurl: https://www.gmexico.com/Pages/BolsaTrabajo.aspx
-#   logourl: images/companies/gmexico.svg
-#   name: Grupo México
-#   carreras: TODAS LAS CARRERAS
-#   teaser: En Grupo México sabemos que el logro de resultados sólo se alcanza a través del capital humano, por lo que siempre buscamos atraer, desarrollar y retener al mejor talento.
-#   abstract: En Grupo México sabemos que el logro de resultados sólo se alcanza a través del capital humano, por lo que siempre buscamos atraer, desarrollar y retener al mejor talento. Consulta las oportunidades profesionales con las que contamos en los ámbitos administrativo y operativo de diversas áreas de negocio en nuestras 3 divisiones.
-#   stand: S/A
-#   height1: 40px
-#   height: 40px
-#   heightStand: 35px
-#   heightStyle: height:50px
-#   column: 2
+- siteurl: https://www.gmexico.com/Pages/BolsaTrabajo.aspx
+  logourl: images/companies/gmexico.svg
+  name: Grupo México
+  logoBanner: 30px
+  logoCard: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: En Grupo México sabemos que el logro de resultados sólo se alcanza a través del capital humano, por lo que siempre buscamos atraer, desarrollar y retener al mejor talento.
+  abstract: En Grupo México sabemos que el logro de resultados sólo se alcanza a través del capital humano, por lo que siempre buscamos atraer, desarrollar y retener al mejor talento. Consulta las oportunidades profesionales con las que contamos en los ámbitos administrativo y operativo de diversas áreas de negocio en nuestras 3 divisiones.
+  stand: S/A
+  height1: 40px
+  height: 40px
+  heightStand: 35px
+  heightStyle: height:50px
+  column: 2
 
 # - siteurl: https://www.gruposalinas.com/
 #   logourl: https://www.gruposalinas.com/Content/iconos/LogoGS-main.svg
