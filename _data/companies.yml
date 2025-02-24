@@ -845,6 +845,21 @@ companies:
   heightStyle: height:40px
   column: 2
 
+- siteurl: https://www.sw.siemens.com/es-ES/
+  logourl: images/companies/siemens.jpg
+  logoCard: 30px
+  logoBanner: 30px
+  name: Siemens
+  carreras: TODAS LAS CARRERAS
+  teaser: "Empoderamos a los trabajadores para que cada cliente se sienta empoderado con nuestra tecnología, cada partner esté equipado para colaborar y cada compañero tenga la confianza de preguntar y arriesgar."
+  abstract: "En Siemens, nos comprometemos a hacer real el futuro y tu trayectoria profesional. Formarás parte de un ecosistema diverso que no solo afecta a nuestros productos, soluciones y transformaciones digitales, sino que también marca la diferencia en comunidades de todo el mundo."
+  stand: S/A
+  height1: 40px
+  height: 60px
+  heightStand: 40px
+  heightStyle: height:40px
+  column: 2
+
 - siteurl: https://careers.slb.com/
   logourl: images/companies/slbrgb.svg
   logoCard: 40px
