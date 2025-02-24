@@ -847,8 +847,8 @@ companies:
 
 - siteurl: https://www.sw.siemens.com/es-ES/
   logourl: images/companies/siemens.jpg
-  logoCard: 30px
-  logoBanner: 30px
+  logoCard: 20px
+  logoBanner: 20px
   name: Siemens
   carreras: TODAS LAS CARRERAS
   teaser: "Empoderamos a los trabajadores para que cada cliente se sienta empoderado con nuestra tecnología, cada partner esté equipado para colaborar y cada compañero tenga la confianza de preguntar y arriesgar."
