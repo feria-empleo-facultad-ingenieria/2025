@@ -37,6 +37,14 @@ actividades:
 
 - mes: ABRIL
   dia: 28
+  nombre: Embajada de Austria
+  shortName: "Reclutamiento de embajada de Austria en México"
+  hora: 12:00 – 14:00 
+  lugar: Aula Magna
+  recinto: Aula Magna
+
+- mes: ABRIL
+  dia: 28
   nombre: Capital One
   shortName: "Conferencia Capital One"
   hora: 14:00 – 16:00 
@@ -45,12 +53,19 @@ actividades:
 
 - mes: ABRIL
   dia: 28
+  nombre: Knight
+  shortName: "Reclutamiento Knight Piesold"
+  hora: 14:00 – 16:00 
+  lugar: Aula Magna
+  recinto: Aula Magna
+
+- mes: ABRIL
+  dia: 28
   nombre: Audi
   shortName: "Conferencia Audi"
   hora: 16:00 – 18:00 
   lugar: Auditorio
   recinto: Auditorio "Javier Barros Sierra"
-
 
 
 - mes: ABRIL
@@ -68,6 +83,15 @@ actividades:
   hora: 12:00 – 14:00 
   lugar: Auditorio
   recinto: Auditorio "Javier Barros Sierra"
+
+- mes: ABRIL
+  dia: 29
+  nombre: Mota-Engil
+  shortName: "Reclutamiento Mota-Engil"
+  hora: 12:00 – 14:00 
+  lugar: Aula Magna
+  recinto: Aula Magna
+
 
 - mes: ABRIL
   dia: 29

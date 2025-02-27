@@ -846,7 +846,7 @@ companies:
   column: 2
 
 - siteurl: https://www.sw.siemens.com/es-ES/
-  logourl: images/companies/siemens.jpg
+  logourl: images/companies/siemens.png
   logoCard: 20px
   logoBanner: 20px
   name: Siemens

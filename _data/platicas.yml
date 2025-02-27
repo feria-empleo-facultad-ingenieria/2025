@@ -36,6 +36,17 @@ platicas:
   image_width: 80
 #   image_flyer: "images/companies/flyers/flyer_huawei.jpg"
 
+- conferencista_foto: images/companies/austria.jpg
+  conferencista_linkedin: Embajada Austria
+  conferencista_nombre:  Embajada Austria
+  conferencia_nombre: Reclutamiento de embajada de Austria en México
+  conferencia_hora: 12:00 – 14:00
+  conferencia_lugar: Aula Magna
+  conferencia_abstract:  Reclutamiento de embajada de Austria en México
+  conferencia_empresa: Embajada Austria
+  conferencia_fecha: 28 Abril 2025
+  image_width: 80
+
 - conferencista_foto: images/companies/CapitalOne.png
   conferencista_linkedin: Capital One
   conferencista_nombre:  Capital One
@@ -48,6 +59,17 @@ platicas:
   image_width: 80
 
 #   image_flyer: "images/companies/flyers/flyer_krones.jpeg"
+
+- conferencista_foto: images/companies/knightpiesold.png
+  conferencista_linkedin: Knight Piesold
+  conferencista_nombre:  Knight Piesold
+  conferencia_nombre: Reclutamiento Knight Piesold
+  conferencia_hora: 12:00 – 14:00
+  conferencia_lugar: Aula Magna
+  conferencia_abstract:  Reclutamiento Knight Piesold
+  conferencia_empresa: Knight Piesold
+  conferencia_fecha: 28 Abril 2025
+  image_width: 80
 
 - conferencista_foto: images/companies/audi.png
   conferencista_linkedin: AUDI
@@ -85,6 +107,17 @@ platicas:
   conferencia_empresa: Grupo México
   conferencia_fecha: 29 Abril 2025
   image_width: 200
+
+- conferencista_foto: images/companies/motaengine.png
+  conferencista_linkedin: Mota-Engil
+  conferencista_nombre:  Mota-Engil
+  conferencia_nombre: Reclutamiento Mota-Engil
+  conferencia_hora: 12:00 – 14:00
+  conferencia_lugar: Aula Magna
+  conferencia_abstract:  Reclutamiento Mota-Engil
+  conferencia_empresa: Mota-Engil
+  conferencia_fecha: 29 Abril 2025
+  image_width: 80
 
 - conferencista_foto: images/companies/ey_logo.svg
   conferencista_linkedin: ey
