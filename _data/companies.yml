@@ -675,6 +675,21 @@ companies:
   heightStyle: height:50px
   column: 2
 
+- siteurl: https://www.micron.com/about/careers
+  logourl: images/companies/micron.png
+  logoCard: 30px
+  logoBanner: 30px
+  name: Micron
+  carreras: TODAS LAS CARRERAS
+  teaser: "Interested in learning more about how we work? We are making a difference through our work, in our teams and within our communities."
+  abstract: "Whether you're a technician, an engineer or a global project leader, you'll be part of a team that develops and delivers critical memory and storage solutions. Discover a career path with Micron today."
+  stand: S/A
+  height1: 60px
+  height: 100px
+  heightStand: 70px
+  heightStyle: height:120px
+  column: 2
+
 - siteurl: https://www.mota-engil.com/es/
   logourl: images/companies/logomotaengil.png
   logoCard: 30px
