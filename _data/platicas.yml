@@ -131,6 +131,17 @@ platicas:
   image_width: 80
 #  image_flyer: "images/companies/flyers/ey.png"
 
+- conferencista_foto: images/companies/micron.png
+  conferencista_linkedin: Micron
+  conferencista_nombre:  Micron
+  conferencia_nombre: Reclutamiento Micron
+  conferencia_hora: 12:00 – 14:00
+  conferencia_lugar: Aula Magna
+  conferencia_abstract:  Reclutamiento Micron
+  conferencia_empresa: Micron
+  conferencia_fecha: 29 Abril 2025
+  image_width: 80
+
 - conferencista_foto: images/companies/zte.png
   conferencista_linkedin: Ing. Luis M. Olvera
   conferencista_nombre: "Ing. Luis M. Olvera"
