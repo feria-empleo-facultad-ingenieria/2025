@@ -10,7 +10,7 @@ platicas:
   conferencia_empresa: "Inauguración de la Feria 2025"
   conferencia_fecha: 28 Abril 2025
   image_width: 130
-  image_height: 80px
+  image_height: 70px
   image_flyer: ""
 
 - conferencista_foto: images/companies/ford.png
@@ -49,7 +49,7 @@ platicas:
   conferencia_empresa: Gerdau Corsa
   conferencia_fecha: 28 Abril 2025
   image_width: 80
-  image_height: 30px
+  image_height: 20px
 
 - conferencista_foto: images/companies/CapitalOne.png
   conferencista_linkedin: Capital One
@@ -75,7 +75,7 @@ platicas:
   conferencia_empresa: Knight Piesold
   conferencia_fecha: 28 Abril 2025
   image_width: 80
-  image_height: 50px
+  image_height: 40px
 
 - conferencista_foto: images/companies/audi.png
   conferencista_linkedin: AUDI
@@ -102,7 +102,7 @@ platicas:
   conferencia_empresa: ICA FLUOR
   conferencia_fecha: 29 Abril 2025
   image_width: 130
-  image_height: 50px
+  image_height: 40px
 #   image_flyer: "images/companies/flyers/flyer_ica_fluor.jpeg"
 
 - conferencista_foto: images/companies/gmexico.svg
@@ -152,7 +152,7 @@ platicas:
   conferencia_empresa: Micron
   conferencia_fecha: 29 Abril 2025
   image_width: 80
-  image_height: 30px
+  image_height: 20px
 
 - conferencista_foto: images/companies/zte.png
   conferencista_linkedin: Ing. Luis M. Olvera
