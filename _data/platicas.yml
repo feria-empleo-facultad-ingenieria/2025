@@ -10,6 +10,7 @@ platicas:
   conferencia_empresa: "Inauguración de la Feria 2025"
   conferencia_fecha: 28 Abril 2025
   image_width: 130
+  image_height: 80px
   image_flyer: ""
 
 - conferencista_foto: images/companies/ford.png
@@ -22,6 +23,7 @@ platicas:
   conferencia_empresa: FORD
   conferencia_fecha: 28 Abril 2025
   image_width: 130
+  image_height: 30px
 #   image_flyer: "images/companies/flyers/flyer_ford.jpeg"
 
 - conferencista_foto: images/companies/huawei_final.png
@@ -34,18 +36,20 @@ platicas:
   conferencia_empresa: HUAWEI
   conferencia_fecha: 28 Abril 2025
   image_width: 80
+  image_height: 50px
 #   image_flyer: "images/companies/flyers/flyer_huawei.jpg"
 
-- conferencista_foto: images/companies/austria.jpg
-  conferencista_linkedin: Embajada Austria
-  conferencista_nombre:  Embajada Austria
-  conferencia_nombre: Reclutamiento de embajada de Austria en México
+- conferencista_foto: images/companies/gerdau.png
+  conferencista_linkedin: Gerdau Corsa
+  conferencista_nombre:  Gerdau Corsa
+  conferencia_nombre: Reclutamiento de Gerdau Corsa
   conferencia_hora: 12:00 – 14:00
   conferencia_lugar: Aula Magna
-  conferencia_abstract:  Reclutamiento de embajada de Austria en México
-  conferencia_empresa: Embajada Austria
+  conferencia_abstract:  Reclutamiento de Gerdau Corsa
+  conferencia_empresa: Gerdau Corsa
   conferencia_fecha: 28 Abril 2025
   image_width: 80
+  image_height: 30px
 
 - conferencista_foto: images/companies/CapitalOne.png
   conferencista_linkedin: Capital One
@@ -57,6 +61,7 @@ platicas:
   conferencia_empresa: HUAWEI
   conferencia_fecha: 28 Abril 2025
   image_width: 80
+  image_height: 40px
 
 #   image_flyer: "images/companies/flyers/flyer_krones.jpeg"
 
@@ -70,6 +75,7 @@ platicas:
   conferencia_empresa: Knight Piesold
   conferencia_fecha: 28 Abril 2025
   image_width: 80
+  image_height: 50px
 
 - conferencista_foto: images/companies/audi.png
   conferencista_linkedin: AUDI
@@ -81,6 +87,7 @@ platicas:
   conferencia_empresa: AUDI
   conferencia_fecha: 28 Abril 2025
   image_width: 100
+  image_height: 50px
 #   image_flyer: "images/companies/flyers/flyer_audi.jpg"
 
 
@@ -95,6 +102,7 @@ platicas:
   conferencia_empresa: ICA FLUOR
   conferencia_fecha: 29 Abril 2025
   image_width: 130
+  image_height: 50px
 #   image_flyer: "images/companies/flyers/flyer_ica_fluor.jpeg"
 
 - conferencista_foto: images/companies/gmexico.svg
@@ -107,6 +115,7 @@ platicas:
   conferencia_empresa: Grupo México
   conferencia_fecha: 29 Abril 2025
   image_width: 200
+  image_height: 30px
 
 - conferencista_foto: images/companies/motaengine.png
   conferencista_linkedin: Mota-Engil
@@ -118,6 +127,7 @@ platicas:
   conferencia_empresa: Mota-Engil
   conferencia_fecha: 29 Abril 2025
   image_width: 80
+  image_height: 80px
 
 - conferencista_foto: images/companies/ey_logo.svg
   conferencista_linkedin: ey
@@ -129,6 +139,7 @@ platicas:
   conferencia_empresa: EY
   conferencia_fecha: 29 Abril 2025
   image_width: 80
+  image_height: 60px
 #  image_flyer: "images/companies/flyers/ey.png"
 
 - conferencista_foto: images/companies/micron.png
@@ -141,6 +152,7 @@ platicas:
   conferencia_empresa: Micron
   conferencia_fecha: 29 Abril 2025
   image_width: 80
+  image_height: 30px
 
 - conferencista_foto: images/companies/zte.png
   conferencista_linkedin: Ing. Luis M. Olvera
@@ -152,6 +164,7 @@ platicas:
   conferencia_empresa: ZTE
   conferencia_fecha: 29 Abril 2025
   image_width: 80
+  image_height: 20px
 #   image_flyer: "images/companies/flyers/flyer_zte.jpeg"
 
 
