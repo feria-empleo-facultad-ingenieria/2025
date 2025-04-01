@@ -571,6 +571,19 @@ companies:
   heightStyle: height:80px
   column: 2
 
+- siteurl: https://itw.buk.mx/trabaja-con-nosotros
+  logourl: images/companies/itw.png
+  name: ITW
+  carreras: TODAS LAS CARRERAS
+  teaser: "En ITW, cada éxito alcanzado, cada proyecto completado y cada desafío superado en equipo, se convierte en parte de la historia colectiva y de la cultura que juntos construimos. "
+  abstract: "En ITW, cada éxito alcanzado, cada proyecto completado y cada desafío superado en equipo, se convierte en parte de la historia colectiva y de la cultura que juntos construimos. "
+  stand: S/A
+  height1: 40px
+  height: 60px
+  heightStand: 60px
+  heightStyle: height:80px
+  column: 2
+
 - siteurl: https://www.keyence.com.mx/ss/careers/
   logourl: images/companies/keyence.jpg
   logoBanner: 30px
