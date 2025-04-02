@@ -55,10 +55,10 @@ platicas:
   conferencista_linkedin: Capital One
   conferencista_nombre:  Capital One
   conferencia_nombre: Plática Capital One
-  conferencia_hora: 12:00 – 14:00
+  conferencia_hora: 14:00 – 16:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
-  conferencia_empresa: HUAWEI
+  conferencia_empresa: Capital One
   conferencia_fecha: 28 Abril 2025
   image_width: 80
   image_height: 40px
@@ -146,7 +146,7 @@ platicas:
   conferencista_linkedin: Micron
   conferencista_nombre:  Micron
   conferencia_nombre: Reclutamiento Micron
-  conferencia_hora: 12:00 – 14:00
+  conferencia_hora: 14:00 – 16:00
   conferencia_lugar: Aula Magna
   conferencia_abstract:  Reclutamiento Micron
   conferencia_empresa: Micron
@@ -158,7 +158,7 @@ platicas:
   conferencista_linkedin: Ing. Luis M. Olvera
   conferencista_nombre: "Ing. Luis M. Olvera"
   conferencia_nombre: "Inteligencias Artificiales en las era 5G"
-  conferencia_hora: 14:00 – 16:00
+  conferencia_hora: 16:00 – 18:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  "Explorando los modelos de la IA que pontencian la red. Asiste y conoce los retos que encontrarás en ZTE"
   conferencia_empresa: ZTE
