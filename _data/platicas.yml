@@ -155,12 +155,12 @@ platicas:
   image_height: 20px
 
 - conferencista_foto: images/companies/zte.png
-  conferencista_linkedin: Ing. Luis M. Olvera
-  conferencista_nombre: "Ing. Luis M. Olvera"
-  conferencia_nombre: "Inteligencias Artificiales en las era 5G"
+  conferencista_linkedin: ZTE
+  conferencista_nombre: "ZTE"
+  conferencia_nombre: "Sesión de reclutamiento"
   conferencia_hora: 16:00 – 18:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
-  conferencia_abstract:  "Explorando los modelos de la IA que pontencian la red. Asiste y conoce los retos que encontrarás en ZTE"
+  conferencia_abstract:  "Sesión de reclutamiento"
   conferencia_empresa: ZTE
   conferencia_fecha: 29 Abril 2025
   image_width: 80
