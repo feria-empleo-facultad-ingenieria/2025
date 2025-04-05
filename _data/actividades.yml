@@ -67,6 +67,13 @@ actividades:
   lugar: Auditorio
   recinto: Auditorio "Javier Barros Sierra"
 
+- mes: ABRIL
+  dia: 28
+  nombre: Amazon
+  shortName: "Conferencia Amazon"
+  hora: 16:00 – 18:00 
+  lugar: Aula Magna
+  recinto: Aula Magna
 
 - mes: ABRIL
   dia: 29
@@ -116,3 +123,11 @@ actividades:
   hora: 16:00 – 18:00 
   lugar: Auditorio
   recinto: Auditorio "Javier Barros Sierra"
+
+- mes: ABRIL
+  dia: 29
+  nombre: Amazon
+  shortName: "Conferencia Amazon"
+  hora: 16:00 – 18:00 
+  lugar: Aula Magna
+  recinto: Aula Magna

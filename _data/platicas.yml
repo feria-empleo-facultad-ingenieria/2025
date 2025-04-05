@@ -90,6 +90,17 @@ platicas:
   image_height: 50px
 #   image_flyer: "images/companies/flyers/flyer_audi.jpg"
 
+- conferencista_foto: images/companies/amazon.svg
+  conferencista_linkedin: Amazon
+  conferencista_nombre:  Amazon
+  conferencia_nombre: Reclutamiento Amazon
+  conferencia_hora: 16:00 – 18:00
+  conferencia_lugar: Aula Magna
+  conferencia_abstract:  Reclutamiento Amazon
+  conferencia_empresa: Amazon
+  conferencia_fecha: 28 Abril 2025
+  image_width: 80
+  image_height: 40px
 
 
 - conferencista_foto: images/companies/icafluor.jpg
@@ -167,6 +178,18 @@ platicas:
   image_height: 20px
 #   image_flyer: "images/companies/flyers/flyer_zte.jpeg"
 
+
+- conferencista_foto: images/companies/amazon.svg
+  conferencista_linkedin: Amazon
+  conferencista_nombre:  Amazon
+  conferencia_nombre: Reclutamiento Amazon
+  conferencia_hora: 16:00 – 18:00
+  conferencia_lugar: Aula Magna
+  conferencia_abstract:  Reclutamiento Amazon
+  conferencia_empresa: Amazon
+  conferencia_fecha: 29 Abril 2025
+  image_width: 80
+  image_height: 40px
 
 
 
