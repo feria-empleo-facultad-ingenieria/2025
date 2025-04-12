@@ -336,10 +336,6 @@
     return new bootstrap.Tooltip(tooltipTriggerEl)
   })
 
-  var toolflyer_clickList = [].slice.call(document.querySelectorAll('[data-bs-toggle="flyer_click"]'))
-  var flyer_clickList = toolflyer_clickList.map(function (flyerTriggerEl) {
-    //return alert('jajaaj');
-  })
 
 
 })();

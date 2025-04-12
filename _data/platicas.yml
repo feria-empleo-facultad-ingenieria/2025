@@ -1,3 +1,32 @@
+fechas:
+- mes: Abril
+  dia: 28
+  dianombre: Lunes Auditorio "Javier Barros Sierra"
+  year: 2025
+  lugar: Auditorio
+  place_index: 1
+
+- mes: Abril
+  dia: 28
+  dianombre: Lunes Aula Magna
+  year: 2025
+  lugar: Aula
+  place_index: 2
+
+- mes: Abril
+  dia: 29
+  dianombre: Martes Auditorio "Javier Barros Sierra"
+  year: 2025
+  place_index: 1
+
+- mes: Abril
+  dia: 29
+  dianombre: Martes Aula Magna
+  year: 2025
+  place_index: 2
+
+
+
 platicas:
 
 - conferencista_foto: images/logo_feria_2025.jpeg
@@ -9,9 +38,13 @@ platicas:
   conferencia_abstract: "Con la presencia del Director de la Facultad"
   conferencia_empresa: "Inauguración de la Feria 2025"
   conferencia_fecha: 28 Abril 2025
+  mes: Abril
+  dia: 28
+  place_index: 1
   image_width: 130
   image_height: 70px
   image_flyer: ""
+
 
 - conferencista_foto: images/companies/ford.png
   conferencista_linkedin: ""
@@ -22,9 +55,12 @@ platicas:
   conferencia_abstract:  "¡Forma parte de nuestra nueva generación!"
   conferencia_empresa: FORD
   conferencia_fecha: 28 Abril 2025
+  mes: Abril
+  dia: 28
+  place_index: 1
   image_width: 130
   image_height: 30px
-#   image_flyer: "images/companies/flyers/flyer_ford.jpeg"
+  image_flyer: ""
 
 - conferencista_foto: images/companies/huawei_final.png
   conferencista_linkedin: HUAWEI
@@ -35,9 +71,12 @@ platicas:
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: HUAWEI
   conferencia_fecha: 28 Abril 2025
+  mes: Abril
+  dia: 28
+  place_index: 1
   image_width: 80
   image_height: 50px
-#   image_flyer: "images/companies/flyers/flyer_huawei.jpg"
+  image_flyer: ""
 
 - conferencista_foto: images/companies/gerdau.png
   conferencista_linkedin: Gerdau Corsa
@@ -48,8 +87,12 @@ platicas:
   conferencia_abstract:  Reclutamiento de Gerdau Corsa
   conferencia_empresa: Gerdau Corsa
   conferencia_fecha: 28 Abril 2025
+  mes: Abril
+  dia: 28
+  place_index: 2
   image_width: 80
   image_height: 20px
+  image_flyer: ""
 
 - conferencista_foto: images/companies/CapitalOne.png
   conferencista_linkedin: Capital One
@@ -60,10 +103,12 @@ platicas:
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: Capital One
   conferencia_fecha: 28 Abril 2025
+  mes: Abril
+  dia: 28
+  place_index: 1
   image_width: 80
   image_height: 40px
-
-#   image_flyer: "images/companies/flyers/flyer_krones.jpeg"
+  image_flyer: ""
 
 - conferencista_foto: images/companies/knightpiesold.png
   conferencista_linkedin: Knight Piesold
@@ -74,21 +119,28 @@ platicas:
   conferencia_abstract:  Reclutamiento Knight Piesold
   conferencia_empresa: Knight Piesold
   conferencia_fecha: 28 Abril 2025
+  mes: Abril
+  dia: 28
+  place_index: 2
   image_width: 80
   image_height: 40px
+  image_flyer: ""
 
-# - conferencista_foto: images/companies/audi.png
-#   conferencista_linkedin: AUDI
-#   conferencista_nombre:  AUDI
-#   conferencia_nombre: Plática AUDI
-#   conferencia_hora: 16:00 – 18:00
-#   conferencia_lugar: Auditorio "Javier Barros Sierra"
-#   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
-#   conferencia_empresa: AUDI
-#   conferencia_fecha: 28 Abril 2025
-#   image_width: 100
-#   image_height: 50px
-#   image_flyer: "images/companies/flyers/flyer_audi.jpg"
+- conferencista_foto: images/companies/audi.png
+  conferencista_linkedin: AUDI
+  conferencista_nombre:  AUDI
+  conferencia_nombre: Plática AUDI
+  conferencia_hora: 16:00 – 18:00
+  conferencia_lugar: Auditorio "Javier Barros Sierra"
+  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+  conferencia_empresa: AUDI
+  conferencia_fecha: 28 Abril 2025
+  mes: Abril
+  dia: 28
+  place_index: 1
+  image_width: 100
+  image_height: 50px
+  image_flyer: ""
 
 - conferencista_foto: images/companies/berman.jpeg
   conferencista_linkedin: Karla Berman
@@ -99,9 +151,13 @@ platicas:
   conferencia_abstract:  'Sobre Innovación y entrepreneurship'
   conferencia_empresa: Karla Berman
   conferencia_fecha: 28 Abril 2025
+  mes: Abril
+  dia: 28
+  place_index: 1
   image_width: 100
   image_height: 50px
-  image_flyer: "images/companies/flyers/flyer_berman.jpg"
+  image_flyer: "images/companies/flyers/flyer_berman.jpeg"
+  conferencia_mId: berman
 
 - conferencista_foto: images/companies/amazon.svg
   conferencista_linkedin: Amazon
@@ -112,8 +168,12 @@ platicas:
   conferencia_abstract:  Reclutamiento Amazon
   conferencia_empresa: Amazon
   conferencia_fecha: 28 Abril 2025
+  mes: Abril
+  dia: 28
+  place_index: 2
   image_width: 80
   image_height: 40px
+  image_flyer: ""
 
 
 - conferencista_foto: images/companies/icafluor.jpg
@@ -125,9 +185,13 @@ platicas:
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: ICA FLUOR
   conferencia_fecha: 29 Abril 2025
+  mes: Abril
+  dia: 29
+  place_index: 1
   image_width: 130
   image_height: 40px
-#   image_flyer: "images/companies/flyers/flyer_ica_fluor.jpeg"
+  image_flyer: "images/companies/flyers/flyer_ica_fluor.jpg"
+  conferencia_mId: icafluor
 
 - conferencista_foto: images/companies/gmexico.svg
   conferencista_linkedin: ""
@@ -138,8 +202,12 @@ platicas:
   conferencia_abstract:  "Únete y desarrolla tu talento con nosotros"
   conferencia_empresa: Grupo México
   conferencia_fecha: 29 Abril 2025
+  mes: Abril
+  dia: 29
+  place_index: 1
   image_width: 200
   image_height: 30px
+  image_flyer: ""
 
 - conferencista_foto: images/companies/motaengine.png
   conferencista_linkedin: Mota-Engil
@@ -150,8 +218,12 @@ platicas:
   conferencia_abstract:  Reclutamiento Mota-Engil
   conferencia_empresa: Mota-Engil
   conferencia_fecha: 29 Abril 2025
+  mes: Abril
+  dia: 29
+  place_index: 2
   image_width: 80
   image_height: 80px
+  image_flyer: ""
 
 - conferencista_foto: images/companies/ey_logo.svg
   conferencista_linkedin: ey
@@ -162,9 +234,12 @@ platicas:
   conferencia_abstract:  "Forma parte de nuestra nueva generación!"
   conferencia_empresa: EY
   conferencia_fecha: 29 Abril 2025
+  mes: Abril
+  dia: 29
+  place_index: 1
   image_width: 80
   image_height: 60px
-#  image_flyer: "images/companies/flyers/ey.png"
+  image_flyer: ""
 
 - conferencista_foto: images/companies/micron.png
   conferencista_linkedin: Micron
@@ -175,8 +250,12 @@ platicas:
   conferencia_abstract:  Reclutamiento Micron
   conferencia_empresa: Micron
   conferencia_fecha: 29 Abril 2025
+  mes: Abril
+  dia: 29
+  place_index: 2
   image_width: 80
   image_height: 20px
+  image_flyer: ""
 
 - conferencista_foto: images/companies/zte.png
   conferencista_linkedin: ZTE
@@ -187,9 +266,12 @@ platicas:
   conferencia_abstract:  "Sesión de reclutamiento"
   conferencia_empresa: ZTE
   conferencia_fecha: 29 Abril 2025
+  mes: Abril
+  dia: 29
+  place_index: 1
   image_width: 80
   image_height: 20px
-#   image_flyer: "images/companies/flyers/flyer_zte.jpeg"
+  image_flyer: ""
 
 
 - conferencista_foto: images/companies/amazon.svg
@@ -201,8 +283,12 @@ platicas:
   conferencia_abstract:  Reclutamiento Amazon
   conferencia_empresa: Amazon
   conferencia_fecha: 29 Abril 2025
+  mes: Abril
+  dia: 29
+  place_index: 2
   image_width: 80
   image_height: 40px
+  image_flyer: ""
 
 
 
