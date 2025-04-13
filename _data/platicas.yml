@@ -1,28 +1,30 @@
 fechas:
 - mes: Abril
   dia: 28
-  dianombre: Lunes Auditorio "Javier Barros Sierra"
+  dianombre: Lunes
   year: 2025
-  lugar: Auditorio
+  lugar: Auditorio "Javier Barros Sierra"
   place_index: 1
 
 - mes: Abril
   dia: 28
-  dianombre: Lunes Aula Magna
+  dianombre: Lunes
   year: 2025
-  lugar: Aula
+  lugar: Aula Magna
   place_index: 2
 
 - mes: Abril
   dia: 29
-  dianombre: Martes Auditorio "Javier Barros Sierra"
+  dianombre: Martes
   year: 2025
+  lugar: Auditorio "Javier Barros Sierra"
   place_index: 1
 
 - mes: Abril
   dia: 29
-  dianombre: Martes Aula Magna
+  dianombre: Martes
   year: 2025
+  lugar: Aula Magna
   place_index: 2
 
 
@@ -155,7 +157,7 @@ platicas:
   dia: 28
   place_index: 1
   image_width: 100
-  image_height: 50px
+  image_height: 30px
   image_flyer: "images/companies/flyers/flyer_berman.jpeg"
   conferencia_mId: berman
 

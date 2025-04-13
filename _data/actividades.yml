@@ -1,28 +1,30 @@
 fechas:
 - mes: Abril
   dia: 28
-  dianombre: Lunes Auditorio
+  dianombre: Lunes
   year: 2025
-  lugar: Auditorio
+  lugar: Auditorio "Javier Barros Sierra"
   place_index: 1
 
 - mes: Abril
   dia: 28
-  dianombre: Lunes Aula Magna
+  dianombre: Lunes
   year: 2025
-  lugar: Aula
+  lugar: Aula Magna
   place_index: 2
 
 - mes: Abril
   dia: 29
-  dianombre: Martes Auditorio
+  dianombre: Martes
   year: 2025
+  lugar: Auditorio "Javier Barros Sierra"
   place_index: 1
 
 - mes: Abril
   dia: 29
-  dianombre: Martes Aula Magna
+  dianombre: Martes
   year: 2025
+  lugar: Aula Magna
   place_index: 2
 
 actividades:
