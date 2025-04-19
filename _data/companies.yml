@@ -109,18 +109,20 @@ companies:
 #   height: 80px
 #   column: 1
 
-# - siteurl: https://www.bosch.com.mx/carreras/
-#   logourl: https://feria-backend-production.up.railway.app/bosh.jpg
-#   name: Bosh
-#   carreras: TODAS LAS CARRERAS
-#   teaser: "En Bosch, te cuidamos. Nos importas tú, nuestro negocio y nuestro entorno.  Nuestra promesa para nuestros asociados es sólida: crecemos juntos, disfrutamos nuestro trabajo y nos inspiramos el uno al otro. Únete y siente la diferencia."
-#   abstract: "En Bosch, te cuidamos. Nos importas tú, nuestro negocio y nuestro entorno.  Nuestra promesa para nuestros asociados es sólida: crecemos juntos, disfrutamos nuestro trabajo y nos inspiramos el uno al otro. Únete y siente la diferencia."
-#   stand: S/A
-#   height1: 18px
-#   height: 30px
-#   heightStand: 25px
-#   heightStyle: height:35px
-#   column: 1
+- siteurl: https://www.bosch.com.mx/carreras/
+  logourl: images/companies/bosch.svg
+  name: Bosh
+  logoCard: 30px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "En Bosch, te cuidamos. Nos importas tú, nuestro negocio y nuestro entorno.  Nuestra promesa para nuestros asociados es sólida: crecemos juntos, disfrutamos nuestro trabajo y nos inspiramos el uno al otro. Únete y siente la diferencia."
+  abstract: "En Bosch, te cuidamos. Nos importas tú, nuestro negocio y nuestro entorno.  Nuestra promesa para nuestros asociados es sólida: crecemos juntos, disfrutamos nuestro trabajo y nos inspiramos el uno al otro. Únete y siente la diferencia."
+  stand: S/A
+  height1: 18px
+  height: 30px
+  heightStand: 25px
+  heightStyle: height:35px
+  column: 1
 
 # - siteurl: https://bosonit.com/
 #   logourl: https://feria-backend-production.up.railway.app/Bosonit.svg

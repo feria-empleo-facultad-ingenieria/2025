@@ -157,7 +157,7 @@ platicas:
   dia: 28
   place_index: 1
   image_width: 100
-  image_height: 30px
+  image_height: 0px
   image_flyer: "images/companies/flyers/flyer_berman.jpeg"
   conferencia_mId: berman
 
